@@ -24,5 +24,5 @@ Imagen mela:
 
 ![Texto melo plox](https://github.com/dfcastanedat/JustPPC/blob/master/monda.png)
 
-<img src="https://github.com/dfcastanedat/JustPPC/blob/master/Mia%20Khalifa%20GIF-source.gif" alt="PLOX">
+<img src="https://github.com/dfcastanedat/JustPPC/blob/master/Gif%20Saltarin.gif" alt="Boing.">
 
