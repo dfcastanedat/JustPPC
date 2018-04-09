@@ -1,5 +1,6 @@
 # PPC-Quotes
 
+![Texto melo plox](https://github.com/dfcastanedat/JustPPC/blob/master/20171201_135943.jpg)
 <img src="https://github.com/dfcastanedat/JustPPC/blob/master/Gif%20Saltarin.gif" alt="Boing.">
 
 Extracurricular, frases características que generaron bullying.
