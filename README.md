@@ -21,3 +21,6 @@ Extracurricular, frases características que generaron bullying.
 Imagen mela:
 
 ![Texto melo plox](https://github.com/dfcastanedat/JustPPC/blob/master/FrEsA_En_La_CaBEZAAAAAAAAa.jpg)
+
+<img src="https://github.com/dfcastanedat/JustPPC/blob/master/Mia%20Khalifa%20GIF-source.gif" alt="PLOX">
+
