@@ -17,3 +17,7 @@ Extracurricular, frases características que generaron bullying.
 
 🔥🔥😂😂👌👌Mafe (Mafe)😤😤👌👌🔥🔥
 
+Imagen mela:
+
+![Texto melo plox](https://github.com/dfcastanedat/JustPPC/blob/master/FrEsA_En_La_CaBEZAAAAAAAAa.jpg)
+
