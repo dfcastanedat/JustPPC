@@ -3,6 +3,8 @@ Extracurricular, frases características que generaron bullying.
 
 🔥🔥😂😂👌👌Danicas (BaretoMan)😤😤👌👌🔥🔥
 
+🔥🔥😂😂👌👌Agüelito (Sebasp3)😤😤👌👌🔥🔥
+
 🔥🔥😂😂👌👌BCrro (ShinKanSen)😤😤👌👌🔥🔥
 
 🔥🔥😂😂👌👌Dieguischa (Lameloide)😤😤👌👌🔥🔥
