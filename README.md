@@ -1,4 +1,7 @@
 # PPC-Quotes
+
+<img src="https://github.com/dfcastanedat/JustPPC/blob/master/Gif%20Saltarin.gif" alt="Boing.">
+
 Extracurricular, frases características que generaron bullying.
 
 🔥🔥😂😂👌👌Danicas (BaretoMan)😤😤👌👌🔥🔥
@@ -22,7 +25,7 @@ Imagen mela:
 
 ![Texto melo plox](https://github.com/dfcastanedat/JustPPC/blob/master/FrEsA_En_La_CaBEZAAAAAAAAa.jpg)
 
-<img src="https://github.com/dfcastanedat/JustPPC/blob/master/Gif%20Saltarin.gif" alt="Boing.">
-
 ![Texto melo plox](https://github.com/dfcastanedat/JustPPC/blob/master/monda.png)
+
+
 
