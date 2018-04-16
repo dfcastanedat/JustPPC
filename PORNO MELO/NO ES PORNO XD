@@ -1,3 +1,5 @@
+# PLOX: https://www.ics.uci.edu/~eppstein/161/python/closestpair.py
+
 import math
 
 def square(x):
