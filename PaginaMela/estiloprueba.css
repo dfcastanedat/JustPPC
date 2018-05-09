@@ -1,0 +1,69 @@
+h1{
+    background: lightsteelblue;
+    color: black;
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+    background: lightsteelblue;
+    color: black;
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.background{
+    background: aliceblue;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.botonesmelos a button{
+    width: 170px;
+    height: 60px;
+    color: black;
+    background: white;
+    border-color: black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: bisque;
+    display: inline-block;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    margin-bottom: 10px;
+}
+
+.botonesmelos a button:hover{
+    color: black;
+    background: lightsteelblue;
+}
+
+.imagen1{
+    padding-top: 20px;
+}
+
+.deshabilitado a button{
+    opacity: 0.6;
+    cursor: not-allowed;
+    width: 170px;
+    height: 60px;
+    color: black;
+    background: white;
+    border-color: black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: bisque;
+    display: inline-block;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    margin-bottom: 10px;
+}
+
+.tablita a td, th, tr{
+    border: black solid !important;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    align-self: center!important;
+}
