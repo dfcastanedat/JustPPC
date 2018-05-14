@@ -1,0 +1,516 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "xyye-rtrs",
+      "name" : "NHoodNameCentroids",
+      "averageRating" : 0,
+      "createdAt" : 1365528012,
+      "displayType" : "geoRows",
+      "downloadCount" : 2187,
+      "hideFromCatalog" : false,
+      "hideFromDataJson" : false,
+      "indexUpdatedAt" : 1484941963,
+      "newBackend" : true,
+      "numberOfComments" : 0,
+      "oid" : 15699813,
+      "provenance" : "community",
+      "publicationAppendEnabled" : false,
+      "publicationGroup" : 6258719,
+      "publicationStage" : "published",
+      "tableId" : 6258719,
+      "totalTimesRated" : 0,
+      "viewCount" : 21,
+      "viewLastModified" : 1472596136,
+      "viewType" : "tabular",
+      "childViews" : [ "" ],
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { },
+        "flags" : [ "hidden" ]
+      }, {
+        "id" : 234833274,
+        "name" : "OBJECTID",
+        "dataTypeName" : "number",
+        "fieldName" : "objectid",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 33432353,
+        "format" : { }
+      }, {
+        "id" : 234833271,
+        "name" : "the_geom",
+        "dataTypeName" : "point",
+        "fieldName" : "the_geom",
+        "position" : 1,
+        "renderTypeName" : "point",
+        "tableColumnId" : 33432350,
+        "format" : { }
+      }, {
+        "id" : 234833278,
+        "name" : "Name",
+        "dataTypeName" : "text",
+        "fieldName" : "name",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33432357,
+        "format" : { }
+      }, {
+        "id" : 234833281,
+        "name" : "Stacked",
+        "dataTypeName" : "number",
+        "fieldName" : "stacked",
+        "position" : 3,
+        "renderTypeName" : "number",
+        "tableColumnId" : 33432360,
+        "format" : { }
+      }, {
+        "id" : 234833284,
+        "name" : "AnnoLine1",
+        "dataTypeName" : "text",
+        "fieldName" : "annoline1",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33432363,
+        "format" : { }
+      }, {
+        "id" : 234833289,
+        "name" : "AnnoLine2",
+        "dataTypeName" : "text",
+        "fieldName" : "annoline2",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33432368,
+        "format" : { }
+      }, {
+        "id" : 234833295,
+        "name" : "AnnoLine3",
+        "dataTypeName" : "text",
+        "fieldName" : "annoline3",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33432374,
+        "format" : { }
+      }, {
+        "id" : 234833300,
+        "name" : "AnnoAngle",
+        "dataTypeName" : "number",
+        "fieldName" : "annoangle",
+        "position" : 7,
+        "renderTypeName" : "number",
+        "tableColumnId" : 33432379,
+        "format" : { }
+      }, {
+        "id" : 234833304,
+        "name" : "Borough",
+        "dataTypeName" : "text",
+        "fieldName" : "borough",
+        "position" : 8,
+        "renderTypeName" : "text",
+        "tableColumnId" : 33432383,
+        "format" : { }
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "geo" : {
+          "parentUid" : "99bc-9p23",
+          "isNbe" : true
+        }
+      },
+      "owner" : {
+        "id" : "qy85-itiy",
+        "displayName" : "gneuhaus",
+        "profileImageUrlLarge" : "/api/users/qy85-itiy/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/qy85-itiy/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/qy85-itiy/profile_images/TINY",
+        "screenName" : "gneuhaus",
+        "type" : "interactive",
+        "flags" : [ "communityMember" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "qy85-itiy",
+        "displayName" : "gneuhaus",
+        "profileImageUrlLarge" : "/api/users/qy85-itiy/profile_images/LARGE",
+        "profileImageUrlMedium" : "/api/users/qy85-itiy/profile_images/THUMB",
+        "profileImageUrlSmall" : "/api/users/qy85-itiy/profile_images/TINY",
+        "screenName" : "gneuhaus",
+        "type" : "interactive",
+        "flags" : [ "communityMember" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ "row-7q9n-adg4_xvee", "00000000-0000-0000-BC1E-0359B8CD43D9", 0, 1450726363, null, 1450726363, null, "{ }", "1", "POINT (-73.8472005205491 40.89470517661004)", "Wakefield", "1", "Wakefield", "", "", "0.0", "Bronx" ]
+  , [ "row-s456-uyfi_n9s7", "00000000-0000-0000-20BE-C45ADF984BA3", 0, 1450726363, null, 1450726363, null, "{ }", "2", "POINT (-73.82993910812405 40.87429419303015)", "Co-op City", "2", "Co-op", "City", "", "0.0", "Bronx" ]
+  , [ "row-u3k6_dcav_ttga", "00000000-0000-0000-087B-F1F6EE4D2211", 0, 1450726363, null, 1450726363, null, "{ }", "3", "POINT (-73.82780644716419 40.88755567735082)", "Eastchester", "1", "Eastchester", "", "", "0.0", "Bronx" ]
+  , [ "row-j32v_q7hh_s8s2", "00000000-0000-0000-B14B-8407E1F6A6A4", 0, 1450726363, null, 1450726363, null, "{ }", "4", "POINT (-73.90564259591689 40.895437426903875)", "Fieldston", "1", "Fieldston", "", "", "0.0", "Bronx" ]
+  , [ "row-ieni.97rx~mxs8", "00000000-0000-0000-B4BB-60991CBABE96", 0, 1450726363, null, 1450726363, null, "{ }", "5", "POINT (-73.91258546108577 40.89083449389134)", "Riverdale", "1", "Riverdale", "", "", "0.0", "Bronx" ]
+  , [ "row-trix_8ybz-8h9e", "00000000-0000-0000-2A91-72A5ADB3E3FA", 0, 1450726363, null, 1450726363, null, "{ }", "6", "POINT (-73.90281798724611 40.88168737120525)", "Kingsbridge", "1", "Kingsbridge", "", "", "0.0", "Bronx" ]
+  , [ "row-cx7g_5dfe_2bg5", "00000000-0000-0000-7D01-5FA4F836CD94", 0, 1450726363, null, 1450726363, null, "{ }", "7", "POINT (-73.91065965862988 40.87655077879968)", "Marble Hill", "2", "Marble", "Hill", "", "0.0", "Manhattan" ]
+  , [ "row-jidv_6gem.g9ep", "00000000-0000-0000-E3D2-930963CDFC2D", 0, 1450726363, null, 1450726363, null, "{ }", "8", "POINT (-73.86731496814183 40.898272612138086)", "Woodlawn", "1", "Woodlawn", "", "", "0.0", "Bronx" ]
+  , [ "row-kzfd~mr7v~4zcw", "00000000-0000-0000-2EB0-0DB26CF75219", 0, 1450726363, null, 1450726363, null, "{ }", "9", "POINT (-73.87939073956817 40.877224155994504)", "Norwood", "1", "Norwood", "", "", "0.0", "Bronx" ]
+  , [ "row-hkgb-m2q7.48b5", "00000000-0000-0000-F64D-8CDEEDE06DA2", 0, 1450726363, null, 1450726363, null, "{ }", "10", "POINT (-73.85744642974214 40.88103887819214)", "Williamsbridge", "1", "Williamsbridge", "", "", "0.0", "Bronx" ]
+  , [ "row-a84d.xkfd-cxys", "00000000-0000-0000-9424-AA7497071FBF", 0, 1450726363, null, 1450726363, null, "{ }", "11", "POINT (-73.83579759808124 40.86685810725274)", "Baychester", "1", "Baychester", "", "", "0.0", "Bronx" ]
+  , [ "row-7w6g~3ipa-ntmv", "00000000-0000-0000-C8BC-D4CBEA02E066", 0, 1450726363, null, 1450726363, null, "{ }", "12", "POINT (-73.85475564018006 40.85741349808869)", "Pelham Parkway", "1", "Pelham Parkway", "", "", "0.0", "Bronx" ]
+  , [ "row-ybcg-5hav.64ta", "00000000-0000-0000-964A-EB69707567B1", 0, 1450726363, null, 1450726363, null, "{ }", "13", "POINT (-73.7864884526742 40.84724670491817)", "City Island", "2", "City", "Island", "", "0.0", "Bronx" ]
+  , [ "row-tqwr-4vbf_j2qi", "00000000-0000-0000-57F1-7DE91B6FE6AB", 0, 1450726363, null, 1450726363, null, "{ }", "14", "POINT (-73.88551218419137 40.87018516497537)", "Bedford Park", "2", "Bedford", "Park", "", "0.0", "Bronx" ]
+  , [ "row-xnux-fdxv_rvip", "00000000-0000-0000-7C9A-9862398B7C95", 0, 1450726363, null, 1450726363, null, "{ }", "15", "POINT (-73.91041596191317 40.85572707719668)", "University Heights", "2", "University", "Heights", "", "0.0", "Bronx" ]
+  , [ "row-yhrs-kkhi~q78a", "00000000-0000-0000-BF50-7A2BA13FA100", 0, 1450726363, null, 1450726363, null, "{ }", "16", "POINT (-73.91967159119572 40.84789792606274)", "Morris Heights", "2", "Morris", "Heights", "", "0.0", "Bronx" ]
+  , [ "row-62pg~r5ma.sh5e", "00000000-0000-0000-FB55-7892486B5456", 0, 1450726363, null, 1450726363, null, "{ }", "17", "POINT (-73.8964265598163 40.86099679638657)", "Fordham", "1", "Fordham", "", "", "0.0", "Bronx" ]
+  , [ "row-a4tz.buhs_paan", "00000000-0000-0000-90E4-98FE09EAC9F1", 0, 1450726363, null, 1450726363, null, "{ }", "18", "POINT (-73.88735617532345 40.84269615786057)", "East Tremont", "2", "East", "Tremont", "", "0.0", "Bronx" ]
+  , [ "row-wzb6.d3k9-bjht", "00000000-0000-0000-890B-958F1C01BFFB", 0, 1450726363, null, 1450726363, null, "{ }", "19", "POINT (-73.87774474910552 40.83947505672657)", "West Farms", "2", "West", "Farms", "", "0.0", "Bronx" ]
+  , [ "row-rby5-6zdr~3f3t", "00000000-0000-0000-7C91-56C36EC9BAB1", 0, 1450726363, null, 1450726363, null, "{ }", "20", "POINT (-73.92610209358138 40.8366230107061)", "High  Bridge", "2", "High", "Bridge", "", "0.0", "Bronx" ]
+  , [ "row-phxy-8j26_rzxv", "00000000-0000-0000-B1F5-0A6BB3825F99", 0, 1450726363, null, 1450726363, null, "{ }", "21", "POINT (-73.90942160757443 40.81975437059498)", "Melrose", "1", "Melrose", "", "", "0.0", "Bronx" ]
+  , [ "row-x6ep-ksh2-rajk", "00000000-0000-0000-163C-889A57F28FE7", 0, 1450726363, null, 1450726363, null, "{ }", "22", "POINT (-73.91609987487583 40.80623874935181)", "Mott Haven", "1", "Mott Haven", "", "", "0.0", "Bronx" ]
+  , [ "row-jmeb_yni6_tgza", "00000000-0000-0000-B8F4-1CB533BC859B", 0, 1450726363, null, 1450726363, null, "{ }", "23", "POINT (-73.91322139386142 40.80166362775625)", "Port Morris", "2", "Port", "Morris", "", "0.0", "Bronx" ]
+  , [ "row-xyhh~hsjf_i343", "00000000-0000-0000-0DBF-20D2FFCAA41C", 0, 1450726363, null, 1450726363, null, "{ }", "24", "POINT (-73.89578820094466 40.815099045458254)", "Longwood", "1", "Longwood", "", "", "0.0", "Bronx" ]
+  , [ "row-j88c~dzwr-mhd8", "00000000-0000-0000-952B-7733CFD620F6", 0, 1450726363, null, 1450726363, null, "{ }", "25", "POINT (-73.88331505955298 40.809729879387135)", "Hunts Point", "2", "Hunts", "Point", "", "0.0", "Bronx" ]
+  , [ "row-k952-q9rf.khmu", "00000000-0000-0000-E4A0-3B0E18F71CF2", 0, 1450726363, null, 1450726363, null, "{ }", "26", "POINT (-73.90150648943066 40.82359198585537)", "Morrisania", "1", "Morrisania", "", "", "0.0", "Bronx" ]
+  , [ "row-snip_qn39_94rm", "00000000-0000-0000-928B-E5B450DC7D91", 0, 1450726363, null, 1450726363, null, "{ }", "27", "POINT (-73.86574609554933 40.82101219791406)", "Soundview", "1", "Soundview", "", "", "0.0", "Bronx" ]
+  , [ "row-scck~cprs~mjwb", "00000000-0000-0000-9612-ACB1F11764E8", 0, 1450726363, null, 1450726363, null, "{ }", "28", "POINT (-73.85414416189273 40.806551120035934)", "Clason Point", "2", "Clason", "Point", "", "0.0", "Bronx" ]
+  , [ "row-3gpg.ur58.78gc", "00000000-0000-0000-B284-EC168D62891A", 0, 1450726363, null, 1450726363, null, "{ }", "29", "POINT (-73.8163500215845 40.815109258040096)", "Throgs Neck", "1", "Throgs Neck", "", "", "0.0", "Bronx" ]
+  , [ "row-kwrf_9nck-fhwf", "00000000-0000-0000-8565-F5DE7253B87D", 0, 1450726363, null, 1450726363, null, "{ }", "30", "POINT (-73.82409926753857 40.84424593694742)", "Country Club", "2", "Country", "Club", "", "0.0", "Bronx" ]
+  , [ "row-2rnr-d4d3-5q2h", "00000000-0000-0000-A287-7D48CDDC9CF1", 0, 1450726363, null, 1450726363, null, "{ }", "31", "POINT (-73.8560031053579 40.83793782226733)", "Parkchester", "1", "Parkchester", "", "", "0.0", "Bronx" ]
+  , [ "row-tir7~hn63_8hcq", "00000000-0000-0000-1132-7C1F852A5E9B", 0, 1450726363, null, 1450726363, null, "{ }", "32", "POINT (-73.8421940760445 40.840619496432744)", "Westchester Square", "2", "Westchester", "Square", "", "0.0", "Bronx" ]
+  , [ "row-ugez.ckfd~jawe", "00000000-0000-0000-23F8-2C168CF313A7", 0, 1450726363, null, 1450726363, null, "{ }", "33", "POINT (-73.86629918075617 40.84360847124722)", "Van Nest", "2", "Van", "Nest", "", "0.0", "Bronx" ]
+  , [ "row-memu.t4ut.ausr", "00000000-0000-0000-C477-8756D9FBF065", 0, 1450726363, null, 1450726363, null, "{ }", "34", "POINT (-73.85040178030428 40.84754906353638)", "Morris Park", "1", "Morris Park", "", "", "0.0", "Bronx" ]
+  , [ "row-ubg6_syjn-vn3z", "00000000-0000-0000-7B7B-74B7D2B546A3", 0, 1450726363, null, 1450726363, null, "{ }", "35", "POINT (-73.88845196134812 40.85727710073898)", "Belmont", "1", "Belmont", "", "", "0.0", "Bronx" ]
+  , [ "row-5rxz.8cu9~2pd3", "00000000-0000-0000-9F55-79092F7C67CB", 0, 1450726363, null, 1450726363, null, "{ }", "36", "POINT (-73.917190482104 40.8813949772709)", "Spuyten Duyvil", "2", "Spuyten", "Duyvil", "", "0.0", "Bronx" ]
+  , [ "row-iipb_37pd_56yn", "00000000-0000-0000-A07C-40FDED805BD7", 0, 1450726363, null, 1450726363, null, "{ }", "37", "POINT (-73.90453054908934 40.9085428295067)", "North Riverdale", "2", "North", "Riverdale", "", "0.0", "Bronx" ]
+  , [ "row-zj3i_agg8.knnb", "00000000-0000-0000-2F81-4F00263536B2", 0, 1450726363, null, 1450726363, null, "{ }", "38", "POINT (-73.83207378240478 40.85064140940339)", "Pelham Bay", "2", "Pelham", "Bay", "", "0.0", "Bronx" ]
+  , [ "row-pueg_x9zp_cbe2", "00000000-0000-0000-2C22-9D41AE84DA91", 0, 1450726363, null, 1450726363, null, "{ }", "39", "POINT (-73.82620275994081 40.82657951686926)", "Schuylerville", "1", "Schuylerville", "", "", "0.0", "Bronx" ]
+  , [ "row-umkd-pskf-cry4", "00000000-0000-0000-4C97-1C80E8DF8094", 0, 1450726363, null, 1450726363, null, "{ }", "40", "POINT (-73.81388514428627 40.82198611816354)", "Edgewater Park", "2", "Edgewater", "Park", "", "0.0", "Bronx" ]
+  , [ "row-tksz-zim5-gnmc", "00000000-0000-0000-2BBF-01C3C0B9DE86", 0, 1450726363, null, 1450726363, null, "{ }", "41", "POINT (-73.84802729582742 40.81901437698835)", "Castle Hill", "2", "Castle", "Hill", "", "0.0", "Bronx" ]
+  , [ "row-ek6r.6gas_znnq", "00000000-0000-0000-8898-4364CF207BA0", 0, 1450726363, null, 1450726363, null, "{ }", "42", "POINT (-73.86332361652784 40.87137078192375)", "Olinville", "1", "Olinville", "", "", "0.0", "Bronx" ]
+  , [ "row-v5ix.t3rx_qiz7", "00000000-0000-0000-5406-42B6E548F35A", 0, 1450726363, null, 1450726363, null, "{ }", "43", "POINT (-73.8416119483123 40.862965624780024)", "Pelham Gardens", "2", "Pelham", "Gardens", "", "0.0", "Bronx" ]
+  , [ "row-ymm9_j6tg.w3av", "00000000-0000-0000-8790-28C3CA90F765", 0, 1450726363, null, 1450726363, null, "{ }", "44", "POINT (-73.91558941773451 40.834283807338544)", "Concourse", "1", "Concourse", "", "", "0.0", "Bronx" ]
+  , [ "row-7ff8_7xu4~nif4", "00000000-0000-0000-ADC1-9315BBCF903C", 0, 1450726363, null, 1450726363, null, "{ }", "45", "POINT (-73.85053524451942 40.82977429787165)", "Unionport", "1", "Unionport", "", "", "0.0", "Bronx" ]
+  , [ "row-t7ms-cpuv-aumq", "00000000-0000-0000-22CD-6FA12FA4D819", 0, 1450726363, null, 1450726363, null, "{ }", "46", "POINT (-73.84808271877175 40.88456130303736)", "Edenwald", "1", "Edenwald", "", "", "0.0", "Bronx" ]
+  , [ "row-v2tx_56rz~gkpt", "00000000-0000-0000-73EA-8EE302DE378A", 0, 1450726363, null, 1450726363, null, "{ }", "47", "POINT (-74.03062069353821 40.62580106501069)", "Bay Ridge", "1", "Bay Ridge", "", "", "0.0", "Brooklyn" ]
+  , [ "row-xycz.y6pp_y9bm", "00000000-0000-0000-3CEE-546D3AF3865D", 0, 1450726363, null, 1450726363, null, "{ }", "48", "POINT (-73.99517998380736 40.61100890202048)", "Bensonhurst", "1", "Bensonhurst", "", "", "0.0", "Brooklyn" ]
+  , [ "row-v7cj-au6q-3bhq", "00000000-0000-0000-E7A5-BFC77D1CD8C1", 0, 1450726363, null, 1450726363, null, "{ }", "49", "POINT (-74.01031618527792 40.64510294925433)", "Sunset Park", "2", "Sunset", "Park", "", "0.0", "Brooklyn" ]
+  , [ "row-5h6i~g7pk_pm5z", "00000000-0000-0000-E9CE-34FF3E0C15C7", 0, 1450726363, null, 1450726363, null, "{ }", "50", "POINT (-73.954240931274 40.730200984864744)", "Greenpoint", "1", "Greenpoint", "", "", "0.0", "Brooklyn" ]
+  , [ "row-ygrr-kbyw~sun9", "00000000-0000-0000-A920-46D6EE0A36D3", 0, 1450726363, null, 1450726363, null, "{ }", "51", "POINT (-73.97347087708452 40.59526001306597)", "Gravesend", "1", "Gravesend", "", "", "0.0", "Brooklyn" ]
+  , [ "row-h3c8.5mmx~6jnu", "00000000-0000-0000-CAE1-76BCF9E7882F", 0, 1450726363, null, 1450726363, null, "{ }", "52", "POINT (-73.96509448785343 40.576825065666085)", "Brighton Beach", "2", "Brighton", "Beach", "", "0.0", "Brooklyn" ]
+  , [ "row-eiq2_2ehe.crwj", "00000000-0000-0000-4B4A-AB8EECE493EC", 0, 1450726363, null, 1450726363, null, "{ }", "53", "POINT (-73.94318640482987 40.58689012678388)", "Sheepshead Bay", "2", "Sheepshead", "Bay", "", "0.0", "Brooklyn" ]
+  , [ "row-d7rj.3gyu-t8ps", "00000000-0000-0000-FA71-5FA7E8A73502", 0, 1450726363, null, 1450726363, null, "{ }", "54", "POINT (-73.95743840559946 40.61443251335102)", "Manhattan Terrace", "2", "Manhattan", "Terrace", "", "0.0", "Brooklyn" ]
+  , [ "row-gyru.fv3f.k35k", "00000000-0000-0000-0498-6AEA889B34AA", 0, 1450726363, null, 1450726363, null, "{ }", "55", "POINT (-73.95840106533912 40.63632589026681)", "Flatbush", "1", "Flatbush", "", "", "0.0", "Brooklyn" ]
+  , [ "row-fvpt.izhb.euy8", "00000000-0000-0000-C196-AD3B02194E75", 0, 1450726363, null, 1450726363, null, "{ }", "56", "POINT (-73.9432911907359 40.67082917695298)", "Crown Heights", "2", "Crown", "Heights", "", "0.0", "Brooklyn" ]
+  , [ "row-rqgh_vu9q~ub3n", "00000000-0000-0000-0E6F-7D55274E3DC0", 0, 1450726363, null, 1450726363, null, "{ }", "57", "POINT (-73.93610256185843 40.64171776668965)", "East Flatbush", "1", "East Flatbush", "", "", "0.0", "Brooklyn" ]
+  , [ "row-pkb4.44gv_rr82", "00000000-0000-0000-E1DA-650867E3E521", 0, 1450726363, null, 1450726363, null, "{ }", "58", "POINT (-73.98042110559481 40.64238195800357)", "Kensington", "1", "Kensington", "", "", "0.0", "Brooklyn" ]
+  , [ "row-vyqv-cb8v~n92q", "00000000-0000-0000-0F5A-620EC61A20E9", 0, 1450726363, null, 1450726363, null, "{ }", "59", "POINT (-73.98007340430179 40.65694583575108)", "Windsor Terrace", "2", "Windsor", "Terrace", "", "0.0", "Brooklyn" ]
+  , [ "row-km4k.qeub~w4sr", "00000000-0000-0000-D187-C10894B8FCC0", 0, 1450726363, null, 1450726363, null, "{ }", "60", "POINT (-73.96485924262697 40.67682226225477)", "Prospect Heights", "2", "Prospect", "Heights", "", "0.0", "Brooklyn" ]
+  , [ "row-xggx-9esc~nucb", "00000000-0000-0000-3B5B-D7E53992A0B5", 0, 1450726363, null, 1450726363, null, "{ }", "61", "POINT (-73.91023536176615 40.66394994339758)", "Brownsville", "1", "Brownsville", "", "", "0.0", "Brooklyn" ]
+  , [ "row-ygrw~hi5z_b9ys", "00000000-0000-0000-6CF4-A7B7890E6325", 0, 1450726363, null, 1450726363, null, "{ }", "62", "POINT (-73.95811529220936 40.70714439344255)", "Williamsburg", "1", "Williamsburg", "", "", "0.0", "Brooklyn" ]
+  , [ "row-pfvx-q9va_p743", "00000000-0000-0000-4A96-6810EA390AC5", 0, 1450726363, null, 1450726363, null, "{ }", "63", "POINT (-73.92525797487053 40.69811611017905)", "Bushwick", "1", "Bushwick", "", "", "0.0", "Brooklyn" ]
+  , [ "row-9t2a_bt2y_8r8t", "00000000-0000-0000-1A24-9C9E0AA75EB9", 0, 1450726363, null, 1450726363, null, "{ }", "64", "POINT (-73.94178488690304 40.6872316077205)", "Bedford Stuyvesant", "1", "Bedford Stuyvesant", "", "", "0.0", "Brooklyn" ]
+  , [ "row-a4jk.ckz8~v2ik", "00000000-0000-0000-CD36-3DDFA19027B8", 0, 1450726363, null, 1450726363, null, "{ }", "65", "POINT (-73.99378225496432 40.69586372272413)", "Brooklyn Heights", "2", "Brooklyn", "Heights", "", "0.0", "Brooklyn" ]
+  , [ "row-qj5x-mnn6_szsz", "00000000-0000-0000-61D1-66B52642DFEB", 0, 1450726363, null, 1450726363, null, "{ }", "66", "POINT (-73.9985613921847 40.68791972248561)", "Cobble Hill", "2", "Cobble", "Hill", "", "0.0", "Brooklyn" ]
+  , [ "row-4pnx-a9yb.tnb9", "00000000-0000-0000-B510-EA61547AD576", 0, 1450726363, null, 1450726363, null, "{ }", "67", "POINT (-74.00037274122076 40.68213188564184)", "Carroll Gardens", "2", "Carroll", "Gardens", "", "0.0", "Brooklyn" ]
+  , [ "row-bamm_kqdy_wqt9", "00000000-0000-0000-3921-7F17A13D4486", 0, 1450726363, null, 1450726363, null, "{ }", "68", "POINT (-74.01275897473568 40.67625323025092)", "Red Hook", "2", "Red", "Hook", "", "0.0", "Brooklyn" ]
+  , [ "row-uec4_68t8_6pfi", "00000000-0000-0000-8DE5-9B3F99CFFE9A", 0, 1450726363, null, 1450726363, null, "{ }", "69", "POINT (-73.99444087145346 40.6739311431872)", "Gowanus", "1", "Gowanus", "", "", "0.0", "Brooklyn" ]
+  , [ "row-5n3p_nqp2_mi2k", "00000000-0000-0000-8043-9F29D7DCDB44", 0, 1450726363, null, 1450726363, null, "{ }", "70", "POINT (-73.97290574369099 40.688527260189815)", "Fort Greene", "2", "Fort", "Greene", "", "0.0", "Brooklyn" ]
+  , [ "row-z3q8~qy34.gqz8", "00000000-0000-0000-72AE-19E6CFAB14E3", 0, 1450726363, null, 1450726363, null, "{ }", "71", "POINT (-73.97705030183931 40.672320522682014)", "Park Slope", "2", "Park", "Slope", "", "0.0", "Brooklyn" ]
+  , [ "row-hwed.a294~jk5e", "00000000-0000-0000-707F-2FDC746EC4F5", 0, 1450726363, null, 1450726363, null, "{ }", "72", "POINT (-73.87583132262635 40.6846357939163)", "Cypress Hills", "2", "Cypress", "Hills", "", "0.0", "Brooklyn" ]
+  , [ "row-n64e~dbjq.qk37", "00000000-0000-0000-192A-76761C3D90DA", 0, 1450726363, null, 1450726363, null, "{ }", "73", "POINT (-73.88069863917373 40.66992570084708)", "East New York", "1", "East New York", "", "", "0.0", "Brooklyn" ]
+  , [ "row-ipsw~7piy-gbyr", "00000000-0000-0000-D7C2-829A41A4E528", 0, 1450726363, null, 1450726363, null, "{ }", "74", "POINT (-73.87936970045882 40.64758905230878)", "Starrett City", "2", "Starrett", "City", "", "0.0", "Brooklyn" ]
+  , [ "row-dtgu_jqke-amrq", "00000000-0000-0000-FBF5-00CC15CBC1AD", 0, 1450726363, null, 1450726363, null, "{ }", "75", "POINT (-73.90209269778973 40.63556432797432)", "Canarsie", "1", "Canarsie", "", "", "0.0", "Brooklyn" ]
+  , [ "row-edpk_49fn_fqzf", "00000000-0000-0000-B3BD-D30CD6E79B1C", 0, 1450726363, null, 1450726363, null, "{ }", "76", "POINT (-73.92911302644681 40.6304460437575)", "Flatlands", "1", "Flatlands", "", "", "0.0", "Brooklyn" ]
+  , [ "row-dz9j.wtjp-yqcz", "00000000-0000-0000-5087-CA359DAF2941", 0, 1450726363, null, 1450726363, null, "{ }", "77", "POINT (-73.90818571777432 40.60633642168567)", "Mill Island", "2", "Mill", "Island", "", "0.0", "Brooklyn" ]
+  , [ "row-bdf7-r66f.c9iz", "00000000-0000-0000-A646-54A21229445D", 0, 1450726363, null, 1450726363, null, "{ }", "78", "POINT (-73.94353722891894 40.57791350308661)", "Manhattan Beach", "2", "Manhattan", "Beach", "", "0.0", "Brooklyn" ]
+  , [ "row-qznu_f5bc.n757", "00000000-0000-0000-2D09-5EA30B85D566", 0, 1450726363, null, 1450726363, null, "{ }", "79", "POINT (-73.98868295821644 40.57429256471605)", "Coney Island", "1", "Coney Island", "", "", "0.0", "Brooklyn" ]
+  , [ "row-vntw_tfi9.d6c2", "00000000-0000-0000-2AF3-BF1D1CBBD8DD", 0, 1450726363, null, 1450726363, null, "{ }", "80", "POINT (-73.99875221443526 40.599518702822415)", "Bath Beach", "2", "Bath", "Beach", "", "0.0", "Brooklyn" ]
+  , [ "row-7ea4_53p4~4q2m", "00000000-0000-0000-C856-8193A63DEE13", 0, 1450726363, null, 1450726363, null, "{ }", "81", "POINT (-73.99049823044818 40.63313051275805)", "Borough Park", "2", "Borough", "Park", "", "0.0", "Brooklyn" ]
+  , [ "row-mxsm-nybk_42qt", "00000000-0000-0000-668D-67CEB49F79D0", 0, 1450726363, null, 1450726363, null, "{ }", "82", "POINT (-74.01931375636029 40.61921945772268)", "Dyker Heights", "2", "Dyker", "Heights", "", "0.0", "Brooklyn" ]
+  , [ "row-894q~xgrk.ctit", "00000000-0000-0000-F8A4-1182CF7308B6", 0, 1450726363, null, 1450726363, null, "{ }", "83", "POINT (-73.93010170691203 40.59084843390208)", "Gerritsen Beach", "2", "Gerritsen", "Beach", "", "0.0", "Brooklyn" ]
+  , [ "row-gkew_t2qy-tv5e", "00000000-0000-0000-72C7-95F652C4E142", 0, 1450726363, null, 1450726363, null, "{ }", "84", "POINT (-73.93134404108504 40.60974777989464)", "Marine Park", "1", "Marine Park", "", "", "0.0", "Brooklyn" ]
+  , [ "row-deu7.5iby_mphh", "00000000-0000-0000-DF7C-FFF0251E05E6", 0, 1450726363, null, 1450726363, null, "{ }", "85", "POINT (-73.96784306216374 40.69322942188155)", "Clinton Hill", "2", "Clinton", "Hill", "", "0.0", "Brooklyn" ]
+  , [ "row-tsk3_v57b~agcs", "00000000-0000-0000-52D4-7B1BB58C0C4B", 0, 1450726363, null, 1450726363, null, "{ }", "86", "POINT (-74.00787311200247 40.576375378902284)", "Sea Gate", "2", "Sea", "Gate", "", "0.0", "Brooklyn" ]
+  , [ "row-4zms.bnc6~g8bw", "00000000-0000-0000-4A1D-86DAA22F1240", 0, 1450726363, null, 1450726363, null, "{ }", "87", "POINT (-73.98346337431106 40.69084402109806)", "Downtown", "2", "Down-", "town", "", "0.0", "Brooklyn" ]
+  , [ "row-9z69~rpu5.nb5c", "00000000-0000-0000-CA1A-F5FF386D8578", 0, 1450726363, null, 1450726363, null, "{ }", "88", "POINT (-73.98357724689187 40.687241380657376)", "Boerum Hill", "2", "Boerum", "Hill", "", "0.0", "Brooklyn" ]
+  , [ "row-q44m~trrh_ii4p", "00000000-0000-0000-DAD2-7DF64C1C35D9", 0, 1450726363, null, 1450726363, null, "{ }", "89", "POINT (-73.9548986707772 40.65842001746986)", "Prospect Lefferts Gardens", "3", "Prospect", "Lefferts", "Gardens", "0.0", "Brooklyn" ]
+  , [ "row-d6hb~yyxj.va5t", "00000000-0000-0000-7722-9F2D892FEBF6", 0, 1450726363, null, 1450726363, null, "{ }", "90", "POINT (-73.91306831787404 40.6784025547954)", "Ocean Hill", "2", "Ocean", "Hill", "", "0.0", "Brooklyn" ]
+  , [ "row-sdkp_cz9v.chzg", "00000000-0000-0000-BB38-48262E84B120", 0, 1450726363, null, 1450726363, null, "{ }", "91", "POINT (-73.86797598081343 40.678569957274824)", "City Line", "2", "City", "Line", "", "0.0", "Brooklyn" ]
+  , [ "row-e9zd_tn8y.ahaz", "00000000-0000-0000-DE51-736B69516A18", 0, 1450726363, null, 1450726363, null, "{ }", "92", "POINT (-73.89855633630324 40.615149550453125)", "Bergen Beach", "2", "Bergen", "Beach", "", "0.0", "Brooklyn" ]
+  , [ "row-arxt.5ir9-egpf", "00000000-0000-0000-F654-65CAC066F843", 0, 1450726363, null, 1450726363, null, "{ }", "93", "POINT (-73.95759523489846 40.62559589869847)", "Midwood", "1", "Midwood", "", "", "0.0", "Brooklyn" ]
+  , [ "row-6mwk.mw2s_r58x", "00000000-0000-0000-D09B-E3B8C738DADE", 0, 1450726363, null, 1450726363, null, "{ }", "94", "POINT (-73.96261316716055 40.64700860318523)", "Prospect Park South", "2", "Prospect", "Park South", "", "0.0", "Brooklyn" ]
+  , [ "row-q2kw.i54z.7pyi", "00000000-0000-0000-614C-5BD13966AE48", 0, 1450726363, null, 1450726363, null, "{ }", "95", "POINT (-73.91607483951331 40.623845244784235)", "Georgetown", "1", "Georgetown", "", "", "0.0", "Brooklyn" ]
+  , [ "row-dpny-mxvb~nzbq", "00000000-0000-0000-553F-53848B9123F6", 0, 1450726363, null, 1450726363, null, "{ }", "96", "POINT (-73.86998779106547 40.65713927658277)", "Spring Creek", "2", "Spring", "Creek", "", "0.0", "Brooklyn" ]
+  , [ "row-uc97_k3uc-xbxg", "00000000-0000-0000-EB7A-A3CD759FC13B", 0, 1450726363, null, 1450726363, null, "{ }", "97", "POINT (-73.93885815269203 40.70849241041552)", "East Williamsburg", "2", "East", "Williamsburg", "", "0.0", "Brooklyn" ]
+  , [ "row-7zqr.biz7_vzbs", "00000000-0000-0000-5AB6-84D3EF6C2EFF", 0, 1450726363, null, 1450726363, null, "{ }", "98", "POINT (-73.95880857587589 40.714822906532056)", "North Side", "1", "North Side", "", "", "0.0", "Brooklyn" ]
+  , [ "row-7uhf~uhax.apjx", "00000000-0000-0000-C5BC-8C4F77D303CC", 0, 1450726363, null, 1450726363, null, "{ }", "99", "POINT (-73.95800095153338 40.710861472650684)", "South Side", "1", "South Side", "", "", "0.0", "Brooklyn" ]
+  , [ "row-8xd9~azay-ukyi", "00000000-0000-0000-E0ED-989B374FBFDC", 0, 1450726363, null, 1450726363, null, "{ }", "100", "POINT (-73.97164435527614 40.698790872180545)", "Navy Yard", "2", "Navy", "Yard", "", "0.0", "Brooklyn" ]
+  , [ "row-tuy2_kx39_gmpd", "00000000-0000-0000-32BD-BD73530D588D", 0, 1450726363, null, 1450726363, null, "{ }", "101", "POINT (-73.96836678035548 40.61305976667946)", "Ocean Parkway", "2", "Ocean", "Parkway", "", "0.0", "Brooklyn" ]
+  , [ "row-s2jm_bkcx_6hya", "00000000-0000-0000-62F2-8888C45FF8AD", 0, 1450726363, null, 1450726363, null, "{ }", "102", "POINT (-74.0319791453799 40.6147681269423)", "Fort Hamilton", "2", "Fort", "Hamilton", "", "0.0", "Brooklyn" ]
+  , [ "row-7f7f.gn66_53cc", "00000000-0000-0000-9662-346E67BA0C47", 0, 1450726363, null, 1450726363, null, "{ }", "103", "POINT (-73.99427936255985 40.715618422314364)", "Chinatown", "1", "Chinatown", "", "", "0.0", "Manhattan" ]
+  , [ "row-fann~xnhm-yr7a", "00000000-0000-0000-238D-6DB3673AA9EB", 0, 1450726363, null, 1450726363, null, "{ }", "104", "POINT (-73.93690027985242 40.85190252555309)", "Washington Heights", "2", "Washington", "Heights", "", "0.0", "Manhattan" ]
+  , [ "row-qjtv~yjds~nmac", "00000000-0000-0000-E84F-0C79D30D9412", 0, 1450726363, null, 1450726363, null, "{ }", "105", "POINT (-73.92121042203905 40.86768396449919)", "Inwood", "1", "Inwood", "", "", "0.0", "Manhattan" ]
+  , [ "row-37av~wzzb_zg2z", "00000000-0000-0000-AF86-5AD2B323DA8D", 0, 1450726363, null, 1450726363, null, "{ }", "106", "POINT (-73.94968791883373 40.82360428481197)", "Hamilton Heights", "2", "Hamilton", "Heights", "", "0.0", "Manhattan" ]
+  , [ "row-xqy3.vsyc~iuub", "00000000-0000-0000-5430-3A9E397960B7", 0, 1450726363, null, 1450726363, null, "{ }", "107", "POINT (-73.95738539351888 40.81693442949784)", "Manhattanville", "2", "Manhattanville", "", "", "0.0", "Manhattan" ]
+  , [ "row-qh99_v6wi_73z3", "00000000-0000-0000-520B-589B1C554A7C", 0, 1450726363, null, 1450726363, null, "{ }", "108", "POINT (-73.94321112603912 40.81597606742418)", "Central Harlem", "2", "Central", "Harlem", "", "0.0", "Manhattan" ]
+  , [ "row-cnad-gnc6.ru9v", "00000000-0000-0000-B70F-DF67A15B4F97", 0, 1450726363, null, 1450726363, null, "{ }", "109", "POINT (-73.94418223148531 40.79224946663037)", "East Harlem", "2", "East", "Harlem", "", "0.0", "Manhattan" ]
+  , [ "row-eaw5_z5za-ifx2", "00000000-0000-0000-EC75-7B9C155C6FCC", 0, 1450726363, null, 1450726363, null, "{ }", "110", "POINT (-73.96050763135007 40.77563857330185)", "Upper East Side", "3", "Upper", "East", "Side", "0.0", "Manhattan" ]
+  , [ "row-tj66-d2tq_asb2", "00000000-0000-0000-A73C-B70FF68E6441", 0, 1450726363, null, 1450726363, null, "{ }", "111", "POINT (-73.94711784471833 40.77592984988492)", "Yorkville", "2", "York-", "ville", "", "0.0", "Manhattan" ]
+  , [ "row-p8wa.7tve.eym9", "00000000-0000-0000-CD54-72D3633ED57F", 0, 1450726363, null, 1450726363, null, "{ }", "112", "POINT (-73.95885968813766 40.76811265828737)", "Lenox Hill", "2", "Lenox", "Hill", "", "0.0", "Manhattan" ]
+  , [ "row-ebyi~pg9s-dska", "00000000-0000-0000-97FA-0ADC14D93FD3", 0, 1450726363, null, 1450726363, null, "{ }", "113", "POINT (-73.9494705736962 40.762403730702246)", "Roosevelt Island", "1", "Roosevelt Island", "", "", "56.0", "Manhattan" ]
+  , [ "row-u8fa_wiw3-rvq7", "00000000-0000-0000-DFB8-FD8245C048CE", 0, 1450726363, null, 1450726363, null, "{ }", "114", "POINT (-73.9770592363061 40.7876579985349)", "Upper West Side", "3", "Upper", "West", "Side", "0.0", "Manhattan" ]
+  , [ "row-akcm-bfcu.i3h5", "00000000-0000-0000-7343-217C892891AF", 0, 1450726363, null, 1450726363, null, "{ }", "115", "POINT (-73.9853377700127 40.773528889421705)", "Lincoln Square", "2", "Lincoln", "Square", "", "0.0", "Manhattan" ]
+  , [ "row-9e42_4c8g_93ee", "00000000-0000-0000-CB1E-FCD562000B5C", 0, 1450726363, null, 1450726363, null, "{ }", "116", "POINT (-73.99640768221386 40.758333686906404)", "Clinton", "1", "Clinton", "", "", "0.0", "Manhattan" ]
+  , [ "row-bgvm.arkx_zyw5", "00000000-0000-0000-1E51-D41852948069", 0, 1450726363, null, 1450726363, null, "{ }", "117", "POINT (-73.98166882730311 40.75469110270627)", "Midtown", "1", "Midtown", "", "", "0.0", "Manhattan" ]
+  , [ "row-hkbw~2r2d-2biv", "00000000-0000-0000-7007-F1E281254099", 0, 1450726363, null, 1450726363, null, "{ }", "118", "POINT (-73.97833207924134 40.74830307725222)", "Murray Hill", "2", "Murray", "Hill", "", "0.0", "Manhattan" ]
+  , [ "row-dbus_iubn.6szi", "00000000-0000-0000-0EB8-7AF1679EB786", 0, 1450726363, null, 1450726363, null, "{ }", "119", "POINT (-74.0031163347282 40.74403470674802)", "Chelsea", "1", "Chelsea", "", "", "0.0", "Manhattan" ]
+  , [ "row-s2jz~vibg_6fsj", "00000000-0000-0000-1D7B-9CFBA7BD4DD7", 0, 1450726363, null, 1450726363, null, "{ }", "120", "POINT (-73.99991402945909 40.72693288536132)", "Greenwich Village", "2", "Greenwich", "Village", "", "0.0", "Manhattan" ]
+  , [ "row-4xcs.23xf-j6zu", "00000000-0000-0000-2277-96156C08CD9B", 0, 1450726363, null, 1450726363, null, "{ }", "121", "POINT (-73.98222616506425 40.72784677727029)", "East Village", "2", "East", "Village", "", "0.0", "Manhattan" ]
+  , [ "row-bcq4.5jqv_htdu", "00000000-0000-0000-4ACC-142DB4D86F64", 0, 1450726363, null, 1450726363, null, "{ }", "122", "POINT (-73.98089031999298 40.71780674892769)", "Lower East Side", "3", "Lower", "East", "Side", "0.0", "Manhattan" ]
+  , [ "row-t73b.z2rh.6inf", "00000000-0000-0000-4C58-F4E2CA987A35", 0, 1450726363, null, 1450726363, null, "{ }", "123", "POINT (-74.01068328559094 40.72152196744325)", "Tribeca", "1", "Tribeca", "", "", "0.0", "Manhattan" ]
+  , [ "row-tjjb~fpqz-qe7a", "00000000-0000-0000-E2F2-13748ED71E31", 0, 1450726363, null, 1450726363, null, "{ }", "124", "POINT (-73.9973046720808 40.71932379395911)", "Little Italy", "2", "Little", "Italy", "", "0.0", "Manhattan" ]
+  , [ "row-ie39_fuy5-c99n", "00000000-0000-0000-0CD8-30B327955ACD", 0, 1450726363, null, 1450726363, null, "{ }", "125", "POINT (-74.00065666959766 40.72218384131798)", "Soho", "1", "Soho", "", "", "0.0", "Manhattan" ]
+  , [ "row-fw94-ghb4_2svq", "00000000-0000-0000-5EB6-2A8801153236", 0, 1450726363, null, 1450726363, null, "{ }", "126", "POINT (-74.00617998126819 40.734433935724375)", "West Village", "2", "West", "Village", "", "0.0", "Manhattan" ]
+  , [ "row-eyrp~f864~28ct", "00000000-0000-0000-EEF5-6CB120090B23", 0, 1450726363, null, 1450726363, null, "{ }", "127", "POINT (-73.96428617740662 40.7973070417029)", "Manhattan Valley", "2", "Manhattan", "Valley", "", "0.0", "Manhattan" ]
+  , [ "row-7iwh.94s5-5kzg", "00000000-0000-0000-4A2E-F7110800D967", 0, 1450726363, null, 1450726363, null, "{ }", "128", "POINT (-73.96389627905339 40.80799973816586)", "Morningside Heights", "2", "Morningside", "Heights", "", "0.0", "Manhattan" ]
+  , [ "row-3jrv_vhid_p7d4", "00000000-0000-0000-331D-FFC7E710D25E", 0, 1450726363, null, 1450726363, null, "{ }", "129", "POINT (-73.98137594833548 40.737209832715045)", "Gramercy", "1", "Gramercy", "", "", "0.0", "Manhattan" ]
+  , [ "row-2np8.i8ki~pqnn", "00000000-0000-0000-7A56-16459A77BF37", 0, 1450726363, null, 1450726363, null, "{ }", "130", "POINT (-74.01686930508625 40.71193198394569)", "Battery Park City", "3", "Battery", "Park", "City", "0.0", "Manhattan" ]
+  , [ "row-w6zy.3ac4-9cjf", "00000000-0000-0000-8E72-92C11FA53558", 0, 1450726363, null, 1450726363, null, "{ }", "131", "POINT (-74.01066544521277 40.70710710727052)", "Financial District", "2", "Financial", "District", "", "0.0", "Manhattan" ]
+  , [ "row-xnq7~fpib-ad3k", "00000000-0000-0000-0170-37210B190566", 0, 1450726363, null, 1450726363, null, "{ }", "132", "POINT (-73.91565374304241 40.768508593354966)", "Astoria", "1", "Astoria", "", "", "0.0", "Queens" ]
+  , [ "row-uq9c~c3rk_bdsb", "00000000-0000-0000-F875-219662C6CB53", 0, 1450726363, null, 1450726363, null, "{ }", "133", "POINT (-73.90184166838291 40.746349088602265)", "Woodside", "1", "Woodside", "", "", "0.0", "Queens" ]
+  , [ "row-nf4m_8c68.ruyi", "00000000-0000-0000-B5AF-34304CFD1691", 0, 1450726363, null, 1450726363, null, "{ }", "134", "POINT (-73.88282109164372 40.751981380073715)", "Jackson Heights", "2", "Jackson", "Heights", "", "0.0", "Queens" ]
+  , [ "row-xqjq~pu5j-e2nx", "00000000-0000-0000-D10D-1FC42CA1AE27", 0, 1450726363, null, 1450726363, null, "{ }", "135", "POINT (-73.88165622288396 40.744048505122066)", "Elmhurst", "1", "Elmhurst", "", "", "0.0", "Queens" ]
+  , [ "row-z5xw.k99m~vham", "00000000-0000-0000-9895-C5C673AD0056", 0, 1450726363, null, 1450726363, null, "{ }", "136", "POINT (-73.83813764600289 40.6542252773849)", "Howard Beach", "2", "Howard", "Beach", "", "0.0", "Queens" ]
+  , [ "row-zf6u_ihsm_3ynh", "00000000-0000-0000-8749-066B93A1D8BB", 0, 1450726363, null, 1450726363, null, "{ }", "137", "POINT (-73.85682497345266 40.7423817501567)", "South Corona", "2", "South", "Corona", "", "0.0", "Queens" ]
+  , [ "row-e272-3wpa_rhcp", "00000000-0000-0000-75A8-A5B925734D3B", 0, 1450726363, null, 1450726363, null, "{ }", "138", "POINT (-73.8444750078899 40.725263782165065)", "Forest Hills", "2", "Forest", "Hills", "", "0.0", "Queens" ]
+  , [ "row-zfdt.w6iy.c6ze", "00000000-0000-0000-2FA7-54854F983F39", 0, 1450726363, null, 1450726363, null, "{ }", "139", "POINT (-73.8298190582571 40.705179035414844)", "Kew Gardens", "2", "Kew", "Gardens", "", "0.0", "Queens" ]
+  , [ "row-a78q.vsn7_fiiq", "00000000-0000-0000-BCF7-BCDFE0D0DEA3", 0, 1450726363, null, 1450726363, null, "{ }", "140", "POINT (-73.83183321446894 40.69794731471767)", "Richmond Hill", "2", "Richmond", "Hill", "", "0.0", "Queens" ]
+  , [ "row-n3xq-8ax4~m4iv", "00000000-0000-0000-5206-C5C476E6E20C", 0, 1450726363, null, 1450726363, null, "{ }", "141", "POINT (-73.82936758711861 40.76116362081876)", "Downtown Flushing", "2", "Downtown", "Flushing", "", "0.0", "Queens" ]
+  , [ "row-4n9g.nrec-jsc8", "00000000-0000-0000-95EE-A8A761B6910A", 0, 1450726363, null, 1450726363, null, "{ }", "142", "POINT (-73.93920223915512 40.75021734610532)", "Long Island City", "3", "Long", "Island", "City", "0.0", "Queens" ]
+  , [ "row-36rf~zwn6-kem4", "00000000-0000-0000-A5BF-B4A842A78A4A", 0, 1450726363, null, 1450726363, null, "{ }", "143", "POINT (-73.92691617561584 40.74017628351928)", "Sunnyside", "1", "Sunnyside", "", "", "0.0", "Queens" ]
+  , [ "row-7e9x_dzbr_d29h", "00000000-0000-0000-E1AB-3AD4CA7A6792", 0, 1450726363, null, 1450726363, null, "{ }", "144", "POINT (-73.86704147658779 40.764073238830946)", "East Elmhurst", "2", "East", "Elmhurst", "", "0.0", "Queens" ]
+  , [ "row-ibfs.9qh5_izse", "00000000-0000-0000-8D31-A51FC2F9B479", 0, 1450726363, null, 1450726363, null, "{ }", "145", "POINT (-73.89621713626867 40.72542737409365)", "Maspeth", "1", "Maspeth", "", "", "0.0", "Queens" ]
+  , [ "row-paji-49xr_a8na", "00000000-0000-0000-8690-C85FCB8E895A", 0, 1450726363, null, 1450726363, null, "{ }", "146", "POINT (-73.90143517559596 40.70832315613862)", "Ridgewood", "1", "Ridgewood", "", "", "0.0", "Queens" ]
+  , [ "row-v7wk-s8ye.rn9d", "00000000-0000-0000-EDB7-887D1C53DAD9", 0, 1450726363, null, 1450726363, null, "{ }", "147", "POINT (-73.87074167435614 40.702762429678415)", "Glendale", "1", "Glendale", "", "", "0.0", "Queens" ]
+  , [ "row-cgip.hxtb_akvu", "00000000-0000-0000-6820-ED6EE5B95C61", 0, 1450726363, null, 1450726363, null, "{ }", "148", "POINT (-73.85782686905377 40.72897409480739)", "Rego Park", "1", "Rego Park", "", "", "0.0", "Queens" ]
+  , [ "row-6ge4~v6kd.frzg", "00000000-0000-0000-4265-A6D8D2EA1959", 0, 1450726363, null, 1450726363, null, "{ }", "149", "POINT (-73.85811046554328 40.689886879157925)", "Woodhaven", "1", "Woodhaven", "", "", "0.0", "Queens" ]
+  , [ "row-4nn7_y83a-uf2b", "00000000-0000-0000-0374-77FF52D084F2", 0, 1450726363, null, 1450726363, null, "{ }", "150", "POINT (-73.84320266173454 40.68070846826546)", "Ozone Park", "1", "Ozone Park", "", "", "0.0", "Queens" ]
+  , [ "row-78uq~rjfq~a5fb", "00000000-0000-0000-76A8-83606E8DA480", 0, 1450726363, null, 1450726363, null, "{ }", "151", "POINT (-73.80986478649048 40.66854957767199)", "South Ozone Park", "2", "South", "Ozone Park", "", "0.0", "Queens" ]
+  , [ "row-rgqk_fkgt_xans", "00000000-0000-0000-1B1E-0D8AEEFCC4E9", 0, 1450726363, null, 1450726363, null, "{ }", "152", "POINT (-73.84304528896132 40.78490274926025)", "College Point", "2", "College", "Point", "", "0.0", "Queens" ]
+  , [ "row-m5aq~ukyf.8i8x", "00000000-0000-0000-1DEF-73B6E601C90D", 0, 1450726363, null, 1450726363, null, "{ }", "153", "POINT (-73.8142021661087 40.781290766026984)", "Whitestone", "1", "Whitestone", "", "", "0.0", "Queens" ]
+  , [ "row-wgat-iwdq_a4x3", "00000000-0000-0000-BBCC-D5D7B4646EFF", 0, 1450726363, null, 1450726363, null, "{ }", "154", "POINT (-73.77427363068676 40.76604063281068)", "Bayside", "1", "Bayside", "", "", "0.0", "Queens" ]
+  , [ "row-efuv_hfhu-hfk4", "00000000-0000-0000-70FF-DF3FBB079FE8", 0, 1450726363, null, 1450726363, null, "{ }", "155", "POINT (-73.79176243728068 40.761729549032665)", "Auburndale", "1", "Auburndale", "", "", "0.0", "Queens" ]
+  , [ "row-g65f~94s4_s7z7", "00000000-0000-0000-E00B-705C3E8DE2DE", 0, 1450726363, null, 1450726363, null, "{ }", "156", "POINT (-73.73889775580747 40.77082619282674)", "Little Neck", "2", "Little", "Neck", "", "0.0", "Queens" ]
+  , [ "row-3567_sj84-k46e", "00000000-0000-0000-8B86-40AF4C71E3D3", 0, 1450726363, null, 1450726363, null, "{ }", "157", "POINT (-73.74249820727337 40.766846097907674)", "Douglaston", "1", "Douglaston", "", "", "0.0", "Queens" ]
+  , [ "row-b5gm-u4ck_4h7y", "00000000-0000-0000-4ABB-C731CE57E8DC", 0, 1450726363, null, 1450726363, null, "{ }", "158", "POINT (-73.71548118999152 40.74944079974336)", "Glen Oaks", "2", "Glen", "Oaks", "", "0.0", "Queens" ]
+  , [ "row-id52.2ws9_ah3j", "00000000-0000-0000-B261-30A1565D7479", 0, 1450726363, null, 1450726363, null, "{ }", "159", "POINT (-73.7201281482691 40.72857318176679)", "Bellerose", "1", "Bellerose", "", "", "0.0", "Queens" ]
+  , [ "row-3h68-2p2b-c7jk", "00000000-0000-0000-F792-6505ABE89607", 0, 1450726363, null, 1450726363, null, "{ }", "160", "POINT (-73.82087764933573 40.72257824422808)", "Kew Gardens Hills", "3", "Kew", "Gardens", "Hills", "0.0", "Queens" ]
+  , [ "row-t6da~e4h6-g99w", "00000000-0000-0000-B733-8BFBAD12ADDE", 0, 1450726363, null, 1450726363, null, "{ }", "161", "POINT (-73.78271337003271 40.734394465331334)", "Fresh Meadows", "2", "Fresh", "Meadows", "", "0.0", "Queens" ]
+  , [ "row-pz5h.5idt-zs3b", "00000000-0000-0000-3CC5-1F1E1B2D5E7D", 0, 1450726363, null, 1450726363, null, "{ }", "162", "POINT (-73.81174822458641 40.710935472522756)", "Briarwood", "1", "Briarwood", "", "", "0.0", "Queens" ]
+  , [ "row-ejip-cmgt.e82v", "00000000-0000-0000-0409-C2778354F3A6", 0, 1450726363, null, 1450726363, null, "{ }", "163", "POINT (-73.79690165888296 40.704657360687214)", "Jamaica Center", "2", "Jamaica", "Center", "", "0.0", "Queens" ]
+  , [ "row-uk2a_ueu7-pbts", "00000000-0000-0000-8C9E-37B6E64384DA", 0, 1450726363, null, 1450726363, null, "{ }", "164", "POINT (-73.75494976234339 40.74561857141858)", "Oakland Gardens", "2", "Oakland", "Gardens", "", "0.0", "Queens" ]
+  , [ "row-mp5e_j4up-wd9p", "00000000-0000-0000-6732-73FD06E2C6E8", 0, 1450726363, null, 1450726363, null, "{ }", "165", "POINT (-73.73871484578433 40.7188930921674)", "Queens Village", "2", "Queens", "Village", "", "0.0", "Queens" ]
+  , [ "row-qmiz.bj3r~fbiz", "00000000-0000-0000-12BF-05FC7E93B6E6", 0, 1450726363, null, 1450726363, null, "{ }", "166", "POINT (-73.75925009335602 40.71124344191908)", "Hollis", "1", "Hollis", "", "", "0.0", "Queens" ]
+  , [ "row-7bt9_az38_ekc4", "00000000-0000-0000-FA06-C370C6734FF3", 0, 1450726363, null, 1450726363, null, "{ }", "167", "POINT (-73.79042613135549 40.69691125378992)", "South Jamaica", "1", "South Jamaica", "", "", "0.0", "Queens" ]
+  , [ "row-zgbs.84ik-5fvk", "00000000-0000-0000-A90B-1E916C735891", 0, 1450726363, null, 1450726363, null, "{ }", "168", "POINT (-73.75867603727725 40.69444538522363)", "St. Albans", "1", "St. Albans", "", "", "0.0", "Queens" ]
+  , [ "row-xtec~invc-539h", "00000000-0000-0000-70A5-5D15ABC3DE65", 0, 1450726363, null, 1450726363, null, "{ }", "169", "POINT (-73.77258787620913 40.675211395917366)", "Rochdale", "1", "Rochdale", "", "", "0.0", "Queens" ]
+  , [ "row-pytd.waie_5ufg", "00000000-0000-0000-7F6E-0644725641CB", 0, 1450726363, null, 1450726363, null, "{ }", "170", "POINT (-73.76042092682295 40.666230490368626)", "Springfield Gardens", "2", "Springfield", "Gardens", "", "0.0", "Queens" ]
+  , [ "row-q7m8.f2yv.fnqs", "00000000-0000-0000-7050-4A37E27267DE", 0, 1450726363, null, 1450726363, null, "{ }", "171", "POINT (-73.73526873708033 40.69277463916089)", "Cambria Heights", "2", "Cambria", "Heights", "", "0.0", "Queens" ]
+  , [ "row-g2es_m47c_8fwv", "00000000-0000-0000-6071-1842FC7AE415", 0, 1450726363, null, 1450726363, null, "{ }", "172", "POINT (-73.73526079428285 40.65981643342812)", "Rosedale", "1", "Rosedale", "", "", "0.0", "Queens" ]
+  , [ "row-byyu~m4dn.ujk3", "00000000-0000-0000-970F-D22C06953BB0", 0, 1450726363, null, 1450726363, null, "{ }", "173", "POINT (-73.7549796804388 40.60313443250093)", "Far Rockaway", "2", "Far Rockaway", "", "", "0.0", "Queens" ]
+  , [ "row-835z~sais~5mz2", "00000000-0000-0000-7E54-600B3ADE3169", 0, 1450726363, null, 1450726363, null, "{ }", "174", "POINT (-73.82005489110327 40.603026583512424)", "Broad Channel", "2", "Broad", "Channel", "", "0.0", "Queens" ]
+  , [ "row-hsbw.ny9r~9inv", "00000000-0000-0000-73ED-938CC7674687", 0, 1450726363, null, 1450726363, null, "{ }", "175", "POINT (-73.92551196994177 40.557401288454564)", "Breezy Point", "2", "Breezy", "Point", "", "0.0", "Queens" ]
+  , [ "row-yc9u~yequ_qkqa", "00000000-0000-0000-3F82-2614DAAE2E33", 0, 1450726363, null, 1450726363, null, "{ }", "176", "POINT (-73.90228960391681 40.77592301564293)", "Steinway", "1", "Steinway", "", "", "0.0", "Queens" ]
+  , [ "row-6qpq-c6ap_qj8h", "00000000-0000-0000-5FF4-54034585F1B4", 0, 1450726363, null, 1450726363, null, "{ }", "177", "POINT (-73.80436451720996 40.792781403600515)", "Beechhurst", "1", "Beechhurst", "", "", "0.0", "Queens" ]
+  , [ "row-jz2i~j3du_atkx", "00000000-0000-0000-3918-5A157B2378F3", 0, 1450726363, null, 1450726363, null, "{ }", "178", "POINT (-73.77680222621588 40.7828428062456)", "Bay Terrace", "2", "Bay", "Terrace", "", "0.0", "Queens" ]
+  , [ "row-dkge_7q54.8hje", "00000000-0000-0000-99BC-63DC323EB382", 0, 1450726363, null, 1450726363, null, "{ }", "179", "POINT (-73.77613282391712 40.59564180736854)", "Edgemere", "1", "Edgemere", "", "", "0.0", "Queens" ]
+  , [ "row-cbgx-sxp6_zffq", "00000000-0000-0000-DEAF-C19CB6CBB5A7", 0, 1450726363, null, 1450726363, null, "{ }", "180", "POINT (-73.7919923313695 40.58914394372975)", "Arverne", "1", "Arverne", "", "", "0.0", "Queens" ]
+  , [ "row-shf4-twej-avv8", "00000000-0000-0000-E9BD-692F2D6EE641", 0, 1450726363, null, 1450726363, null, "{ }", "181", "POINT (-73.82236121088758 40.58280169684563)", "Seaside", "1", "Seaside", "", "", "0.0", "Queens" ]
+  , [ "row-rmbq~iy2q~bj6v", "00000000-0000-0000-77DE-709628F58E7F", 0, 1450726363, null, 1450726363, null, "{ }", "182", "POINT (-73.85754672410836 40.57203673021705)", "Neponsit", "1", "Neponsit", "", "", "0.0", "Queens" ]
+  , [ "row-ppzd~j2g8-kqqf", "00000000-0000-0000-2F6B-85117C5FD179", 0, 1450726363, null, 1450726363, null, "{ }", "183", "POINT (-73.81276269135873 40.7641261226141)", "Murray Hill", "2", "Murray", "Hill", "", "0.0", "Queens" ]
+  , [ "row-4rzw_q4gz_bz9h", "00000000-0000-0000-744B-24E90F1A9FF6", 0, 1450726363, null, 1450726363, null, "{ }", "184", "POINT (-73.70884705889253 40.74137842194548)", "Floral Park", "1", "Floral Park", "", "", "0.0", "Queens" ]
+  , [ "row-dqfi~a44z~t8kb", "00000000-0000-0000-6175-82C42E5086C3", 0, 1450726363, null, 1450726363, null, "{ }", "185", "POINT (-73.76714166714736 40.720957207644446)", "Holliswood", "1", "Holliswood", "", "", "0.0", "Queens" ]
+  , [ "row-ybrv-gugb_a56n", "00000000-0000-0000-A43A-A3CD936659EA", 0, 1450726363, null, 1450726363, null, "{ }", "186", "POINT (-73.78722696936667 40.716804830146174)", "Jamaica Estates", "2", "Jamaica", "Estates", "", "0.0", "Queens" ]
+  , [ "row-8zt4-shxs.uqfs", "00000000-0000-0000-0FBE-B7E13A59B9C7", 0, 1450726363, null, 1450726363, null, "{ }", "187", "POINT (-73.82580915110566 40.744572309286745)", "Queensboro Hill", "2", "Queensboro", "Hill", "", "0.0", "Queens" ]
+  , [ "row-4r92.egum_d94r", "00000000-0000-0000-A320-A58327966DEB", 0, 1450726363, null, 1450726363, null, "{ }", "188", "POINT (-73.79760300912679 40.72382490182924)", "Hillcrest", "1", "Hillcrest", "", "", "0.0", "Queens" ]
+  , [ "row-sc3v-vb2w.ggkt", "00000000-0000-0000-0609-79F88B5ED8D3", 0, 1450726363, null, 1450726363, null, "{ }", "189", "POINT (-73.93157506072886 40.76170452605419)", "Ravenswood", "1", "Ravenswood", "", "", "0.0", "Queens" ]
+  , [ "row-c9bs~psk2~pgk3", "00000000-0000-0000-937B-BCF3DC78C2A4", 0, 1450726363, null, 1450726363, null, "{ }", "190", "POINT (-73.84963782402448 40.66391841925143)", "Lindenwood", "1", "Lindenwood", "", "", "0.0", "Queens" ]
+  , [ "row-52k3.kcjc~9f3p", "00000000-0000-0000-0A9C-428C9E9363FD", 0, 1450726363, null, 1450726363, null, "{ }", "191", "POINT (-73.74025607989829 40.667883896602504)", "Laurelton", "1", "Laurelton", "", "", "0.0", "Queens" ]
+  , [ "row-wvdq-bpet_6tm6", "00000000-0000-0000-4B78-5B3E84542452", 0, 1450726363, null, 1450726363, null, "{ }", "192", "POINT (-73.86252471413746 40.73607457083084)", "Lefrak City", "2", "Lefrak", "City", "", "0.0", "Queens" ]
+  , [ "row-di6w.aiay-faa6", "00000000-0000-0000-DF5B-82CF38691D69", 0, 1450726363, null, 1450726363, null, "{ }", "193", "POINT (-73.85401750392529 40.57615556543113)", "Belle Harbor", "1", "Belle Harbor", "", "", "0.0", "Queens" ]
+  , [ "row-szhy~uf24.d5dh", "00000000-0000-0000-BDFB-8D099F39CD12", 0, 1450726363, null, 1450726363, null, "{ }", "194", "POINT (-73.84153370226193 40.58034295646135)", "Rockaway Park", "1", "Rockaway Park", "", "", "0.0", "Queens" ]
+  , [ "row-gnsu~fihb.qvqf", "00000000-0000-0000-F25D-082E330D0278", 0, 1450726363, null, 1450726363, null, "{ }", "195", "POINT (-73.79664750844056 40.59771061565772)", "Somerville", "1", "Somerville", "", "", "0.0", "Queens" ]
+  , [ "row-q9qz~k37z-uasd", "00000000-0000-0000-7AAC-B7524ABFF8C9", 0, 1450726363, null, 1450726363, null, "{ }", "196", "POINT (-73.7517531073116 40.66000322733616)", "Brookville", "1", "Brookville", "", "", "0.0", "Queens" ]
+  , [ "row-dys9.9a3z~r2d2", "00000000-0000-0000-4E0F-A0851545A552", 0, 1450726363, null, 1450726363, null, "{ }", "197", "POINT (-73.73889198912488 40.73301404027838)", "Bellaire", "1", "Bellaire", "", "", "0.0", "Queens" ]
+  , [ "row-uwc9~6f7c_hc6a", "00000000-0000-0000-FBAA-15B436275878", 0, 1450726363, null, 1450726363, null, "{ }", "198", "POINT (-73.85751790676454 40.75407099904894)", "North Corona", "2", "North", "Corona", "", "0.0", "Queens" ]
+  , [ "row-wf4w_w672-r9a2", "00000000-0000-0000-82F9-8FF5BEECA5CE", 0, 1450726363, null, 1450726363, null, "{ }", "199", "POINT (-73.84102211234017 40.71461108151174)", "Forest Hills Gardens", "3", "Forest", "Hills", "Gardens", "0.0", "Queens" ]
+  , [ "row-ejs7_sks9.kci8", "00000000-0000-0000-2440-5A34841BC115", 0, 1450726363, null, 1450726363, null, "{ }", "200", "POINT (-74.07935312512804 40.64498157100444)", "St. George", "2", "St.", "George", "", "0.0", "Staten Island" ]
+  , [ "row-49ky_ekjj-dkw9", "00000000-0000-0000-A899-F8029788061A", 0, 1450726363, null, 1450726363, null, "{ }", "201", "POINT (-74.08701650516633 40.64061455913515)", "New Brighton", "2", "New", "Brighton", "", "0.0", "Staten Island" ]
+  , [ "row-hen9.jcgk.98nx", "00000000-0000-0000-E797-4153E87EED76", 0, 1450726363, null, 1450726363, null, "{ }", "202", "POINT (-74.07790192660073 40.6269276253818)", "Stapleton", "1", "Stapleton", "", "", "0.0", "Staten Island" ]
+  , [ "row-tgx6~r8yq-ziui", "00000000-0000-0000-2EC6-8C0CA8846F87", 0, 1450726363, null, 1450726363, null, "{ }", "203", "POINT (-74.06980526716148 40.61530494652765)", "Rosebank", "1", "Rosebank", "", "", "0.0", "Staten Island" ]
+  , [ "row-47w5~wyef.zbfn", "00000000-0000-0000-87FB-23719533898E", 0, 1450726363, null, 1450726363, null, "{ }", "204", "POINT (-74.10718178265617 40.63187892654611)", "West Brighton", "2", "West", "Brighton", "", "0.0", "Staten Island" ]
+  , [ "row-8qsf.sb8q-my5m", "00000000-0000-0000-F02C-AF64A057CB65", 0, 1450726363, null, 1450726363, null, "{ }", "205", "POINT (-74.08724819983736 40.62418479131304)", "Grymes Hill", "2", "Grymes", "Hill", "", "0.0", "Staten Island" ]
+  , [ "row-ry4x_i7ek~nybx", "00000000-0000-0000-15A7-CF4E261375C4", 0, 1450726363, null, 1450726363, null, "{ }", "206", "POINT (-74.11132881800887 40.59706851814676)", "Todt Hill", "2", "Todt", "Hill", "", "0.0", "Staten Island" ]
+  , [ "row-sdhq_7cdb.av4r", "00000000-0000-0000-3FC3-4BF07BFC6628", 0, 1450726363, null, 1450726363, null, "{ }", "207", "POINT (-74.07955292539827 40.5802474135096)", "South Beach", "2", "South", "Beach", "", "0.0", "Staten Island" ]
+  , [ "row-jc86.c5h3_b7d7", "00000000-0000-0000-FAC8-38296C3156C4", 0, 1450726363, null, 1450726363, null, "{ }", "208", "POINT (-74.12943426797015 40.63366930554369)", "Port Richmond", "2", "Port", "Richmond", "", "0.0", "Staten Island" ]
+  , [ "row-nssb_sqir~a2y5", "00000000-0000-0000-D28F-C7F0ED2E495F", 0, 1450726363, null, 1450726363, null, "{ }", "209", "POINT (-74.15008537046988 40.63254639048117)", "Mariner's Harbor", "2", "Mariner's", "Harbor", "", "0.0", "Staten Island" ]
+  , [ "row-x5vv-ubfr~vezh", "00000000-0000-0000-B1A7-A630A6A7BC32", 0, 1450726363, null, 1450726363, null, "{ }", "210", "POINT (-74.17464532993549 40.63968297845546)", "Port Ivory", "2", "Port", "Ivory", "", "0.0", "Staten Island" ]
+  , [ "row-wtea~7a9v.xg5e", "00000000-0000-0000-B906-EA3D66034AC7", 0, 1450726363, null, 1450726363, null, "{ }", "211", "POINT (-74.1191805853485 40.613335937667465)", "Castleton Corners", "2", "Castleton", "Corners", "", "0.0", "Staten Island" ]
+  , [ "row-7dhk~cga9~un3p", "00000000-0000-0000-4DD1-FFB356E50540", 0, 1450726363, null, 1450726363, null, "{ }", "212", "POINT (-74.16496031329834 40.59425237916174)", "New Springville", "2", "New", "Springville", "", "0.0", "Staten Island" ]
+  , [ "row-y6g9.bhjg-u93s", "00000000-0000-0000-7832-9669DF343F8F", 0, 1450726363, null, 1450726363, null, "{ }", "213", "POINT (-74.19073717538123 40.58631375103285)", "Travis", "1", "Travis", "", "", "0.0", "Staten Island" ]
+  , [ "row-52xu~dxmy-cdx3", "00000000-0000-0000-17BA-E35C91986F35", 0, 1450726363, null, 1450726363, null, "{ }", "214", "POINT (-74.11647943606387 40.57257231820636)", "New Dorp", "2", "New", "Dorp", "", "0.0", "Staten Island" ]
+  , [ "row-z7bt_4dry_9hpk", "00000000-0000-0000-AC09-380769F55DD4", 0, 1450726363, null, 1450726363, null, "{ }", "215", "POINT (-74.12156593771904 40.558462243288844)", "Oakwood", "1", "Oakwood", "", "", "0.0", "Staten Island" ]
+  , [ "row-b3c2.vdri~bm7d", "00000000-0000-0000-4E02-C4B15B3EE9A0", 0, 1450726363, null, 1450726363, null, "{ }", "216", "POINT (-74.14932381490999 40.54948022871365)", "Great Kills", "2", "Great", "Kills", "", "0.0", "Staten Island" ]
+  , [ "row-635g.nxvu_m5w2", "00000000-0000-0000-D302-493A0DDC5CEB", 0, 1450726363, null, 1450726363, null, "{ }", "217", "POINT (-74.16433080419367 40.54223074745079)", "Eltingville", "1", "Eltingville", "", "", "0.0", "Staten Island" ]
+  , [ "row-eshv~wbcy-cwsr", "00000000-0000-0000-F804-40BA909350CD", 0, 1450726363, null, 1450726363, null, "{ }", "218", "POINT (-74.17854866165885 40.538114174745104)", "Annadale", "1", "Annadale", "", "", "0.0", "Staten Island" ]
+  , [ "row-8nzb_33h2~dt3s", "00000000-0000-0000-BF79-F0305327526F", 0, 1450726363, null, 1450726363, null, "{ }", "219", "POINT (-74.22135055371616 40.53745265012707)", "Woodrow", "1", "Woodrow", "", "", "0.0", "Staten Island" ]
+  , [ "row-x3cd.hi2g.9jpi", "00000000-0000-0000-02CF-C2AD4963CE36", 0, 1450726363, null, 1450726363, null, "{ }", "220", "POINT (-74.24656934235291 40.505333761156464)", "Tottenville", "1", "Tottenville", "", "", "0.0", "Staten Island" ]
+  , [ "row-z4kc_yupg-fzvh", "00000000-0000-0000-E55B-C6CAAF5BD95D", 0, 1450726363, null, 1450726363, null, "{ }", "221", "POINT (-74.08055351790122 40.63731606711036)", "Tompkinsville", "1", "Tompkinsville", "", "", "0.0", "Staten Island" ]
+  , [ "row-g8dy.y6bq~3v7t", "00000000-0000-0000-2469-9F973D801253", 0, 1450726363, null, 1450726363, null, "{ }", "222", "POINT (-74.09629029235465 40.619193107926804)", "Silver Lake", "2", "Silver", "Lake", "", "0.0", "Staten Island" ]
+  , [ "row-bbcy.abma-m3df", "00000000-0000-0000-6933-99443AFB2D28", 0, 1450726363, null, 1450726363, null, "{ }", "223", "POINT (-74.09712552178537 40.612760157564935)", "Sunnyside", "1", "Sunnyside", "", "", "0.0", "Staten Island" ]
+  , [ "row-zeh8_hvr8~q58q", "00000000-0000-0000-ED50-76D4AD166D69", 0, 1450726363, null, 1450726363, null, "{ }", "224", "POINT (-73.96101312466787 40.64367518334101)", "Ditmas Park", "2", "Ditmas", "Park", "", "0.0", "Brooklyn" ]
+  , [ "row-vksf-p4gq~7dtw", "00000000-0000-0000-E0CE-381E9B27B8B1", 0, 1450726363, null, 1450726363, null, "{ }", "225", "POINT (-73.93718680559321 40.660946561881154)", "Wingate", "1", "Wingate", "", "", "0.0", "Brooklyn" ]
+  , [ "row-dutc_zhpb-g6ck", "00000000-0000-0000-7F24-B75AA73D317E", 0, 1450726363, null, 1450726363, null, "{ }", "226", "POINT (-73.92688212616963 40.65557231328081)", "Rugby", "1", "Rugby", "", "", "0.0", "Brooklyn" ]
+  , [ "row-mazx~tmxk-ezin", "00000000-0000-0000-788F-2505C28B2F00", 0, 1450726363, null, 1450726363, null, "{ }", "227", "POINT (-74.08015734936303 40.60919044434562)", "Park Hill", "2", "Park", "Hill", "", "0.0", "Staten Island" ]
+  , [ "row-3wsp-iszv-sn5z", "00000000-0000-0000-80BB-A9BC5AD75A0C", 0, 1450726363, null, 1450726363, null, "{ }", "228", "POINT (-74.13304143951713 40.62109047275413)", "Westerleigh", "1", "Westerleigh", "", "", "0.0", "Staten Island" ]
+  , [ "row-6qdh.gnty.z3pe", "00000000-0000-0000-DB16-E47FDCB2403C", 0, 1450726363, null, 1450726363, null, "{ }", "229", "POINT (-74.1531524638777 40.62017151223193)", "Graniteville", "1", "Graniteville", "", "", "0.0", "Staten Island" ]
+  , [ "row-n8ct~u6fm~akvw", "00000000-0000-0000-4CE2-4AE4537EBC51", 0, 1450726363, null, 1450726363, null, "{ }", "230", "POINT (-74.16510420241131 40.63532509911496)", "Arlington", "1", "Arlington", "", "", "0.0", "Staten Island" ]
+  , [ "row-vhzd.upek-t2de", "00000000-0000-0000-B571-AB2CBFF791FB", 0, 1450726363, null, 1450726363, null, "{ }", "231", "POINT (-74.06712363225581 40.596312571276776)", "Arrochar", "1", "Arrochar", "", "", "0.0", "Staten Island" ]
+  , [ "row-6i9g~asiu-4s6p", "00000000-0000-0000-23F5-12CB1EF017F3", 0, 1450726363, null, 1450726363, null, "{ }", "232", "POINT (-74.07667436279057 40.59826835959995)", "Grasmere", "1", "Grasmere", "", "", "0.0", "Staten Island" ]
+  , [ "row-qhcx-9cem~r5eb", "00000000-0000-0000-691B-640C68070560", 0, 1450726363, null, 1450726363, null, "{ }", "233", "POINT (-74.08751118005587 40.596328913795176)", "Old Town", "2", "Old", "Town", "", "0.0", "Staten Island" ]
+  , [ "row-2pjw_2ymd.ia34", "00000000-0000-0000-FAFE-2F0B3CCE476C", 0, 1450726363, null, 1450726363, null, "{ }", "234", "POINT (-74.09639905312528 40.58867294819932)", "Dongan Hills", "2", "Dongan", "Hills", "", "0.0", "Staten Island" ]
+  , [ "row-dgwm-y78f~z4nb", "00000000-0000-0000-B751-15CD15A32747", 0, 1450726363, null, 1450726363, null, "{ }", "235", "POINT (-74.09348266303599 40.573526905742874)", "Midland Beach", "2", "Midland", "Beach", "", "0.0", "Staten Island" ]
+  , [ "row-2jsf_d9xx_gywj", "00000000-0000-0000-A4F7-57A247271EA9", 0, 1450726363, null, 1450726363, null, "{ }", "236", "POINT (-74.10585598545441 40.57621558711792)", "Grant City", "2", "Grant", "City", "", "0.0", "Staten Island" ]
+  , [ "row-nq3a_kpsy-p9uc", "00000000-0000-0000-8184-D185EFDC3285", 0, 1450726363, null, 1450726363, null, "{ }", "237", "POINT (-74.10432707469131 40.56425549307338)", "New Dorp Beach", "3", "New", "Dorp", "Beach", "0.0", "Staten Island" ]
+  , [ "row-e5sb~z4m7-cu3x", "00000000-0000-0000-1B77-BAF3D9A65937", 0, 1450726363, null, 1450726363, null, "{ }", "238", "POINT (-74.13916622175775 40.55398800858466)", "Bay Terrace", "2", "Bay", "Terrace", "", "0.0", "Staten Island" ]
+  , [ "row-id5u_wdkg-yuwj", "00000000-0000-0000-4E57-B117A2D0A865", 0, 1450726363, null, 1450726363, null, "{ }", "239", "POINT (-74.19174105747821 40.53191192048964)", "Huguenot", "1", "Huguenot", "", "", "0.0", "Staten Island" ]
+  , [ "row-7vtj_4dzh~jfmv", "00000000-0000-0000-B7C1-921B0F440603", 0, 1450726363, null, 1450726363, null, "{ }", "240", "POINT (-74.21983106616784 40.52469937611818)", "Pleasant Plains", "2", "Pleasant", "Plains", "", "0.0", "Staten Island" ]
+  , [ "row-2gwk-zuwr~sk78", "00000000-0000-0000-DF04-1219BFFFF61D", 0, 1450726363, null, 1450726363, null, "{ }", "241", "POINT (-74.22950350260034 40.506081653463085)", "Butler Manor", "2", "Butler", "Manor", "", "0.0", "Staten Island" ]
+  , [ "row-qvjw-awnd.bxyi", "00000000-0000-0000-6F09-F6163F5C579F", 0, 1450726363, null, 1450726363, null, "{ }", "242", "POINT (-74.23215775896533 40.530531482833176)", "Charleston", "1", "Charleston", "", "", "0.0", "Staten Island" ]
+  , [ "row-g9uq-2zdt.9jsy", "00000000-0000-0000-6326-7EE38CDC4F1B", 0, 1450726363, null, 1450726363, null, "{ }", "243", "POINT (-74.21572851113959 40.549404006500765)", "Rossville", "1", "Rossville", "", "", "0.0", "Staten Island" ]
+  , [ "row-jrde_g538.6mdm", "00000000-0000-0000-52D1-F7CE7213CD02", 0, 1450726363, null, 1450726363, null, "{ }", "244", "POINT (-74.185886745839 40.549285822783254)", "Arden Heights", "2", "Arden", "Heights", "", "0.0", "Staten Island" ]
+  , [ "row-gpgi.mbkw~jkvf", "00000000-0000-0000-2D87-3D63629FD702", 0, 1450726363, null, 1450726363, null, "{ }", "245", "POINT (-74.19150620964295 40.559712496342954)", "Greenridge", "1", "Greenridge", "", "", "0.0", "Staten Island" ]
+  , [ "row-jueh-qh36~diyr", "00000000-0000-0000-B544-114FDBBBE67B", 0, 1450726363, null, 1450726363, null, "{ }", "246", "POINT (-74.15902208156608 40.589138948752854)", "Heartland Village", "2", "Heartland", "Village", "", "0.0", "Staten Island" ]
+  , [ "row-c3tw.bzxk~nv4a", "00000000-0000-0000-BA0A-F5364F2BBE87", 0, 1450726363, null, 1450726363, null, "{ }", "247", "POINT (-74.18956045519697 40.59472602746298)", "Chelsea", "1", "Chelsea", "", "", "0.0", "Staten Island" ]
+  , [ "row-8tph.hfkj~idvw", "00000000-0000-0000-F27F-ACFFEC6D2758", 0, 1450726363, null, 1450726363, null, "{ }", "248", "POINT (-74.18725638381574 40.60577868452362)", "Bloomfield", "1", "Bloomfield", "", "", "0.0", "Staten Island" ]
+  , [ "row-ruvn_668i-9jd9", "00000000-0000-0000-5D72-BC82492FFC07", 0, 1450726363, null, 1450726363, null, "{ }", "249", "POINT (-74.15940948657129 40.60959180042034)", "Bulls Head", "2", "Bulls", "Head", "", "0.0", "Staten Island" ]
+  , [ "row-7sqs~tveq-f6r4", "00000000-0000-0000-93A0-9133D8A0BF5F", 0, 1450726363, null, 1450726363, null, "{ }", "250", "POINT (-73.95325646837121 40.78268256712574)", "Carnegie Hill", "2", "Carnegie", "Hill", "", "0.0", "Manhattan" ]
+  , [ "row-v37f_fjfs.hqyk", "00000000-0000-0000-4031-0B03D33E5177", 0, 1450726363, null, 1450726363, null, "{ }", "251", "POINT (-73.98843368023604 40.72325901885772)", "Noho", "1", "Noho", "", "", "0.0", "Manhattan" ]
+  , [ "row-z748-a2wt.drsi", "00000000-0000-0000-50C1-8E8D3D57C214", 0, 1450726363, null, 1450726363, null, "{ }", "252", "POINT (-74.00541529873362 40.715228920462856)", "Civic Center", "2", "Civic", "Center", "", "0.0", "Manhattan" ]
+  , [ "row-my5a~wu4h.pa6a", "00000000-0000-0000-1A79-252E586FC188", 0, 1450726363, null, 1450726363, null, "{ }", "253", "POINT (-73.98871313285254 40.748509664312245)", "Midtown South", "2", "Midtown", "South", "", "0.0", "Manhattan" ]
+  , [ "row-3s7b_usyc_3fwx", "00000000-0000-0000-FB2A-590363EBDB11", 0, 1450726363, null, 1450726363, null, "{ }", "254", "POINT (-74.13405729862578 40.56960594275509)", "Richmond Town", "2", "Richmond", "Town", "", "0.0", "Staten Island" ]
+  , [ "row-g5ph~nrwp-w4st", "00000000-0000-0000-D5CE-F2C42BCA2AA8", 0, 1450726363, null, 1450726363, null, "{ }", "255", "POINT (-74.06667766061778 40.609719340792886)", "Shore Acres", "2", "Shore", "Acres", "", "0.0", "Staten Island" ]
+  , [ "row-kjw3_45aq-tn6p", "00000000-0000-0000-D66E-EE80D94B8E03", 0, 1450726363, null, 1450726363, null, "{ }", "256", "POINT (-74.07264244548406 40.61917845202847)", "Clifton", "1", "Clifton", "", "", "0.0", "Staten Island" ]
+  , [ "row-p3p3.674t.75n4", "00000000-0000-0000-F05B-F3F82A1CB23E", 0, 1450726363, null, 1450726363, null, "{ }", "257", "POINT (-74.08402364740365 40.604473189687944)", "Concord", "1", "Concord", "", "", "0.0", "Staten Island" ]
+  , [ "row-ujma~dh3q.fj74", "00000000-0000-0000-1959-75D5B797C4CA", 0, 1450726363, null, 1450726363, null, "{ }", "258", "POINT (-74.09776206972529 40.606794394801035)", "Emerson Hill", "2", "Emerson", "Hill", "", "0.0", "Staten Island" ]
+  , [ "row-qz5i-qhet-cjm4", "00000000-0000-0000-98DF-D3D336E87B50", 0, 1450726363, null, 1450726363, null, "{ }", "259", "POINT (-74.09805062373894 40.63563000681155)", "Randall Manor", "2", "Randall", "Manor", "", "0.0", "Staten Island" ]
+  , [ "row-3v8f_6i9i~688d", "00000000-0000-0000-282C-4FB91D716362", 0, 1450726363, null, 1450726363, null, "{ }", "260", "POINT (-74.1862233174983 40.638432837947995)", "Howland Hook", "2", "Howland", "Hook", "", "0.0", "Staten Island" ]
+  , [ "row-c7pf.xea4-8fbz", "00000000-0000-0000-5C00-C386793CABC9", 0, 1450726363, null, 1450726363, null, "{ }", "261", "POINT (-74.14181678968897 40.63014674119387)", "Elm Park", "2", "Elm", "Park", "", "0.0", "Staten Island" ]
+  , [ "row-9zpx.m4pm~chhd", "00000000-0000-0000-8219-31D6F1515DE3", 0, 1450726363, null, 1450726363, null, "{ }", "262", "POINT (-73.91665331978055 40.65211745179353)", "Remsen Village", "2", "Remsen", "Village", "", "0.0", "Brooklyn" ]
+  , [ "row-tr53-jgxg_6xm8", "00000000-0000-0000-6AEF-2F08B0AF7347", 0, 1450726363, null, 1450726363, null, "{ }", "263", "POINT (-73.885117763793 40.66274427969663)", "New Lots", "2", "New", "Lots", "", "0.0", "Brooklyn" ]
+  , [ "row-vpik.s7hx-www3", "00000000-0000-0000-C9F5-ADB95443010B", 0, 1450726363, null, 1450726363, null, "{ }", "264", "POINT (-73.90233474295843 40.63131755039671)", "Paerdegat Basin", "2", "Paerdegat", "Basin", "", "0.0", "Brooklyn" ]
+  , [ "row-urrm.ddqj_e79y", "00000000-0000-0000-B4CB-49FD1175507C", 0, 1450726363, null, 1450726363, null, "{ }", "265", "POINT (-73.9151539155041 40.615974239623405)", "Mill Basin", "2", "Mill", "Basin", "", "0.0", "Brooklyn" ]
+  , [ "row-yxgw~25rv_8bab", "00000000-0000-0000-50A7-9836143301E8", 0, 1450726363, null, 1450726363, null, "{ }", "266", "POINT (-73.796464620816 40.71145964370486)", "Jamaica Hills", "2", "Jamaica", "Hills", "", "0.0", "Queens" ]
+  , [ "row-zi2t~f6qx_ni6m", "00000000-0000-0000-BB7C-A89BF62810C6", 0, 1450726363, null, 1450726363, null, "{ }", "267", "POINT (-73.79671678028357 40.7335002542976)", "Utopia", "1", "Utopia", "", "", "0.0", "Queens" ]
+  , [ "row-fev6.z4up.m96a", "00000000-0000-0000-5D33-EF344201971B", 0, 1450726363, null, 1450726363, null, "{ }", "268", "POINT (-73.80486120040544 40.73493618075482)", "Pomonok", "1", "Pomonok", "", "", "0.0", "Queens" ]
+  , [ "row-6nup_6rf9.uuk6", "00000000-0000-0000-35E3-263067863C14", 0, 1450726363, null, 1450726363, null, "{ }", "269", "POINT (-73.89467996270581 40.770317392998244)", "Astoria Heights", "2", "Astoria", "Heights", "", "0.0", "Queens" ]
+  , [ "row-u76d-if3b-aqii", "00000000-0000-0000-F0D7-466212A7E042", 0, 1450726363, null, 1450726363, null, "{ }", "270", "POINT (-73.90119903387674 40.83142834161551)", "Claremont Village", "2", "Claremont", "Village", "", "0.0", "Bronx" ]
+  , [ "row-zj93~tddi.rhrf", "00000000-0000-0000-B985-62639F596B44", 0, 1450726363, null, 1450726363, null, "{ }", "271", "POINT (-73.91584652759016 40.82478049084294)", "Concourse Village", "2", "Concourse", "Village", "", "0.0", "Bronx" ]
+  , [ "row-bu7d_r4mv-67z9", "00000000-0000-0000-EAA2-962FB8D9C19C", 0, 1450726363, null, 1450726363, null, "{ }", "272", "POINT (-73.91655551964426 40.843826176716576)", "Mount Eden", "2", "Mount", "Eden", "", "0.0", "Bronx" ]
+  , [ "row-zimx~ur9r-r5w4", "00000000-0000-0000-CAC4-4F11EC22817A", 0, 1450726363, null, 1450726363, null, "{ }", "273", "POINT (-73.90829930881995 40.84884160724669)", "Mount Hope", "2", "Mount", "Hope", "", "0.0", "Bronx" ]
+  , [ "row-cq99-c3az~zgiw", "00000000-0000-0000-83BB-7DD75D9B5BF7", 0, 1450726363, null, 1450726363, null, "{ }", "274", "POINT (-73.9635561409431 40.76028033131378)", "Sutton Place", "2", "Sutton", "Place", "", "0.0", "Manhattan" ]
+  , [ "row-deyn.xh8q_2yqa", "00000000-0000-0000-AFDF-08CC54F32F05", 0, 1450726363, null, 1450726363, null, "{ }", "275", "POINT (-73.95386782130753 40.74341409007358)", "Hunters Point", "2", "Hunters", "Point", "", "0.0", "Queens" ]
+  , [ "row-6jq2-ju76-drui", "00000000-0000-0000-1E3F-A773B8F019A9", 0, 1450726363, null, 1450726363, null, "{ }", "276", "POINT (-73.96770824581843 40.75204236950726)", "Turtle Bay", "2", "Turtle", "Bay", "", "0.0", "Manhattan" ]
+  , [ "row-494s_bi5b_rb69", "00000000-0000-0000-1436-2C5DE1365841", 0, 1450726363, null, 1450726363, null, "{ }", "277", "POINT (-73.97121928722272 40.74691741074023)", "Tudor City", "2", "Tudor", "City", "", "0.0", "Manhattan" ]
+  , [ "row-qam6_hps6_iq2n", "00000000-0000-0000-3107-2B2628EA63F1", 0, 1450726363, null, 1450726363, null, "{ }", "278", "POINT (-73.9740517046921 40.73099955477065)", "Stuyvesant Town", "2", "Stuyvesant", "Town", "", "0.0", "Manhattan" ]
+  , [ "row-3b7c-z238.knhi", "00000000-0000-0000-02A0-2ABFFB5799ED", 0, 1450726363, null, 1450726363, null, "{ }", "279", "POINT (-73.99094710528267 40.73967304763847)", "Flatiron", "1", "Flatiron", "", "", "0.0", "Manhattan" ]
+  , [ "row-4fkr_73dg.rua7", "00000000-0000-0000-3541-BB44B2CD1CEE", 0, 1450726363, null, 1450726363, null, "{ }", "280", "POINT (-73.9181928643169 40.745651806080794)", "Sunnyside Gardens", "2", "Sunnyside", "Gardens", "", "0.0", "Queens" ]
+  , [ "row-92se~jt3c.uxsm", "00000000-0000-0000-F780-1A044F80570E", 0, 1450726363, null, 1450726363, null, "{ }", "281", "POINT (-73.93244235260185 40.73725071694501)", "Blissville", "1", "Blissville", "", "", "0.0", "Queens" ]
+  , [ "row-ifrc~ccgz-5bxy", "00000000-0000-0000-A8E7-5AD63A0EA264", 0, 1450726363, null, 1450726363, null, "{ }", "282", "POINT (-73.99550751888422 40.70328109093018)", "Fulton Ferry", "2", "Fulton", "Ferry", "", "0.0", "Brooklyn" ]
+  , [ "row-stje~7m4s_znrf", "00000000-0000-0000-26BC-CBF17D70ED7A", 0, 1450726363, null, 1450726363, null, "{ }", "283", "POINT (-73.981116035924 40.703321498828785)", "Vinegar Hill", "2", "Vinegar", "Hill", "", "0.0", "Brooklyn" ]
+  , [ "row-ks28_xjpe_7y7f", "00000000-0000-0000-60A1-7A3C8AA1948E", 0, 1450726363, null, 1450726363, null, "{ }", "284", "POINT (-73.93053108817347 40.67503986503241)", "Weeksville", "1", "Weeksville", "", "", "0.0", "Brooklyn" ]
+  , [ "row-xbrj_wkxx_5kgc", "00000000-0000-0000-60E5-558F5F47C0F1", 0, 1450726363, null, 1450726363, null, "{ }", "285", "POINT (-73.90331684852606 40.67786104769535)", "Broadway Junction", "2", "Broadway", "Junction", "", "0.0", "Brooklyn" ]
+  , [ "row-9p3m~3stb-nhmx", "00000000-0000-0000-91DA-B01DC455A363", 0, 1450726363, null, 1450726363, null, "{ }", "286", "POINT (-73.98875280745047 40.70317632822696)", "Dumbo", "1", "Dumbo", "", "", "0.0", "Brooklyn" ]
+  , [ "row-vvne.jve2~zcbh", "00000000-0000-0000-1CFA-7AF0FA0C9CF9", 0, 1450726363, null, 1450726363, null, "{ }", "287", "POINT (-74.12059399718008 40.60180957631448)", "Manor Heights", "2", "Manor", "Heights", "", "0.0", "Staten Island" ]
+  , [ "row-967h_gm22-msvf", "00000000-0000-0000-A496-D5009017A412", 0, 1450726363, null, 1450726363, null, "{ }", "288", "POINT (-74.13208447484305 40.60370692627375)", "Willowbrook", "1", "Willowbrook", "", "", "0.0", "Staten Island" ]
+  , [ "row-t67i.md8x.x7j9", "00000000-0000-0000-693A-2E0A63768FB5", 0, 1450726363, null, 1450726363, null, "{ }", "289", "POINT (-74.21776636068574 40.5411399220918)", "Sandy Ground", "2", "Sandy", "Ground", "", "0.0", "Staten Island" ]
+  , [ "row-ii3x-xcng_fwpr", "00000000-0000-0000-822F-1A105D2A30E8", 0, 1450726363, null, 1450726363, null, "{ }", "290", "POINT (-74.12727240604953 40.579118742961256)", "Egbertville", "1", "Egbertville", "", "", "0.0", "Staten Island" ]
+  , [ "row-7wp3.j3gk.5t32", "00000000-0000-0000-EDA1-09DF9B1DB068", 0, 1450726363, null, 1450726363, null, "{ }", "291", "POINT (-73.89213760232829 40.567375889570364)", "Roxbury", "1", "Roxbury", "", "", "0.0", "Queens" ]
+  , [ "row-8gua.4hed.nq2p", "00000000-0000-0000-2BFD-2BA3F6555DA2", 0, 1450726363, null, 1450726363, null, "{ }", "292", "POINT (-73.9591845942871 40.59852509513729)", "Homecrest", "1", "Homecrest", "", "", "0.0", "Brooklyn" ]
+  , [ "row-xn4m-byqq.5k98", "00000000-0000-0000-85C8-90E8B2588807", 0, 1450726363, null, 1450726363, null, "{ }", "293", "POINT (-73.8811431920061 40.71641451115823)", "Middle Village", "2", "Middle", "Village", "", "0.0", "Queens" ]
+  , [ "row-v8v2_fp8c_37r6", "00000000-0000-0000-9977-ADFFA5D465BA", 0, 1450726363, null, 1450726363, null, "{ }", "294", "POINT (-74.20152556457666 40.526264067348166)", "Prince's Bay", "2", "Prince's", "Bay", "", "0.0", "Staten Island" ]
+  , [ "row-8sei-j7c4_k8fd", "00000000-0000-0000-8555-3EAB5F2CBDF3", 0, 1450726363, null, 1450726363, null, "{ }", "295", "POINT (-74.13792663771576 40.576506293794935)", "Lighthouse Hill", "2", "Lighthouse", "Hill", "", "0.0", "Staten Island" ]
+  , [ "row-c7hs.bcnk.grxp", "00000000-0000-0000-F9F9-F62F8239408D", 0, 1450726363, null, 1450726363, null, "{ }", "296", "POINT (-74.22957080626948 40.519541457489126)", "Richmond Valley", "2", "Richmond", "Valley", "", "0.0", "Staten Island" ]
+  , [ "row-c6kz-7avp~z7tf", "00000000-0000-0000-B61E-D4974D7DC062", 0, 1450726363, null, 1450726363, null, "{ }", "297", "POINT (-73.8266775713865 40.790601556701525)", "Malba", "1", "Malba", "", "", "0.0", "Queens" ]
+  , [ "row-axq5-ce4k-3hm8", "00000000-0000-0000-D134-71887F079A30", 0, 1450726363, null, 1450726363, null, "{ }", "298", "POINT (-73.8902809854761 40.68248551101694)", "Highland Park", "2", "Highland", "Park", "", "0.0", "Brooklyn" ]
+  , [ "row-9hbu-jduc_7cjj", "00000000-0000-0000-4A3F-10891D0BB287", 0, 1450726363, null, 1450726363, null, "{ }", "299", "POINT (-73.948415153289 40.609377701137696)", "Madison", "1", "Madison", "", "", "0.0", "Brooklyn" ]
+  ]
+}

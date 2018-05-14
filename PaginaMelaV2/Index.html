@@ -1,0 +1,74 @@
+<!-- Sources: -->
+<!-- https://www.w3schools.com/howto/howto_js_sidenav.asp || Used to obtain the sidebar -->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>NY Home</title>
+</head>
+<body class="background">
+
+<div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="Map.html"><h5>Map</h5></a>
+    <a href="Table.html"><h5>Table and Charts</h5></a>
+</div>
+
+<script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "125px";
+        document.getElementById("main").style.marginLeft = "125px";
+    }
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft = "0";
+    }
+</script>
+<script>
+    function showsidemenubtn() {
+        //No pude jajaja salu2
+    }
+</script>
+
+<div id = "sidemenubtn">
+    <span onclick="openNav()" onmouseover="showsidemenubtn()"><button class="btn"><i class="fa fa-bars"></i></button></span>
+</div>
+
+<div id="main">
+
+
+
+<div class = "container">
+        <div class="row">
+
+            <div class="col-md-12">
+                <h1> Looking 4 Home </h1>
+            </div>
+        </div>
+    </div>
+
+    <div class = "container">
+        <hr>
+        <div class="row">
+            <div class = "col-md-12">
+                    <i><h5>“Find me a safe and affordable district to live in near the NYU Stern School of Business, New York”.</h5></i>
+                    <h8>That's the sentence that describes this page, here, you could find your desired home, where you need it, when you need it.</h8>
+                    <h9>This section is probably going to be deleted in future iterations, map = new home</h9>
+            </div>
+        </div>
+        <hr>
+    </div>
+
+
+</div>
+
+
+
+</body>
+</html>

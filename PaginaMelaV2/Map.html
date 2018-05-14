@@ -1,0 +1,85 @@
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="Style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Map</title>
+</head>
+<body class="background">
+
+<div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="Index.html"><h5>Home</h5></a>
+    <a href="Table.html"><h5>Table and Charts</h5></a>
+</div>
+
+<script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "125px";
+        document.getElementById("main").style.marginLeft = "125px";
+    }
+
+    /* Set the width of the side navigation to 0 and the left margin of the page content to 0, and the background color of body to white */
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+        document.getElementById("main").style.marginLeft = "0";
+    }
+</script>
+
+<div id = "sidemenubtn">
+    <span onclick="openNav()" onmouseover="showsidemenubtn()"><button class="btn"><i class="fa fa-bars"></i></button></span>
+</div>
+
+<div id="main">
+
+    <div class = "container">
+        <div class="row">
+            <div class="col-xl-12">
+                <h4>Map</h4>
+            </div>
+        </div>
+        <hr>
+        <div class = "row ">
+            <div class="col-md-12">
+                <h6>You can use the buttons to select what filter do you want to apply on the map.</h6>
+            </div>
+        </div>
+        <hr>
+    <div class = "container">
+        <div class="row">
+            <div class = "col-md-8">
+                <div id="map"></div>
+                <script async defer
+                        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDXfIt1ZtQaP_etPATgkn1DYO9ewclRrY&callback=initMap">
+                </script>
+                <script>
+                    var map;
+                    function initMap() {
+                        map = new google.maps.Map(document.getElementById('map'), {
+                            zoom: 10,
+                            center: new google.maps.LatLng(4.6123789,-74.0749659),
+                            mapTypeId: 'terrain'
+                        });
+                    }
+                </script>
+            </div>
+            <div class = "col-md-2">
+                <nav class = "botonesmelos">
+                    <a href="#"><button type="button" name="botoncito">Neighborhoods</button></a>
+                    <a href="#"><button type="button" name="botoncito">Districs Shapes</button></a>
+                    <a href="#"><button type="button" name="botoncito">Housing</button></a>
+                    <a href="#"><button type="button" name="botoncito">Soon...</button></a>
+                </nav>
+            </div>
+        </div>
+        <hr>
+    </div>
+    </div>
+</div>
+</body>
+</html>
