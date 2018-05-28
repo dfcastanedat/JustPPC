@@ -1,0 +1,75 @@
+tr, td, th {
+  border: 1px solid;
+  font-family: 'Philosopher', sans-serif;
+}
+#scroll{
+  height:200px;
+  width:500px;
+  overflow: auto;
+}
+#map {
+  height: 500px;
+  width: 800px;
+}
+.formulario{
+  background-color: #6D1DB3;
+}
+.formulario input[type="checkbox"]{
+  display: none;
+}
+.formulario label{
+  font-family: 'Philosopher', sans-serif;
+  color: #FFFF;
+  padding: 5px 15px 5px 51px;
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+
+  cursor: pointer;
+  -transition: all 0.3s ease;
+}
+.formulario label[id = "micheckbox"]{
+  padding: 5px 50px 5px 97px;
+}
+.formulario label[id = "micheckbox2"]{
+  padding: 5px 30px 5px 75px;
+}
+.formulario label[id = "micheckbox3"]{
+  padding: 5px 30px 5px 75px;
+}
+.formulario label[id = "micheckbox4"]{
+  padding: 5px 60px 5px 100px;
+}
+.formulario label[id = "micheckbox5"]{
+  padding: 5px 80px 5px 115px;
+}
+.formulario label[id = "micheckbox6"]{
+  padding: 5px 75px 5px 115px;
+}
+.formulario label:hover{
+  background: rgba(0, 116, 217,0.2);
+}
+.formulario label:before{
+  content: "";
+  width: 23px;
+  height: 23px;
+  display: inline-block;
+  background: none;
+  border: 3px solid #FFFF;
+  position: absolute;
+  left: 17px;
+  top: 17px;
+}
+.formulario input[type="checkbox"]:checked + label:before{
+  border: 3px solid #0074D9;
+  background:  rgba(0, 116, 217,0.2);
+}
+.formulario input[id="micheckbox6"]:checked + label:before{
+  background: none;
+  border: 3px solid #FFFF;
+}
+img{
+  width: 100px;
+  height: 100px;
+
+}

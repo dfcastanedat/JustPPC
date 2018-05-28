@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Locating me in New York</title>
+    <link rel="stylesheet" href="style.css">
+  	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+        <h3>We help you to choose where to live in New York!</h3>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="row">
+              <div class="col-md-6">
+                <table id="myTable">
+                  <tr>
+                    <th id="NY">New York Boroughs</th>
+                  </tr>
+                  <tr>
+                    <td id="T">The Bronx</td>
+                  </tr>
+                  <tr>
+                    <td id="B">Brooklyn</td>
+                  </tr>
+                  <tr>
+                    <td id="M">Manhattan</td>
+                  </tr>
+                  <tr>
+                    <td id="Q">Queens</td>
+                  </tr>
+                  <tr>
+                    <td id="S">Staten Island</td>
+                  </tr>
+                </table>
+              </div>
+              <div class="col-md-6">
+                <div class="row">
+                  <button id="close" name="button">HIDE</button>
+                </div>
+                <div id="tableWrapper">
+                  <div id="tableScroll">
+                    <table id="newTable">
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <table id="aspects">
+              </table>
+            </div>
+          </div>
+          <div class="col-md-8">
+            <div id="googleMapContainer"></div>
+          </div>
+        </div>
+        <div class="row">
+          <svg id="crimesChart">
+          </svg>
+        </div>
+    </div>
+    <script
+  	  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  	  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  	  crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="index.js"></script>
+    <script async defer
+   	 	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAHWNM9KJltRmnOz3WXXF8k0cCsW0IG3w&callback=onGoogleMapResponse">
+   	  </script>
+</body>
+</html>

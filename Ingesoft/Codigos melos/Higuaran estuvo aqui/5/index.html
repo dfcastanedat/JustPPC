@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <!---->
+      <!--Basic Setup-->
+      <meta charset="UTF-8">
+      <title>Projectsito</title>
+      <link rel="icon" href="https://www.emojibase.com/resources/img/emojis/hangouts/1f437.png">
+
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+      <link rel="stylesheet" href="style.css">
+      <!--Mobile Optimization-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      <!--Import Bootstrap -->
+      <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond" rel="stylesheet">
+      <!--Garamond Font-->
+      <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+      <!--Raleway Font-->
+    </head>
+    <body>
+
+
+
+        <div class="wrapper">
+            <!-- Sidebar Holder -->
+            <nav id="sidebar">
+                <div class="sidebar-header">
+                    <h3>Projectsito</h3>
+                    <img src="https://i.imgur.com/JMeW7EW.png">
+                </div>
+
+                <ul class="list-unstyled components">
+                    <li class="active">
+                        <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">
+                            <i class="glyphicon glyphicon-map-marker"></i>
+                            Map
+                        </a>
+                        <ul class="collapse list-unstyled" id="homeSubmenu">
+                            <li><a href="#">Affordability</a></li>
+                            <li><a href="#">Safety</a></li>
+                            <li><a href="#">Closeness</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                      <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">
+                          <i class="glyphicon glyphicon-signal"></i>
+                          Tables & Charts
+                      </a>
+                      <ul class="collapse list-unstyled" id="pageSubmenu">
+                          <li><a href="#">Export</a></li>
+                          <li><a href="#">Filter</a></li>
+                      </ul>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-send"></i>
+                            About & Contact
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <div id="contenido">
+                <nav class="navbar navbar-default">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" id="sidebarCollapse" class="btn btn-info navbar-btn">
+                                <i class="glyphicon glyphicon glyphicon-menu-hamburger"></i>
+                            </button>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                            <ul class="nav navbar-nav navbar-right">
+                              <li><a href="#">Instructions</a></li>
+                              <li><a href="#">Map</a></li>
+                              <li><a href="#">Tables & Charts</a></li>
+                              <li><a href="#">About</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+
+                <h2>Instructions</h2>
+
+                <div class="line"></div>
+                <h2>Map</h2>
+                <div class="fluid-container" id="buttons">
+                   <div class="row">
+                       <div class="col-md-4">
+                          <button id="polygons"> Display Districts </button>
+                          <button id="displayNeighborhoodsButton"> Display neighborhoods </button>
+                          <button id="neighborhoods"> Display Tabulation Neighborhoods </button>
+                          <button id="displayCrimesButton"> Display crimes </button>
+                          <button id="displayHousingButton"> Display housing </button>
+                          <button id="heatMapButton"> Crime Heat Map </button>
+                          <button id="museums"> Display Museums </button>
+                       </div>
+                       <div class="col-md-4">
+                         <button id="closest"> Top 10 Closest </button>
+                         <button id="safest"> Top 10 Safest </button>
+                         <button id="more-affordable"> Top 10 More Affordable </button>
+                         <button id="top3"> Top 3 Overall </button>
+                       </div>
+                       <div class="col-md-4">
+                         <button id="noHeatMapButton"> No Heat Map </button>
+                         <button id="noMarkers"> No Markers </button>
+                         <button id="noPolygons"> No Lines </button>
+                         <button id="zoomOutButton"> Zoom Out </button>
+                       </div>
+                   </div>
+                 </div>
+                 <div class="fluid-container" id="map-container">
+                   <div class="row">
+                     <div class="col-md-3">
+                       <div class="row">
+                         <h1 class="Title">Closeness</h1>
+                         <svg id="Closeness" width="100%" height="205"></svg>
+                       </div>
+                       <div class="row">
+                         <h1 class="Title">Safety</h1>
+                         <svg id="Safety" width="100%" height="205"></svg>
+                       </div>
+                       <div class="row">
+                         <h1 class="Title">Affordability</h1>
+                         <svg id="Affordability" width="100%" height="205"></svg>
+                       </div>
+                     </div>
+                     <div class="col-md-9">
+                       <div id="map"></div>
+                     </div>
+                   </div>
+                 </div>
+
+                <div class="line"></div>
+
+                <h2>Charts</h2>
+                <div class="container" id="fluid-charts">
+                  <div class="row">
+                    <div class="col-md 12">
+                      <h1 id="BOROCD">District: </h1>
+                    </div>
+                  </div>
+
+                </div>
+                <div class="line"></div>
+
+                <h2>Tables</h2>
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-4">
+                      <div id="tableWrapper1">
+              					<div id="tableScroll1">
+              						<table>
+              								<tr>
+              									<th colspan="2"> Closeness </th>
+              								</tr>
+              								<tr>
+              									<th> # </th>
+              									<th> Distance to NYU (Km) </th>
+              								</tr>
+              								<tbody id="mainTableBody1">
+
+              								</tbody>
+              						</table>
+              					</div>
+              				</div>
+                    </div>
+                    <div class="col-md-4">
+                      <div id="tableWrapper2">
+              					<div id="tableScroll2">
+              						<table>
+              								<tr>
+              									<th colspan="2"> Safety </th>
+              								</tr>
+              								<tr>
+              									<th> # </th>
+              									<th> Number of Crimes </th>
+              								</tr>
+              								<tbody id="mainTableBody2">
+
+              								</tbody>
+              						</table>
+              					</div>
+              				</div>
+                    </div>
+                    <div class="col-md-4">
+                      <div id="tableWrapper3">
+              					<div id="tableScroll3">
+              						<table>
+              								<tr>
+              									<th colspan="2"> Affordability </th>
+              								</tr>
+              								<tr>
+              									<th> # </th>
+              									<th> Extreme Low Income Units </th>
+              								</tr>
+              								<tbody id="mainTableBody3">
+
+              								</tbody>
+              						</table>
+              					</div>
+              				</div>
+                    </div>
+                  </div>
+                  <div class="row" id="top3">
+                    <div class="col-md-12">
+                      <div id="tableWrapper4">
+              					<div id="tableScroll4">
+              						<table>
+              								<tr>
+              									<th colspan="4"> Top 3 Overall </th>
+              								</tr>
+              								<tr>
+              									<th> # </th>
+              									<th> Distance to NYU (Km) </th>
+                                <th> Number of Crimes </th>
+                                <th> Extreme Low Income Units </th>
+              								</tr>
+              								<tbody id="mainTableBody4">
+
+              								</tbody>
+              						</table>
+              					</div>
+              				</div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <button onclick="exportTableToCSV('tables.csv')" id="exportButton">Export tables to CSV</button>
+                  </div>
+               </div>
+
+                <div class="line"></div>
+
+                <h2>About</h2>
+            </div>
+        </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="  crossorigin="anonymous"></script>
+        <script src="https://www.jqueryscript.net/demo/jQuery-Plugin-To-Convert-HTML-Table-To-CSV-tabletoCSV/jquery.tabletoCSV.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfQFC6KN3gX3qXxo0oUICdglykLP6oa4&libraries=geometry,visualization"></script>
+        <script src="http://d3js.org/d3.v3.min.js"></script>
+        <script src="index.js"></script>
+    </body>
+</html>

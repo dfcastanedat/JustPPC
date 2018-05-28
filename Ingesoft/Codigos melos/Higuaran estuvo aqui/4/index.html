@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <!--BOOTSTRAP 4 .CSS-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+        crossorigin="anonymous">
+
+    <!--JQUERY 3.3.1 .JS-->
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+
+    <!--BOOTSTRAP 4 JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
+        crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
+        crossorigin="anonymous"></script>
+
+    <!-- TABLE TO CSV JS-->
+    <script type="text/javascript" src="https://www.jqueryscript.net/demo/jQuery-Plugin-To-Convert-HTML-Table-To-CSV-tabletoCSV/jquery.tabletoCSV.js"></script>
+
+    <!--D3.JS GRAPH-->
+    <script src="https://d3js.org/d3.v3.js"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+
+    <!--STYLE CSS-->
+    <link rel="stylesheet" href="style.css">
+
+    <!--TITLE-->
+    <title>NYU STERN SCHOOL OF BUSINESS</title>
+</head>
+
+<body>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 scroll-list-left wallpaper-sidebar">
+                <div class="side-bar" id="side-bar-left">
+
+                    <!--<div class="logotype">
+                        <img class="img-fluid" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/logo-NY.png" alt="prototype-logo">
+                    </div>-->
+                    <div class="btn-group" role="group" style="width: 100%;">
+                        <div class="logo-group">
+                            <div class="logo-item">
+
+                                <div id="cinta-logo"></div>
+                                <br>
+
+                                <span class="h1 img-fluid" style="font-size: 50px !important;background-color: #000000;">
+                                    <em>New York</em>
+                                </span>
+
+                                <strong class="img-fluid" style="font-size: 40px;color: #4fc1e9 !important;">
+                                    NYU
+                                </strong>
+                            </div>
+                            <br>
+                        </div>
+                    </div>
+
+                    <div class="navegator">
+                        <!--NAVIGATION BAR-->
+
+                        <div class="division-title">
+                            <div class="title-nav">
+                                <h2>
+                                    <em>Navigator</em>
+                                </h2>
+                            </div>
+                        </div>
+
+                        <br>
+
+                        <div class="division-icon">
+                            <div class="nav-icons">
+                                <!--NAV BAR-->
+                                <a href="#map-ny">
+                                    <input type="image" id="input-map" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/mapaX.png" width="20%"
+                                        height="20%" data-toggle="tooltip" title="Draw the districts on the map">
+                                </a>
+
+                                <a data-toggle="collapse" href="#collapseDistrict" role="button" aria-expanded="false" aria-controls="collapseDistrict">
+                                    <input type="image" id="input-home" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/apartamentos.png"
+                                        width="20%" height="20%" data-toggle="tooltip" title="Search housing by district">
+                                </a>
+
+                                <a href="#">
+                                    <input type="image" id="input-crimes" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/crimes-X.png"
+                                        width="20%" height="20%" data-toggle="tooltip" title="Draw heat map of crimes in new york">
+                                </a>
+
+                                <a href="#">
+                                    <input type="image" id="input-museum" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/museumX.png" width="20%"
+                                        height="20%" data-toggle="tooltip" title="New York Museums">
+                                </a>
+                            </div>
+                        </div>
+                        <br>
+                        <br>
+
+                        <div class="division-icon">
+                            <div class="nav-icons">
+
+                                <a href="#GraphCrimes">
+                                    <input type="image" id="graph-crimes" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/graph-crimes.png"
+                                        width="20%" height="20%" data-toggle="tooltip" title="Graph of crime recorder in the New York City">
+                                </a>
+
+                                <a href="#tableDistances">
+                                    <input type="image" id="input-distances" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/distance.png"
+                                        width="20%" height="20%" data-toggle="tooltip" title="Data tables of the distances from the districts to the NYU">
+                                </a>
+
+                                <a href="#graph-distance">
+                                    <input type="image" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/graph-distance.png" width="20%"
+                                        height="20%" data-toggle="tooltip" title="Distance statistics graphic">
+                                </a>
+
+
+
+                                <a href="#tableLowIncomeUnits">
+                                    <input type="image" id="input-lowIncomeUnits" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/lowIncomeUnits.png"
+                                        width="20%" height="20%" data-toggle="tooltip" title="Low income number defined in the districts">
+                                </a>
+
+                            </div>
+                        </div>
+
+                        <br>
+                        <br>
+
+                        <div class="division-icon">
+                            <div class="nav-icons">
+
+                                <input class="dropdown-toggle" type="image" data-toggle="dropdown" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/neighborhoods.png"
+                                    width="20%" height="20%" title="Select Neighborhood by Districts">
+
+                                <ul id="graph-neighborhoods" class="dropdown-menu dropdown-menu-right">
+                                    <h6 class="dropdown-header">Select a Borough</h6>
+                                    <a class="dropdown-item" href="#">Bronx</a>
+                                    <a class="dropdown-item" href="#">Brooklyn</a>
+                                    <a class="dropdown-item" href="#">Manhattan</a>
+                                    <a class="dropdown-item" href="#">Queens</a>
+                                    <a class="dropdown-item" href="#">Staten Island</a>
+                                    <a class="dropdown-item" href="#">Remove</a>
+                                </ul>
+
+                                <a href="#">
+                                    <input type="image" id="input-best" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/mejores10.png" width="20%"
+                                        height="20%" data-toggle="tooltip" title="Best districts to live">
+                                </a>
+
+                                <a href="#">
+                                    <input type="image" id="input-gallery" src="https://raw.githubusercontent.com/lmbaeza/ImageIronHacks/master/gallery.png"
+                                        width="20%" height="20%" data-toggle="tooltip" title="New York galleries">
+                                </a>
+
+                            </div>
+                        </div>
+                        <br>
+                        <br>
+
+                        <div class="collapse" id="collapseDistrict">
+                            <!--SELECT THE DISTRICT TO LOCATE A HOUSING-->
+                            <label for="selectDistrict">Search housing by district</label>
+                            <div class="input-group mb-1 justify-content-center">
+                                <div class="input-group-prepend">
+                                    <label class="input-group-text label-select" for="selectDistrict">District</label>
+                                </div>
+                                <select class="custom-select" id="selectDistrict">
+                                    <optgroup label="Select a District">
+                                        <option value="default" selected>Select a District</option>
+                                        <option value="Bronx">Bronx</option>
+                                        <option value="Brooklyn">Brooklyn</option>
+                                        <option value="Manhattan">Manhattan</option>
+                                        <option value="Queens">Queens</option>
+                                        <option value="Staten Island">Staten Island</option>
+                                    </optgroup>
+
+                                </select>
+                            </div>
+
+                            <div class="input-group mb-1 justify-content-center" id="numberDistrict">
+                                <div class="input-group-prepend">
+                                    <label class="input-group-text label-select" for="selectDistrict">Number</label>
+                                </div>
+
+                                <select class="custom-select" id="selectNumberDistrict">
+                                    <option selected>Select a Number of District</option>
+
+                                </select>
+                            </div>
+                        </div>
+                        <br>
+                        <br>
+
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-9 scroll-list-right" id="map-ny">
+                <div class="card">
+
+                    <div class="col-md-auto center pd-label">
+                        <div class="label-blue-title">
+                            <span class="label-blue">NYU STERN SCHOOL OF BUSINESS</span>
+                        </div>
+                    </div>
+                    <!--MAP-->
+                    <div class="card-body">
+                        <div id="map"></div>
+                        <div id="legend">
+                            <h3>Legend</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card" id="GraphCrimes">
+                    <!--GRAPH OF THE CRIMES-->
+                    <div class="label-blue-title">
+                        <span class="label-blue">CRIME GRAPHIC IN NEW YORK</span>
+                    </div>
+
+                    <div class="content-data">
+                        <div class="card">
+                            <h5 class="card-header">Crimes of 31/12/2015 in new york</h5>
+                            <div class="card-body">
+                                <p class="card-text">During the day of December 31, 2015, 1000 crimes were presented in the different districts
+                                    of the New York city
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="graph">
+                                    <svg id="graph-line" width="550" height="400"></svg>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4">
+                                <br>
+                                <br>
+                                <table class="table table-striped table-bordered">
+                                    <!--TABLE OF CRIMES-->
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">#</th>
+                                            <th scope="col">Borough</th>
+                                            <th scope="col">Crimes</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="body-table-crimes"></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="card" id="tableDistances">
+                    <div class="label-blue-title">
+                        <span class="label-blue text-center">DISTANCES FROM THE DISTRICTS TO THE NYU</span>
+                    </div>
+
+                    <div class="content-data">
+                        <div class="card">
+                            <h5 class="card-header">Data table of the distances from all the borough districts</h5>
+                            <div class="card-body">
+                                <p class="card-text">The distance was calculated from the center of the polygon of each one of the districts of
+                                    the city of new york</p>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-5">
+                                <br>
+                                <br>
+                                <label for="select-table-distance">Calculate distance from districts to NYU by Borough</label>
+                                <div class="input-group mb-1 justify-content-center input-group-lg">
+                                    <div class="input-group-prepend">
+                                        <label class="input-group-text label-select" for="selectDistrict">District</label>
+                                    </div>
+                                    <select class="custom-select form-control" id="select-table-distance" aria-label="Large">
+                                        <optgroup label="Select a District">
+                                            <!--<option value="default" selected>Select a District</option>-->
+                                            <option value="Bronx">Bronx</option>
+                                            <option value="Brooklyn" selected>Brooklyn</option>
+                                            <option value="Manhattan">Manhattan</option>
+                                            <option value="Queens">Queens</option>
+                                            <option value="Staten Island">Staten Island</option>
+                                        </optgroup>
+
+                                    </select>
+                                </div>
+                                <br>
+                                <table class="table table-sm table-striped table-bordered">
+                                    <!--STATISTICS TABLE OF DISTANCES-->
+                                    <thead id="head-distance-statistics"></thead>
+                                    <tbody id="body-distance-statistics"></tbody>
+                                </table>
+
+                            </div>
+                            <div class="col-md-6">
+                                <br>
+                                <br>
+                                <div class="scroll-table" style="height: 475px; overflow: auto;">
+                                    <!--DISTANCES TABLE-->
+                                    <table class="table table-striped table-bordered" id="table-distance-district">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">#</th>
+                                                <th scope="col">District N°</th>
+                                                <th scope="col">Distance</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody id="body-distance-district"></tbody>
+                                    </table>
+                                </div>
+                                <br>
+
+                                <div class="row justify-content-center align-items-center">
+                                    <div class="col-md-auto">
+                                        <button type="button" class="btn btn-outline-primary" id="export-table-distance">Export Table</button>
+                                    </div>
+                                </div>
+                                <br>
+
+
+
+                            </div>
+
+                        </div>
+
+
+                    </div>
+                </div>
+
+                <div id="graph-distance">
+                    <div class="label-blue-title">
+                        <span class="label-blue text-center">DISTANCE STATISTICS GRAPHIC</span>
+                    </div>
+                    <div class="card">
+                        <h5 class="card-header">Statistics Graph of the distances between the districts and the NYU</h5>
+                        <div class="card-body">
+                            <p class="card-text">Statistical chart showing the average, maximum, minimum, range and standard deviation of the
+                                distances from the districts to NYU</p>
+                        </div>
+                    </div>
+                    <div class="row h-100 justify-content-center align-items-center">
+                        <div class="col-md-4">
+
+                            <label for="select-table-distance">Select a graphic Option</label>
+                            <div class="input-group mb-1 justify-content-center input-group-lg">
+                                <div class="input-group-prepend">
+                                    <label class="input-group-text label-select" for="selectDistrict">Graph</label>
+                                </div>
+
+                                <ul class="list-group">
+                                    <li class="list-group-item">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <input type="radio" name="graph-statistic" value="average" checked> Average
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <input type="radio" value="maximum" name="graph-statistic"> Maximum
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <input type="radio" value="minimum" name="graph-statistic"> Minimum
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <input type="radio" value="range" name="graph-statistic"> Range
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="list-group-item">
+                                        <div class="input-group-prepend">
+                                            <div class="input-group-text">
+                                                <input type="radio" value="stdDeviation" name="graph-statistic"> Standard
+                                                <br>Deviation
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-7">
+                            <h2 id="title-graph-distance" class="text-center">Average</h2>
+                            <div class="graphDistance-container" id="graphDistance"></div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card" id="tableLowIncomeUnits">
+                    <div class="label-blue-title">
+                        <span class="label-blue text-center">NUMBER OF LOW INCOME </span>
+                    </div>
+
+                    <div class="content-data">
+                        <div class="card">
+                            <h5 class="card-header">Maximum number of low income defined by New York City</h5>
+                            <div class="card-body">
+                                <p class="card-text">Affordability levels of a district are based on the maximum number of low income defined
+                                    by New York City</p>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4">
+                                <br>
+                                <br>
+                                <label for="select-table-distance">Calculate number of low income defined by district</label>
+                                <div class="input-group mb-1 justify-content-center input-group-lg">
+                                    <div class="input-group-prepend">
+                                        <label class="input-group-text label-select" for="selectDistrict">District</label>
+                                    </div>
+                                    <select class="custom-select form-control" id="select-table-lowIncomeUnits" aria-label="Large">
+                                        <optgroup label="Select a District">
+                                            <option value="BX" selected>Bronx</option>
+                                            <option value="BK">Brooklyn</option>
+                                            <option value="MN">Manhattan</option>
+                                            <option value="QN">Queens</option>
+                                            <option value="SI">Staten Island</option>
+                                        </optgroup>
+
+                                    </select>
+                                </div>
+
+                                <br>
+                                <br>
+                                <div class="input-group mb-1 justify-content-center input-group-lg" id="select-distrit-n-lowIncomeUnits">
+                                    <div class="input-group-prepend">
+                                        <label class="input-group-text label-select" for="selectDistrict">District</label>
+                                    </div>
+                                    <select class="custom-select form-control" id="select-table-lowIncomeUnits-number" aria-label="Large">
+                                        <optgroup label="Select a District Number" id="select-table-lowIncomeUnits-number-option">
+
+                                        </optgroup>
+
+                                    </select>
+                                </div>
+                                <br>
+                            </div>
+                            <br>
+                            <div class="col-md-7 scroll-table" style="height: 475px; overflow: auto;">
+                                <table class="table table-striped table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">#</th>
+                                            <th scope="col">Project Name:</th>
+                                            <th scope="col">low Income Units</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="body-lowIncomeUnits"></tbody>
+                                </table>
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+
+
+                </div>
+
+
+
+                <footer class="footer center">
+                    &copy; Iron Hacks - Universidad Nacional de Colombia - 2018
+                    <br>
+                    <div>The icons used on this page were obtained from
+                        <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.com</a> with licence
+                        <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
+                    </div>
+                </footer>
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <!--SCRIPT-->
+    <script type="text/javascript" src="index.js"></script>
+
+    <!--SCRIPT GOOGLE MAPS API-->
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB63_2wCGLLuvMadVGTh8oaaPKIcH67sBs&libraries=visualization&callback=initMap">
+    </script>
+</body>
+
+</html>

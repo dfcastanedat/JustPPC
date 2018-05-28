@@ -1,0 +1,102 @@
+:root{
+     --color1 : #591D0E;
+     --color2 : #594504;
+     --color3 : #82B2BE;
+     --color4 : #D0EDF5;
+     --color5 : #cf7100;
+}
+
+*{
+     font-family: 'Nunito Sans', sans-serif;
+}
+
+.upp{
+     background-color: var(--color3);
+     box-shadow: 0px 10px var(--color1);
+
+}
+
+h1{
+     color : var(--color1);
+     font-family: 'Gloria Hallelujah', cursive;
+     font-size: 4em;
+     padding-left: 3%;
+}
+
+h2{
+     color : var(--color1);
+     font-family: 'Nunito Sans', sans-serif;
+     font-size: 1em;
+     padding-left: 20%;
+}
+
+h3{
+     color : var(--color5);
+     font-family: 'Nunito Sans', sans-serif;
+     font-size: 2em;
+     padding-left: 20%;
+}
+
+h6{
+     text-align: right;
+     padding-right: 5%;
+}
+
+a{
+     color: var(--color5);
+}
+
+p{
+     font-family: 'Nunito Sans', sans-serif;
+     color : black;
+     margin-bottom: 10px;
+}
+
+.chart{
+     border-color: var(--color5);
+     border-style: solid;
+     border-width: thick;
+}
+
+.table-responsive{
+     border-color: var(--color5);
+     border-style: solid;
+     border-width: thick;
+}
+
+.sortingHeader{
+     border-style: solid;
+     border-width: thick;
+     border-color: var(--color4);
+     background-color: var(--color4);
+}
+
+.sortingHeader:hover{
+     border-color: var(--color3);
+}
+
+.sortingHeader:active{
+     background-color: var(--color3);
+}
+
+.sortingHeader:focus {
+     background-color: var(--color3);
+     border-color: var(--color3);
+}
+
+.titulosTabla{
+     background-color: var(--color4);
+}
+
+.tablew{
+     background-color: white,inherit;
+}
+
+#Gmap {
+     height: 600px;
+     border-style: solid;
+     border-width: thick;
+     border-color: var(--color5);
+     background-color: var(--color3);
+     padding: 0%;
+}

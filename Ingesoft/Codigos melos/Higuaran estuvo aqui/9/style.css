@@ -1,0 +1,65 @@
+h3{
+  color:   #34495e !important;
+  text-align: right;
+  font-family: 'Do Hyeon', sans-serif !important;   /*Fuente de google fonts*/
+}
+
+h3:hover{
+  color:   #2e4053 !important;
+}
+
+h6{
+  color:   #34495e !important;
+  text-align: center;
+  font-family: 'Do Hyeon', sans-serif !important;
+}
+
+#titulo{
+  margin-top: 40px;
+}
+
+h5{
+  text-align: center !important;
+  font-family: 'Do Hyeon', sans-serif !important;
+}
+
+table, th, td{
+  color:   #34495e !important;
+	text-align: center !important;
+  font-family: 'Do Hyeon', sans-serif !important;
+}
+
+#updateButton{
+    background-color: #5d6d7e !important;
+    margin-top: 40px;
+    color: #d7dbdd;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.material-icons{
+  opacity: 0.7;
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+
+.material-icons:hover{
+  opacity: 0.9;
+}
+
+body{       /*Propiedades para todo*/
+  background: url("https://www.pixeden.com/media/k2/galleries/165/003-subtle-light-pattern-background-texture-vol5.jpg"); /*Fondo de pantalla*/
+}
+
+#map{       /*Propiedades Google map*/
+  border: #5d6d7e 2px solid;
+  height: 570px;
+}
+
+#autor{
+  color:  #5d6d7e !important;
+  text-align: right !important;
+  font-family: 'Do Hyeon', sans-serif !important;   /*Fuente de google fonts*/
+  opacity: 0.4;
+  margin-top: 20px;
+}

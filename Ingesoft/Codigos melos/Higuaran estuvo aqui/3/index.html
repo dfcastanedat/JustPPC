@@ -1,0 +1,239 @@
+<html>
+<head>
+     <title> Livin'der </title>
+     <meta charset="utf-8">
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+     <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Nunito+Sans" rel="stylesheet">
+     <link rel="stylesheet" href="css/styles.css" type="text/css" media=screen>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+     <script src = "https://d3js.org/d3.v4.min.js"></script>
+</head>
+
+
+<body>
+     <div class="container-fluid">
+
+
+          <div class="row">
+               <div class="col-sm-12">
+                    <div class="upp">
+                         <h1>Livin'der <small><small><small><small><small><small>Living place finder</small></small></small></small></small></small></h1>
+                    </div>
+               </div>
+          </div>
+
+          <div class="row">
+               <div class="col-sm-1">
+               </div>
+               <div class="col-sm-3">
+                    <div class="row">
+                         <div class="col-sm-12">
+                              <svg height="100"></svg>
+                         </div>
+                    </div>
+                    <div class="row">
+                         <!-- info row -->
+                         <div class="col-sm-3">
+                              <h2>Average housing </h2>
+                         </div>
+                         <div class="col-sm-8">
+                              <div id="chart1" class="chart">
+
+                              </div>
+                         </div>
+                         <div class="col-sm-1">
+                         </div>
+                    </div>
+                    <div class="row">
+                         <div class="col-sm-12">
+                              <svg height="30"></svg>
+                         </div>
+                    </div>
+                    <div class="row">
+                         <!-- info row -->
+                         <div class="col-sm-3">
+                              <h2> Safety level</h2>
+                         </div>
+                         <div class="col-sm-8">
+                              <div id="chart2" class="chart">
+
+                              </div>
+                         </div>
+                         <div class="col-sm-1">
+                         </div>
+                    </div>
+                    <div class="row">
+                         <div class="col-sm-12">
+                              <svg height="30"></svg>
+                         </div>
+                    </div>
+                    <div class="row">
+                         <!-- info row -->
+                         <div class="col-sm-3">
+                              <h2> Distance to university </h2>
+                         </div>
+                         <div class="col-sm-8">
+                              <div id="chart3" class="chart">
+
+                              </div>
+                         </div>
+                         <div class="col-sm-1">
+                         </div>
+                    </div>
+               </div>
+               <div class="col-sm-7">
+                    <div class="row">
+                         <div class="col-sm-12">
+                              <svg height="10"></svg>
+                         </div>
+                    </div>
+                    <h2>Selected district: <p id="currentDistrict">none</p></h2>
+                    <div id="Gmap"></div>
+                    <p><small>Choose a district on the map to show the metrics on the graphics.</small></p>
+               </div>
+               <div class="col-sm-1">
+               </div>
+          </div>
+
+          <div class="row">
+               <div class="col-sm-12">
+                    <svg height="30"></svg>
+               </div>
+          </div>
+
+          <!-- tabla de datos -->
+
+          <div class="row">
+               <div class="col-sm-1">
+               </div>
+               <div class="col-sm-8">
+                    <h3>List of all habitable districts</h3>
+                    <p>
+                         <small>clic on the title to sort the districts by the parameter on that column</small>
+                    </p>
+                    <div id="dataTableContainer" class="table-responsive">
+                         <!-- data table -->
+                         <table id="sortingTable" class="table">
+                              <thead class="titulosTabla">
+                                   <tr>
+                                        <th> <button class="sortingHeader"> Borough </button> </th>
+                                        <th> <button class="sortingHeader"> District </button> </th>
+                                        <th> <button class="sortingHeader"> Total Score </button> </th>
+                                        <th> <button class="sortingHeader" onclick="initCost()"> Average housing </button> </th>
+                                        <th> <button class="sortingHeader"> Safety level </button> </th>
+                                        <th> <button class="sortingHeader"> Distance to University </button> </th>
+                                        <th> <button class="sortingHeader"> Museums </button> </th>
+                                        <th> <button class="sortingHeader"> Population </button> </th>
+                                   </tr>
+                              </thead>
+                              <tbody >
+
+                              </tbody>
+                         </table>
+                    </div>
+               </div>
+               <div class="col-sm-2">
+                    <div class="row">
+                         <h3> Top Districts</h3>
+                    </div>
+                    <div class="row">
+                         <h2> Average </h2>
+                    </div>
+                    <div class="row">
+                         <div class="col-sm-1">
+                         </div>
+                         <div class="col-sm-11">
+                              <div id="top1" class="chart">
+                              </div>
+                         </div>
+                    </div>
+                    <div class="row">
+                         <div class="col-sm-12">
+                              <svg height="10"></svg>
+                         </div>
+                    </div>
+                    <div class="row">
+                         <h2> Housing </h2>
+                    </div>
+                    <div class="row">
+                         <div class="col-sm-1">
+                         </div>
+                         <div class="col-sm-11">
+                              <div id="top2" class="chart">
+                              </div>
+                         </div>
+                    </div>
+                    <div class="row">
+                         <div class="col-sm-12">
+                              <svg height="10"></svg>
+                         </div>
+                    </div>
+                    <div class="row">
+                         <h2> Distance to NYU </h2>
+                    </div>
+                    <div class="row">
+                         <div class="col-sm-1">
+                         </div>
+                         <div class="col-sm-11">
+                              <div id="top3" class="chart">
+                              </div>
+                         </div>
+                    </div>
+                    <div class="row">
+                         <div class="col-sm-12">
+                              <svg height="10"></svg>
+                         </div>
+                    </div>
+                    <div class="row">
+                         <h2> Safety </h2>
+                    </div>
+                    <div class="row">
+                         <div class="col-sm-1">
+                         </div>
+                         <div class="col-sm-11">
+                              <div id="top4" class="chart">
+                              </div>
+                         </div>
+                    </div>
+               </div>
+               <div class="col-sm-1">
+               </div>
+          </div>
+
+          <div class="row">
+               <div class="col-sm-12">
+                    <svg height="20"></svg>
+               </div>
+          </div>
+
+          <div class="row">
+               <div class="col-sm-12">
+                    <div class="upp">
+                         <h6> This is an educational project for Ironhacks Spring 2018. See more <a href="http://www.ironhacks.com/" target="_blank">here</a> </h6>
+                    </div>
+               </div>
+          </div>
+
+     </div>
+
+     <script
+     src="https://code.jquery.com/jquery-3.3.1.min.js"
+     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+     crossorigin="anonymous"></script>
+
+     <script src="js/scripts.js"></script>
+
+     <!-- Gmaps -->
+     <script async defer
+     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAV2JwoDVdH_OhuzbtOzcrO2RX32pYUvbo&callback=initMap">
+     </script>
+
+     <!-- jquery -->
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <!--Import Google Icon Font-->
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import Google Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Pacifico" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+    <title>GTC</title>
+  </head>
+  <body class="grey lighten-2">
+      <!-- Side Navigation -->
+    <div class="container-fluid" id="sideNavigation">
+          <a href="" data-activates="main-menu" class="button-collapse light-blue-text darken-4-text"><i class="material-icons">menu</i></a>
+          <ul id="main-menu" class="side-nav grey lighten-2">
+            <li> <h4 class="center">Menu</h4> </li>
+            <li class="divider"></li>
+            <li class="divider"></li>
+            <li>
+              <a class="waves-effect" href="index.html"><i class="material-icons">home</i>Home</a>
+            </li>
+            <li>
+              <a class="waves-effect" href="#mapAndOptions"><i class="material-icons">map</i>Map Visualization</a>
+            </li>
+            <li>
+              <a class="waves-effect" href="#tableDataSearch"><i class="material-icons">chrome_reader_mode</i>Neighborhood By Borough</a>
+            </li>
+          </ul>
+    </div>
+    <!--Title-->
+    <div class="row">
+      <div class="col s2 offset-s4 pull-s2">
+        <h2 id="mainTitle" class="blue-grey-text center">GETCO</h2>
+        <p id="mainSubTitle" class="flow-text center">"Get Rest, Get Comfortable"</p>
+      </div>
+    </div>
+    <!-- Title End -->
+    <div class="blue-grey-text center"> <h4 class="flow-text">Info About The Page</h4> </div>
+    <div class="progress">
+        <div class="determinate" style="width:100%"></div>
+    </div>
+    <div class="container">
+      <!--Option Cards-->
+      <div class="row">
+        <div class="col m6 l6 xl6 center">
+          <div class="card blue-grey">
+            <div class="card-image">
+              <img src="https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg">
+              <span class="card-title grey lighten-2 light-blue-text darken-4-text">Go To Map</span>
+            </div>
+            <div class="card-content">
+              <p>Display Info Through a Map or Export the Data.</p>
+            </div>
+            <div class="card-action">
+              <a href="#mapAndOptions" class="green-text darken-1-text">Go Now!</a>
+            </div>
+          </div>
+        </div>
+        <div class="col s12  m6 l6 xl6 center">
+          <div class="card blue-grey">
+            <div class="card-image">
+              <img src="https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg">
+              <span class="card-title grey lighten-2 light-blue-text darken-4-text">Go To Charts</span>
+            </div>
+            <div class="card-content">
+              <p>Display The Data You Need Through Different Charts.</p>
+            </div>
+            <div class="card-action">
+              <a href="#tableDataSearch" class="green-text darken-1-text">Go Now!</a>
+            </div>
+          </div>
+        </div>
+      </div>
+   </div>
+   <!-- End of option cards -->
+   <div class="blue-grey-text center" id="mapAndOptions"> <h4 class="flow-text">Map And Options</h4> </div>
+   <div class="progress">
+       <div class="determinate" style="width:100%"></div>
+   </div>
+   <!-- Start of Map and Options -->
+   <div class="container-fluid">
+     <div class="row">
+       <div class="col s4">
+         <div class="card blue-grey">
+           <div class="card-content white-text">
+             <span class="card-title">Distance</span>
+             <p>View the best places according to distance from the NYU Stern School of Business.</p>
+           </div>
+           <div class="card-action center">
+             <button class="btn green darken-1 z-depth-1 flow-text" id="displayDistanceButton">Display Distance</button>
+             <button class="btn green darken-1 z-depth-1 flow-text" id="tableDistanceButton">Export Distance Data</button>
+           </div>
+           <div class="card-content white-text">
+             <span class="card-title">Criminal Level</span>
+             <p>View the best places according to the criminal level.</p>
+           </div>
+           <div class="card-action center">
+             <a href="" class="dropdown-button green darken-1 btn flow-text" data-activates="dropdown1">Display Criminal Level</a>
+             <!-- Dropdown Structure -->
+             <ul id='dropdown1' class='dropdown-content blue-grey'>
+               <li><a href="#!" id="displayCriminalButtonA">Accurate (Bit of Time!)</a></li>
+               <li><a href="#!" id="displayCriminalButtonVA">Very Accurate  (Little More Time!)</a></li>
+               <li><a href="#!" id="displayCriminalButtonEA">Extreme Accurate!! (Takes Time!)</a></li>
+             </ul>
+             <button class="btn green darken-1 z-depth-1 flow-text" id="tableCriminalButton">Export Criminal Level Data</button>
+           </div>
+           <div class="card-content white-text">
+             <span class="card-title">Affordable Housing</span>
+             <p>View the best places according to affordable housing.</p>
+           </div>
+           <div class="card-action center">
+             <button class="btn green darken-1 z-depth-1 flow-text" id="displayAffordableButton">Display Affordable Housing (Takes Time! 20s)</button>
+             <button class="btn green darken-1 z-depth-1 flow-text" id="tableAffordableButton">Export Affordable Housing Data</button>
+           </div>
+           <div class="card-content white-text">
+             <span class="card-title">Districts</span>
+             <p>View the different districts in New York.</p>
+           </div>
+           <div class="card-action center">
+             <button class="btn green darken-1 z-depth-1 flow-text" id="displayDistrictButton">Display Districts</button>
+             <button class="btn green darken-1 z-depth-1 flow-text" id="tableDistrictButton">Export Districts Data</button>
+           </div>
+           <div class="card-action center">
+             <button class="btn light-blue darken-4 z-depth-1 flow-text" id="resetMap">Reset Map</button>
+           </div>
+         </div>
+       </div>
+       <div class="col s8" id="googleMapDisplay"></div>
+     </div>
+   </div>
+   <!-- End of Map and Options -->
+   <div class="blue-grey-text center" id="tableDataSearch"> <h4 class="flow-text">Search By Neighborhood</h4> </div>
+   <div class="progress">
+       <div class="determinate" style="width:100%"></div>
+   </div>
+   <!--Start of filter table, made with the help of https://www.w3schools.com/howto/howto_js_filter_table.asp -->
+   <div class="container">
+     <input type="text" id="neighborhoodInput" onkeyup="neighborhoodInputFunction()" placeholder="Search by Neighborhood">
+   </div>
+   <!-- End of filter table -->
+   <!-- Start of Tables and Search -->
+   <div class="container-fluid">
+     <div class="row">
+       <div class="col">
+         <div id="tableLimit">
+           <div id="tableScroll">
+             <table style="width:100%" id="neighborhoodTable" class="responsive-table centered">
+               <thead>
+                 <th>Borough</th>
+                 <th>Neighborhood</th>
+               </thead>
+               <tbody id="tableContent">
+               </tbody>
+             </table>
+           </div>
+         </div>
+       </div>
+     </div>
+     <div class="row">
+         <div class="col s12 center">
+           <button class="btn light-blue darken-4" id="displayNeighborhoodData">Show Neighborhood Data</button>
+         </div>
+     </div>
+   </div>
+   <!-- End of Tables and Search -->
+
+      <!-- Jquery -->
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.min.js"
+      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+      crossorigin="anonymous"></script>
+      <!-- d3.j -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+      <!-- Custom js -->
+    <script type="text/javascript" src="js/main.js"></script>
+     <!--Import jQuery before materialize.js-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+    <!-- Google Maps -->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtwtotPF4yTeXqms_1GQp8FJUyaPzWNsw&libraries=geometry&libraries=places&callback=onGoogleMapResponse">
+    </script>
+  </body>
+</html>

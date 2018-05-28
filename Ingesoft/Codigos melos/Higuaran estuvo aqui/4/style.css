@@ -1,0 +1,217 @@
+body {
+  /*remove the horizontal scroll*/
+  overflow-x: hidden;
+}
+
+/*Style Google Maps*/
+#map {
+  height: 600px;
+  width: 100%;
+}
+
+#legend {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid #000;
+}
+#legend h3 {
+  margin-top: 0;
+}
+#legend img {
+  vertical-align: middle;
+}
+
+/*Vertical Scroll List*/
+.scroll-list-left {
+  overflow-y: scroll;
+  height: 100vh;
+}
+
+/*Vertical Scroll List*/
+.scroll-list-right {
+  overflow-y: scroll;
+  height: 100vh;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  overflow-x: hidden !important;
+}
+
+/*Wallpaper Of The SideBar*/
+.wallpaper-sidebar {
+  background-color: #003e71;
+  color: #fff;
+}
+
+/*Vertical Bar Above The Title*/
+.division-title {
+  /*border-top: white solid 8px;*/
+  color: #fff;
+  margin-left: 8px;
+}
+
+/*Navigator Title*/
+.title-nav {
+  text-align: center !important;
+}
+
+/*Sidebar in the nav*/
+.division-icon {
+  margin-left: 8px;
+  border-left: #fff solid 8px;
+  border-right: #fff solid 8px;
+}
+
+/*Navigation icon*/
+.nav-icons {
+  margin-left: 30px;
+}
+
+/*Title label*/
+.label-blue {
+  color: #fff;
+  background-color: #003e71;
+  font-weight: bolder;
+  padding: 0.25em 0.4em;
+}
+
+/*Title label*/
+.label-blue-title {
+  font-size: 2.5em;
+  color: #fff;
+  background-color: #003e71;
+  font-weight: bolder;
+  padding: 0.25em 0.4em;
+  border-radius: 5px;
+  width: 100%;
+  margin: 0px;
+}
+
+.pd-label {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+.content-data {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.label-select {
+  background-color: #003d70;
+  color: #fff;
+}
+/*Center text of a component*/
+.center {
+  text-align: center;
+}
+
+/*Footer*/
+.footer {
+  padding: 2.6rem;
+  background-color: #003d70;
+  color: #fff;
+  width: 100%;
+}
+
+/*Graph D3.js*/
+
+.bar {
+  fill: #324a5e;
+}
+
+.bar:hover {
+  fill: #4eaad1;
+}
+
+.axis--x path {
+  display: none;
+}
+
+.btn-reset {
+  background-color: #003d70 !important;
+}
+
+@media only screen and (max-width: 430px) {
+  #graph-line {
+    width: 378px !important;
+  }
+}
+/*LOGO*/
+
+.logo-group {
+  width: 100%;
+  height: 100%;
+  background-color: #346da5 !important;
+  color: #ffffff;
+  background-color: #f9f9f9;
+  border-right: #ffffff solid 10px;
+  border-left: #ffffff solid 10px;
+  border-radius: 0.2rem;
+}
+
+@media (min-width: 768px) {
+  .logo-item {
+    display: table-cell;
+    width: 1%;
+  }
+}
+
+.logo-item {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0px;
+  text-align: center;
+}
+
+#cinta-logo {
+  width: 200px;
+  height: 40px;
+  position: relative;
+  background: #000000;
+}
+#cinta-logo:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid white;
+}
+#cinta-logo:before {
+  content: "";
+  position: absolute;
+  right: -20px;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-left: 20px solid #000000;
+  border-top: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+}
+
+/*GRAPH DISTANCES D3.JS*/
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+path.slice {
+  stroke-width: 2px;
+}
+
+polyline {
+  opacity: 0.3;
+  stroke: black;
+  stroke-width: 2px;
+  fill: none;
+}
+.graphDistance-container {
+  width: 960px;
+  height: 500px;
+}

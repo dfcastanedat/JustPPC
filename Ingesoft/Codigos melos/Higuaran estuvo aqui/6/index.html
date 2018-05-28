@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>NYU Stern School District Comparing</title>
+
+    <!--  Bootstrap css call-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+
+
+    <!-- Local CSS link  -->
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+
+
+
+
+  <body>
+
+
+    <div class="container-fluid">
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">NYU Stern School of Business | Districts Comparer</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+    </ul>
+   
+  </div>
+</nav>
+
+        </div>
+
+      </div>
+      
+      <div class= "row"> 
+      <div class ="col-md-12">     
+      <div class = "btn-group btn-group-lg" role = "group"> 
+      <div type= "button" id = "distanceTable" class = "btn btn-secondary">Rank by distance</div>
+      
+      </div>
+
+      
+      
+      </div>
+      
+      </div>
+      
+      <div class="row">
+
+
+        <div class="col-md-8">
+          <div id="map"></div>
+
+        </div>
+<div class="col-md-4">
+    
+    
+    
+<div class="alert alert-dark" role="alert">
+  <h4 class="alert-heading">District</h4>
+  
+  <p id = "Borough">  </p>
+
+<hr><p id = "districtCode">  </p>
+<hr><p id = "eli">  </p>
+  <hr><p id = "vli">  </p>
+  <hr><p id = "li">  </p>
+  <hr>
+  <p id = "distance">  </p>
+  <hr>
+  <p class="mb-0"></p>
+</div>
+
+</div>
+
+
+
+      </div>
+      <div class="row">
+                  <div class="col-md-6">
+
+          <div class="tableWrapper">
+            <div class="tableScroll">
+              <table id="topTable" class= "table table-dark-hover">
+                 
+
+
+              </table>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="col-md-6">
+
+          <div class = "table" id = "district">
+
+          </div>
+
+        </div>  <div class="col-md-6">
+            <div class="tableWrapper">
+              <div class="tableScroll">
+                <table id="affordTable" class= "table-sm-dark-hover">
+
+
+
+
+                </table>
+              </div>
+            </div>
+          </div>
+
+      </div>
+
+
+
+    </div>
+    
+    <!--  Bootstrap JavaScript/JQuery Call-->
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    
+  </body>
+
+
+
+
+
+<!--  JQuery-->
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<!--  Local script-->
+<script type="text/javascript" src="index.js"></script>
+
+
+<!--  Google Maps API-->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDv7td8PE-n3RugtdRODRsPwZ-_WhQ_rwI&callback=googleMapsInit&language=en&region=US"
+async defer></script>
+
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<!--Autor: Diego Rubio-->
+<html lang="en" dir="ltr">
+  <head>                <!--Estilo, framework, ejemplo bootstrap-->
+    <meta charset="utf-8">
+    <!--Importar archivo css-->
+    <link rel="stylesheet" href="style.css">
+    <!--Fuente Titulo Pagina-->
+    <link href="https://fonts.googleapis.com/css?family=Do+Hyeon" rel="stylesheet">
+    <!--Import Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Import Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
+    <!--Icono pestaña-->
+    <link rel="shortcut icon" href="https://cdn.icon-icons.com/icons2/567/PNG/512/marker_icon-icons.com_54388.png">
+    <!--Iconos Importados Materialize-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title> ¿Where?</title> <!--Titulo Pestaña-->
+  </head>
+
+  <body>              <!--Estructura de todo lo que va en la pagina-->
+    <div class="container">     <!--Todo dentro para bootstrap-->
+
+      <div class="row">         <!--Nueva fila bootstrap-->
+        <div class="col-md-1 col-sm-1"></div>
+        <div class="col-md-7 col-sm-7">         <!--Propiedades pantalla md espacio 12/12-->
+             <h3 id="titulo"><b>Find An Area To Live</b></h3>      <!--img fluid para responsive img, se acomoda a pantalla-->
+        </div>
+            <!--Hora Local-->
+        <div class= "col-md-3 col-sm-3" style="text-align:center;padding:1em 0;">
+            <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=America%2FNew_York" width="80%" height="85" frameborder="0" seamless></iframe>
+        </div>
+      </div>
+
+      <div class="row">
+        <!-- Map Icons Materialize-->
+        <div class="col-md-1 col-sm-1">
+          <i class="medium material-icons" id="icono1">map</i>
+          <h6>Map</h6>
+          <i class="medium material-icons" id="icono2">home</i>
+          <h6>Housing</h6>
+          <i class="medium material-icons" id="icono3">location_city</i>
+          <h6>Districts</h6>
+          <i class="medium material-icons" id="icono4">report</i>
+          <h6>Safety</h6>
+          <i class="medium material-icons" id="icono5">account_balance</i>
+          <h6>Tourism</h6>
+        </div>
+        <!-- Google MAP-->
+        <div id="map" class="col-md-10 col-sm-10">    <!--Espacio de 10 misma fila-->
+        </div>
+        <div class="col-md-1 col-sm-1">
+          <i class="medium material-icons" id="icono6">directions_bike</i>
+          <h6>Bicycle</h6>
+          <i class="medium material-icons" id="icono7">directions_transit</i>
+          <h6>Transit</h6>
+          <i class="medium material-icons" id="icono8">directions_car</i>
+          <h6>Traffic</h6>
+          <i class="medium material-icons" id="icono9">flight</i>
+          <h6>Airport</h6>
+          <i class="medium material-icons" id="icono10">directions</i>
+          <h6>Distance</h6>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-8 col-sm-8">
+          <h3>Districts Ranking</h3>
+        </div>
+        <div class="col-md-1 col-sm-1">
+          <a class="waves-effect waves-light btn-small" id="updateButton">Update</a>
+        </div>
+      </div>
+      <!--Ranking Table-->
+      <div class="row">
+        <div class="col-md-12 col-sm-12">
+          <table class="highlight">
+            <thead>
+              <tr>
+                  <th><h5>District</h5></th>
+                  <th><h5>Distance</h5></th>
+                  <th><h5>Safety</h5></th>
+                  <th><h5>Rank</h5></th>
+              </tr>
+            </thead>
+            <tbody id="bodyRanking">
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-10 col-sm-10">    <!--Espacio de 11 misma fila-->
+        </div>
+        <div class="col-md-2 col-sm-2">    <!--Espacio de 1 misma fila-->
+          <h6 id="autor">Diego Rubio</h6>
+        </div>
+      </div>
+    </div>
+    <!--JQuery-->
+    <script
+			  src="http://code.jquery.com/jquery-3.3.1.min.js"
+			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			  crossorigin="anonymous"></script>
+    <!-- Importar d3.j -->
+   	<script src="https://d3js.org/d3.v4.min.js"></script>
+    <!--Importar archivo javascript-->
+    <script type="text/javascript" src="index.js"></script>
+    <!--Importar Google API con mi key-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCBATuqCqp79TGDNeKEHOJGiAlt4SuBA9c&callback=initMap"
+    async defer></script>
+    <!-- Materialize JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+
+  </body>
+  <!--Scripts, Jquery, Javascript-->
+</html>
