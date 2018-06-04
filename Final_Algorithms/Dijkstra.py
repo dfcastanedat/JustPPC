@@ -2,6 +2,8 @@
 https://github.com/prakhar1989/Algorithms/blob/master/dp/dijkstra.py
 """
 
+from heapq import heappush, heappop
+
 graph = { 
     's' : {'t':6, 'y':7},
     't' : {'x':5, 'z':4, 'y':8 },
