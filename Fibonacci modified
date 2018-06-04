@@ -1,0 +1,14 @@
+# Tomado de https://github.com/haotian-wu/Hackerrank_solutions/blob/master/DynamicProgramming/fibonacci-modified.py
+A, B, N = (int(x) for x in raw_input().split())
+#Caso uno
+if N == 1: print(A)
+#Caso dos
+elif N == 2: print(B)
+else:
+    for i in range(2, N):
+        #Calcula el termino brute force
+        F = A + B*B
+        A = B
+        B = F
+    print(F)
+
