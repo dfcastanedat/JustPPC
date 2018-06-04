@@ -1,5 +1,5 @@
 
-
+import xlsxwriter
 import random, time
 import itertools
 from graph import *
@@ -70,6 +70,7 @@ def run(state, time_sleep=1):
 
 
 if __name__ == "__main__":
+
     size=int(raw_input())
     c=int(raw_input())
     lista=[]
@@ -84,17 +85,36 @@ if __name__ == "__main__":
             print('Cantidad de flips: %s\n' % total_cost)
 
     if(c==1):
+        row = 0
+        col = 0
+        workbook = xlsxwriter.Workbook('pancakes.xlsx')
+        worksheet = workbook.add_worksheet()
+
         initial_state = lista
         flips_ini = run(initial_state, time_sleep=1)
         print('Cantidad de flips: %s\n' % flips_ini)
         for i in range(len(permutations)):
             total_cost = run(list(permutations[i]), time_sleep=1)
             if(total_cost==flips_ini):
-                print (permutations[i])
+                worksheet.write(row, col, ''.join(permutations[i]))
+                worksheet.write(row, col + 1, flips_ini)
+                row += 1
+        workbook.close()
+
 
     if (c == 2):
+        row = 0
+        col = 0
+        workbook = xlsxwriter.Workbook('pancakes.xlsx')
+        worksheet = workbook.add_worksheet()
+
         initial_state = lista
         flips_ini = run(initial_state, time_sleep=1)
         print('Cantidad de flips: %s\n' % flips_ini)
         for i in range(len(permutations)):
-            print (permutations[i])
+            inicial = list(permutations[i])
+            flips = run(inicial,time_sleep=1)
+            worksheet.write(row, col, ''.join(permutations[i]))
+            worksheet.write(row, col + 1, flips)
+            row += 1
+        workbook.close()
