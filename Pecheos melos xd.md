@@ -6,7 +6,7 @@
 
 "El negro me está dando por detrás." Danicas, 2017
 
-"Por cada 'mío' Daniel me da un vergazo." BCrro, 2018
+"Cada vez que Valeria dice 'mío' Daniel me da un vergazo." BCrro, 2018
 
 -¿Qué somos, leónes o huevones? (Becerra)
 -"Novios." jspenaq, 2017
