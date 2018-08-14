@@ -19,6 +19,8 @@
 
 "Ayy" Becerra, 2018 respondiendo a ^^ 
 
+"Higuaran deme un pico" Becerra, 2018
+
 "Chacón, mamarlo no es tan áspero" Toño, 2018
 
 "Ya me pueden meter a Daniel el hermafrodita" BCrra 2018
@@ -28,6 +30,8 @@
 "🤔🤔😘😘😘" Daniel 2018
 
 "Shinkansheeeeeeeeeen" Daniela 2018
+
+"El profesor es una polla" Higûi 2018
 
 
 Un puntico bien bacano.
