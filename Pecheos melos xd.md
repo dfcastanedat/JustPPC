@@ -33,8 +33,7 @@
 
 "El profesor es una polla" Higûi 2018
 
-"Le gusta chupar pitos?" Daniel
-
+"Le gusta chupar pitos?" Daniel /br
 "Si *convencido*" El buma 2018
 
 "Astaiza rima con aiza que rima con iza que rima con isas, pium pium irak , no tienen fire in the hole, may day. Run  run" Higagaran 2018
