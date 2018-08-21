@@ -45,4 +45,6 @@
 
 "Vean esa belleza" Gavilan 2018
 
+"ud cree que a mi me gusta la verga" Higuaran 2018
+
 Un puntico bien bacano.
