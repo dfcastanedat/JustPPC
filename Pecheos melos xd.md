@@ -47,7 +47,7 @@
 
 "ud cree que a mi me gusta la verga" Higuaran 2018
 
-"Ojala Higuaran fuera mujere para acostarme en..." Daniel 2018
+"Ojala Higuaran fuera mujer para acostarme en..." Daniel 2018
 
 "primero le hago a usted que a Ximena" Daniel refiriendose a Higuaran 2018
 
