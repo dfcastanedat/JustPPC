@@ -51,4 +51,8 @@
 
 "primero le hago a usted que a Ximena" Daniel refiriendose a Higuaran 2018
 
+"Aunque este dulce me quita la sed" Daniel 2018
+
+"Lo peor es que si paso algo parecido con Higuaran" Becerra refiriendose a un polvito bien melo 2018
+
 Un puntico bien bacano.
