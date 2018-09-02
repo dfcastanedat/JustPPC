@@ -45,14 +45,16 @@
 
 "Vean esa belleza" Gavilan 2018
 
-"ud cree que a mi me gusta la verga" Higuaran 2018
+"Ud cree que a mi me gusta la verga" Higuaran 2018
 
 "Ojala Higuaran fuera mujer para acostarme en..." Daniel 2018
 
-"primero le hago a usted que a Ximena" Daniel refiriendose a Higuaran 2018
+"Primero le hago a usted que a Ximena" Daniel refiriendose a Higuaran 2018
 
 "Aunque este dulce me quita la sed" Daniel 2018
 
 "Lo peor es que si paso algo parecido con Higuaran" Becerra refiriendose a un polvito bien melo 2018
+
+"Almorcemos algo para después subir a desarmar la cama". Chacon hablando con Becerra 2018
 
 Un puntico bien bacano.
