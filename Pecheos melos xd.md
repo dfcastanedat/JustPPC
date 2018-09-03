@@ -29,6 +29,8 @@
 
 "🤔🤔😘😘😘" Daniel 2018
 
+"Modificado y entendido" Higuaran 2018
+
 "Shinkansheeeeeeeeeen" Daniela 2018
 
 "El profesor es una polla" Higûi 2018
