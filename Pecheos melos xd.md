@@ -57,4 +57,6 @@
 
 "Almorcemos algo para después subir a desarmar la cama". Chacon hablando con Becerra 2018
 
+"Me imagino a Higuaran dandome una puñalada de carne" Daniel Castañeda 2018
+
 Un puntico bien bacano.
