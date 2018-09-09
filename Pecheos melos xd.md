@@ -71,4 +71,6 @@
 
 --Ser un absolutísimo pedazo de grandísima puta mierda y enviar un correo con una hoja llamada "HACIENDO PING CON LA MONDA" al profesor-- Higüi, 2018
 
+"Normal, no te compliques" Ximena 2018
+
 Un puntico bien bacano.
