@@ -66,6 +66,6 @@
 "Somos novios cruzados" Daniel Castañeda refiriendose a él a Chacon, Garay y Gavilan. 2018
 
 "Que es permatrago? - Juan Becerra
-+ Esta - Daniel Castañeda 2018"
++Esta! - Daniel Castañeda 2018"
 
 Un puntico bien bacano.
