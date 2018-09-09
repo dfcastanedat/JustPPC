@@ -61,6 +61,8 @@
 
 "Me imagino a Higuaran dandome una puñalada de carne" Daniel Castañeda 2018
 
+"Es culpa de ella, no la busques" Daniela asegurando su amistad con Becerra y alejando a Juli de él, 2018.
+
 "Somos novios cruzados" Daniel Castañeda refiriendose a él a Chacon, Garay y Gavilan. 2018
 
 "Que es permatrago? - Juan Becerra
