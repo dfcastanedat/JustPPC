@@ -77,4 +77,8 @@
 
 "Bueno Sebastian, saquela" Juan Becerra 2018
 
+"Usted pela las yucas? -Chacón *refiriendose a pelarlas antes de meterselas por el culo
+
+-Solo a la hora del almuerzo" Higuaran 2018
+
 Un puntico bien bacano.
