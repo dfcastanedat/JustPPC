@@ -8,7 +8,7 @@ Extracurricular, frases características que generaron bullying.
 
 🔥🔥😂😂👌👌Agüelito (Sebasp3)😤😤👌👌🔥🔥
 
-🔥🔥😂😂👌👌BCrro (ShinKanSen)😤😤👌👌🔥🔥
+🔥🔥😂😂👌👌BCrro (ShinKanSheeeeeen)😤😤👌👌🔥🔥
 <img src="https://github.com/dfcastanedat/JustPPC/blob/master/pp.jpeg" alt="Naughty" width="50" height="50">
 
 🔥🔥😂😂👌👌Dieguischa (Lameloide)😤😤👌👌🔥🔥
