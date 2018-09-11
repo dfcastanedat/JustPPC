@@ -81,4 +81,8 @@
 
 -Solo a la hora del almuerzo" Higuaran 2018
 
+"Batiacabaste" Valeria *con semen en la cara* 2018
+
+"Soy Taric" Higagarán 2018 (Taric es un personaje homosexual del universo de League of Legends)
+
 Un puntico bien bacano.
