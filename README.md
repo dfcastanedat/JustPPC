@@ -19,7 +19,7 @@ Extracurricular, frases características que generaron bullying.
 
 🔥🔥😂😂👌👌Toño (Tatán)😤😤👌👌🔥🔥
 
-🔥🔥😂😂👌👌Mafe (Mafe)😤😤👌👌🔥🔥
+🔥🔥😂😂👌👌Ximena (XimenaAgüelo)😤😤👌👌🔥🔥
 
 Imagen mela:
 
