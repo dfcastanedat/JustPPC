@@ -73,15 +73,13 @@
 
 "Normal, no te compliques" Ximena 2018
 
-"Uy bati-acabaste" Valeria 2018
+"Uy bati-acabaste" Valeria *con semen en la cara* 2018
 
 "Bueno Sebastian, saquela" Juan Becerra 2018
 
 "Usted pela las yucas? -Chacón *refiriendose a pelarlas antes de meterselas por el culo*
 
 -Solo a la hora del almuerzo" Higuaran 2018
-
-"Batiacabaste" Valeria *con semen en la cara* 2018
 
 "Soy Taric" Higagarán 2018 (Taric es un personaje homosexual del universo de League of Legends)
 
