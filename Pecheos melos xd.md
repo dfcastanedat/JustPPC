@@ -96,20 +96,21 @@
 
 "Cuando uno es el que mete la verga en la boca no queda mal parado" Chacon 2018
 
-"La quiere ver?" Daniel refiriendose a su verga
+"La quiere ver?" Daniel *refiriendose a su verga*
+
 -- "Siiii" Higuaran 2018
 
-"de que estan hablando?" Higuaran sin entender el contexto
+"de que estan hablando?" Higuaran *sin entender el contexto*
 
 -- "de mi VERGA" Daniel 2018
 
-"Todavia la quiere ver?" Daniel despues de un rato y cuando Higuaran ya entendia el contexto de que se refiere a la verga
+"Todavia la quiere ver?" Daniel *despues de un rato y cuando Higuaran ya entendia el contexto de que se refiere a la verga*
 
 -- "Siiii" Higuaran 2018
 
-"Por bonito" Gavilan refiriendose a Daniel 2018
+"Por bonito" Gavilan *refiriendose a Daniel* 2018
 
-"A mi me dió cagado" Daniel refiriendose al mono trap cuando se lo qleo re duro
+"Me dió cagado" Daniel *refiriendose al mono trap cuando se lo qleo re duro* 2018
 
 
 Un puntico bien bacano.
