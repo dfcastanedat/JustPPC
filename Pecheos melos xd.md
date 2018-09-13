@@ -51,19 +51,19 @@
 
 "Ojala Higuaran fuera mujer para acostarme en..." Daniel 2018
 
-"Primero le hago a usted que a Ximena" Daniel refiriendose a Higuaran 2018
+"Primero le hago a usted que a Ximena" Daniel *refiriendose a Higuaran* 2018
 
 "Aunque este dulce me quita la sed" Daniel 2018
 
-"Lo peor es que si paso algo parecido con Higuaran" Becerra refiriendose a un polvito bien melo 2018
+"Lo peor es que si paso algo parecido con Higuaran" Becerra *refiriendose a un polvito bien melo* 2018
 
-"Almorcemos algo para después subir a desarmar la cama". Chacon hablando con Becerra 2018
+"Almorcemos algo para después subir a desarmar la cama". Chacon *hablando con Becerra* 2018
 
 "Me imagino a Higuaran dandome una puñalada de carne" Daniel Castañeda 2018
 
-"Es culpa de ella, no la busques" Daniela asegurando su amistad con Becerra y alejando a Juli de él, 2018.
+"Es culpa de ella, no la busques" Daniela *asegurando su amistad con Becerra y alejando a Juli de él*, 2018.
 
-"Somos novios cruzados" Daniel Castañeda refiriendose a él a Chacon, Garay y Gavilan. 2018
+"Somos novios cruzados" Daniel Castañeda *refiriendose a él a Chacon, Garay y Gavilan*. 2018
 
 "Que es permatrago? - Juan Becerra
 
@@ -82,5 +82,15 @@
 -Solo a la hora del almuerzo" Higuaran 2018
 
 "Soy Taric" Higagarán 2018 (Taric es un personaje homosexual del universo de League of Legends)
+
+"La tengo mas que adentro" Daniel 2018
+
+"Higuaran dejese follar" Abuelo 2018
+
+
+"+Todos los miembros de PPC han follado con Higuaran Becerra *sin excluirse* 
+-Espere usted tambien? Abuelo" 2018
+
+
 
 Un puntico bien bacano.
