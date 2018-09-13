@@ -97,7 +97,7 @@
 "Cuando uno es el que mete la verga en la boca no queda mal parado" Chacon 2018
 
 "La quiere ver?" Daniel refiriendose a su verga
-- "Siiii" Higuaran 2018
+-- "Siiii" Higuaran 2018
 
 "de que estan hablando?" Higuaran sin entender el contexto
 
