@@ -85,11 +85,12 @@
 
 "La tengo mas que adentro" Daniel 2018
 
-"Higuaran dejese follar" Abuelo 2018
+"Higuaran dejese follar" Awe 2018
 
 
-"+Todos los miembros de PPC han follado con Higuaran Becerra *sin excluirse* 
--Espere usted tambien? Abuelo" 2018
+"+Todos los miembros de PPC han follado con Higuaran" Becerra *sin excluirse* 
+
+-Espere usted tambien?" Abuelo 2018
 
 
 
