@@ -116,5 +116,7 @@
 
 "Me dió cagado" Daniel *refiriendose al mono trap cuando se lo qleo re duro* 2018
 
+"Es mas chistoso imaginarselo" Daniel *refiriendose a Chacón y Becerra culeando* 2018
+
 
 Un puntico bien bacano.
