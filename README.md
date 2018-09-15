@@ -1,8 +1,12 @@
 # PPC-Quotes
 
+
+
+Este repositorio creado por el grupo PPC reune las vivencias chistosas en el programa de ingenería de sistemas con memes, pantallazos y frases que generaron bullying reunidas en "Pecheos Melos".
+
 <img src="https://github.com/dfcastanedat/JustPPC/blob/master/Gif%20Saltarin.gif" alt="Boing.">
 
-Extracurricular, frases características que generaron bullying.
+# Miembros de PPC (Putas, perico & culo)
 
 🔥🔥😂😂👌👌Danicas (BaretoMan)😤😤👌👌🔥🔥
 
@@ -20,6 +24,13 @@ Extracurricular, frases características que generaron bullying.
 🔥🔥😂😂👌👌Toño (Tatán)😤😤👌👌🔥🔥
 
 🔥🔥😂😂👌👌Ximena (XimenaAgüelo)😤😤👌👌🔥🔥
+
+# Personajes de la carrera 
+
+🔥🔥😂😂👌👌Pacho (Más feo que la mierda)😤😤👌👌🔥🔥
+
+🔥🔥😂😂👌👌Garay (El tío)😤😤👌👌🔥🔥
+
 
 Imagen mela:
 
