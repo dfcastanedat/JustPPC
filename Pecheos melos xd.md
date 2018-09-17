@@ -118,5 +118,6 @@
 
 "Es mas chistoso imaginarselo" Daniel *refiriendose a Chacón y Becerra culeando* 2018
 
+"Y me toque abierta y a mano" Higagarán 2018 
 
 Un puntico bien bacano.
