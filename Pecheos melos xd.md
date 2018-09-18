@@ -31,7 +31,6 @@
 
 "Modificado y entendido" Higuaran 2018
 
-
 "A esta hora siempre tengo una verga en mi boca" Daniel 2018
 
 "Shinkansheeeeeeeeeen" Daniela 2018
@@ -119,6 +118,8 @@
 "Es mas chistoso imaginarselo" Daniel *refiriendose a Chacón y Becerra culeando* 2018
 
 "Y me toque abierta y a mano" Higagarán 2018 
+
+"Ufff, cuando tenga novio" Higuaran 2018
 
 "¿ Le doy un vergazo a Becerra ?" Daniel Castañeda 2018
 
