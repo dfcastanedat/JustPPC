@@ -120,6 +120,8 @@
 
 "Y me toque abierta y a mano" Higagarán 2018 
 
+"Ufff, cuando tenga novio" Higuaran 2018
+
 "¿ Le doy un vergazo a Becerra ?" Daniel Castañeda 2018
 
 Un puntico bien bacano.
