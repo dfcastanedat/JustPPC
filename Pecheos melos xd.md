@@ -125,4 +125,10 @@
 
 "Diii" Gavilan *escribiendo como retrasado mental* 2018
 
+"+ Ya me comi esa salchicha hace rato. Becerra
+
+- Y mi verga ya se la comio? . Chacon
+
++ No" Becerra *refiriendose a que AÚN no* 2018
+
 Un puntico bien bacano.
