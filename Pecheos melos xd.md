@@ -127,12 +127,14 @@
 
 "+Ya me comi esa salchicha hace rato. Becerra
 
--Y mi verga ya se la comio? . Chacon
+-Y mi verga ya se la comió? . Chacon
 
 +No" Becerra *refiriendose a que AÚN no* 2018
 
 -"¿Y Xime cómo Gime?" Daniel 2018
 
 +"Ahhh" Ximena 2018
+
+"Viva la obesidad" Higoarán 2018
 
 Un puntico bien bacano.
