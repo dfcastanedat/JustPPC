@@ -138,7 +138,9 @@
 "Viva la obesidad" Higoarán 2018
 
 +"Dígale que para que le dé por detrás" Higüi
+
 +"Le gusta que le den por detrás?" Daniel a Higüi
-"No sé" Higüi 2018
+
++"No sé" Higüi 2018
 
 Un puntico bien bacano.
