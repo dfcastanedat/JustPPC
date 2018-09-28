@@ -145,4 +145,13 @@
 
 "Catanga, calocha en la tanga" Higoarán, 2018
 
+"Bad bunny está rico" Awe 2018
+
++"Usted es virgen" Higuaran
+
+-"Si, usted también" Becerra
+
++"Si, pero yo soy marica" Higui 2018
+
+
 Un puntico bien bacano.
