@@ -153,5 +153,14 @@
 
 +"Si, pero yo soy marica" Higui 2018
 
++"Chupelo!" Daniel 2018
+
++"Pues saquelo" Ximena 2018
+
++"Se lo saco y ahi si no hace nada" Daniel 2018
+
++"Yo miro que hago con eso" Ximena 2018
+
+"Higuaran escribe con el pito" Daniel 2018
 
 Un puntico bien bacano.
