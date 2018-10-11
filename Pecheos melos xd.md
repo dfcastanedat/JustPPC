@@ -163,4 +163,8 @@
 
 "Higuaran escribe con el pito" Daniel 2018
 
+
+
+"Él si se lo come todo" Garay refiriéndose a Higuaran 2018
+
 Un puntico bien bacano.
