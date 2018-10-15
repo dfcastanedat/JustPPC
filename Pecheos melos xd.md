@@ -163,12 +163,14 @@
 
 "Higuaran escribe con el pito" Daniel 2018
 
-
-
 "Él si se lo come todo" Garay refiriéndose a Higuaran 2018
 
 "Yo una vez probé unos furros" Becerra, con Higuafurro recién mencionado 2018
 
 "Hay material disponible" Daniel 2018
+
++"Y quien es Ximena Hime?" Toño
+
++"Pues yo" Ximena 2018
 
 Un puntico bien bacano.
