@@ -177,6 +177,6 @@
 
 "Malparido Sebastián digale que la meta" Daniel 2018
 
-
+"Tovar es chile" Higuaran *utilizando un término gay que acaba de crear* 2018
 
 Un puntico bien bacano.
