@@ -179,4 +179,6 @@
 
 "Tovar es chile" Higuaran *utilizando un término gay que acaba de crear* 2018
 
+"Daniel ya pillo los nuevos memet" Higuaran refiriendose a unos juguetes sexuales que tiene Daniel, 2018
+
 Un puntico bien bacano.
