@@ -181,4 +181,6 @@
 
 "Daniel ya pillo los nuevos memet" Higuaran refiriendose a unos juguetes sexuales que va mirar, 2018
 
+"Metodos lo voy a pasar en 4" Higuaran refiriendose a que Tito le va a dar en 2, 2018
+
 Un puntico bien bacano.
