@@ -183,4 +183,6 @@
 
 "Metodos lo voy a pasar en 4" Higuaran refiriendose a que Tito le va a dar en 2, 2018
 
+"Dígale a la mamá de Chacón que su hijo tiene una relación a distancia con Chacón" Higüi 2018
+
 Un puntico bien bacano.
