@@ -185,6 +185,10 @@
 
 "Dígale a la mamá de Chacón que su hijo tiene una relación a distancia con Chacón" Higüi 2018
 
-"Ay, ya llegó Sebas" Becerra mojado, refiriéndose al anciano en LoL, 2018
+"Ay, ya llegó Sebas" Becerra *mojado, refiriéndose al anciano en LoL*, 2018
+
+"Dormir a esta hora es para gente marica o gente que se levanta tarde" Abuelo
+
+"Pero yo no me levanto tarde" Becerra *dando a entender que si es marica* 2018
 
 Un puntico bien bacano.
