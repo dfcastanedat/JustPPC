@@ -1,3 +1,6 @@
+-"se lo va a meter orto arriba" Becerra diciendo a Chacón sobre el jagi caps
+-"Si" Chacón toda golosa 2018
+
 "Lo peor es que soy pasivo." GAVNIC, 2017
 
 "A mí sólo me llena algo así." GAVNIC, 2017
