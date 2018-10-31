@@ -194,4 +194,8 @@
 
 "Pero yo no me levanto tarde" Becerra *dando a entender que si es marica* 2018
 
++ "De que se va a disfrazar?" Sebastian preguntandole a Becerra en Halloween 2018
+
++ "De prostituta" Becerra 2018
+
 Un puntico bien bacano.
