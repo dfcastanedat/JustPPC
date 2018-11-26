@@ -200,4 +200,10 @@
 
 "Cuando a uno se la engullen, uno no queda mal parado" Daniel 2018
 
++"Voy a alimentar el ojo" Gavilán
+
++"El ojo del qué" Ángel
+
++"Del culo." Gavilán 2018
+
 Un puntico bien bacano.
