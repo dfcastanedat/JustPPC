@@ -206,4 +206,10 @@
 
 +"Del culo." Gavilán 2018
 
+"Annie (la del lol) tiene severo culo" Higuaran 2018
+
+"Yo soy Juli" Higuaran 2018
+
+"Quiero ver un romance con usted y Juli" Gavilan refiriendose a Becerra 2018
+
 Un puntico bien bacano.
