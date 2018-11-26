@@ -212,4 +212,6 @@
 
 "Quiero ver un romance con usted y Juli" Gavilan refiriendose a Becerra 2018
 
+"Voy a jugar con la de Garay" Becerra, 2018
+
 Un puntico bien bacano.
