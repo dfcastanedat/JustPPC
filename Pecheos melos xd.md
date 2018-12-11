@@ -214,4 +214,6 @@
 
 "Voy a jugar con la de Garay" Becerra, 2018
 
+"¡Sebastian, saquela ya!" Becerra *demostrando que las citas anteriores donde queda como un marica son veridicas* 2018
+
 Un puntico bien bacano.
