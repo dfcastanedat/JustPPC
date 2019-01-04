@@ -216,6 +216,6 @@
 
 "¡Sebastian, saquela ya!" Becerra *demostrando que las citas anteriores donde queda como un marica son veridicas* 2018
 
-"Yo de pana mamá regrese delgado" Higuaran 2019
+"Yo de pana mamá regreses delgado" Higuaran 2019
 
 Un puntico bien bacano.
