@@ -259,7 +259,7 @@ Año
 
 "Yo de pana mamá regreses delgado" Higuaran 2019
 
-"Dele su dosis de pipilina que esta que jode" Higuaran _refiriéndose a que Juan Camilo quiere pene de Daniel_ 2019
+"Dele su dosis de pipilina que esta que jode" Higuaran _refiriéndose a que Daniel quiere pene de Juan Camilo_ 2019
 
 "Ud revise icbf a ver si le ayudan con el retraso" Higuaran _refiriéndose a que Daniel es adoptado_ 2019
 
