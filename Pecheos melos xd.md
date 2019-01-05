@@ -211,6 +211,7 @@ Año
 +"De prostituta" Becerra 2018
 
 -"se lo va a meter orto arriba" Becerra diciendo a Chacón sobre el jagi caps
+
 -"Si" Chacón toda golosa 2018
 
 "Cuando a uno se la engullen, uno no queda mal parado" Daniel 2018
@@ -225,7 +226,7 @@ Año
 
 "Yo soy Juli" Higuaran 2018
 
-"Quiero ver un romance con usted y Juli" Gavilan refiriendose a Becerra 2018
+"Quiero ver un romance con usted y Juli" Gavilan *refiriendose a Becerra* 2018
 
 "Voy a jugar con la de Garay" Becerra, 2018
 
