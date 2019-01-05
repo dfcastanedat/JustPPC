@@ -6,12 +6,12 @@ Años
 * [2018](#2018)
 * [2019](#2019)
 
+# 2017
+
+
 2017
 ==========================
 
-
--"se lo va a meter orto arriba" Becerra diciendo a Chacón sobre el jagi caps
--"Si" Chacón toda golosa 2018
 
 "Lo peor es que soy pasivo." GAVNIC, 2017
 
@@ -21,10 +21,12 @@ Años
 
 "El negro me está dando por detrás." Danicas, 2017
 
-"Cada vez que Valeria dice 'mío' Daniel me da un vergazo." BCrro, 2018
-
 -¿Qué somos, leones o huevones? (Becerra)
 -"Novios." jspenaq, 2017
+
+## 2018
+
+"Cada vez que Valeria dice 'mío' Daniel me da un vergazo." BCrro, 2018
 
 "Lo peor es que me saco severas mamadas" Danicas, 2018
 
@@ -209,6 +211,9 @@ Años
 +"De que se va a disfrazar?" Sebastian *preguntandole a Becerra en Halloween* 2018
 
 +"De prostituta" Becerra 2018
+
+-"se lo va a meter orto arriba" Becerra diciendo a Chacón sobre el jagi caps
+-"Si" Chacón toda golosa 2018
 
 "Cuando a uno se la engullen, uno no queda mal parado" Daniel 2018
 
