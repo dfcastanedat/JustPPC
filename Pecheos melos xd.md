@@ -9,7 +9,6 @@ Año
 2017
 ==========================
 
-
 "Lo peor es que soy pasivo." GAVNIC, 2017
 
 "A mí sólo me llena algo así." GAVNIC, 2017
@@ -18,8 +17,9 @@ Año
 
 "El negro me está dando por detrás." Danicas, 2017
 
-* ¿Qué somos, leones o huevones? (Becerra)
-* "Novios." jspenaq, 2017
++¿Qué somos, leones o huevones? (Becerra)
+
++"Novios." jspenaq, 2017
 
 2018
 ==========================
