@@ -259,6 +259,8 @@ Año
 
 "Yo de pana mamá regreses delgado" Higuaran 2019
 
-"Ud revise icbf a ver si le ayudan con el retraso" Higuaran 2019 _refiriéndose a que Daniel es adoptado_ 
+"Dele su dosis de pipilina que esta que jode" Higuaran _refiriéndose a que Juan Camilo quiere pene de Daniel_ 2019
+
+"Ud revise icbf a ver si le ayudan con el retraso" Higuaran _refiriéndose a que Daniel es adoptado_ 2019
 
 Un puntico bien bacano.
