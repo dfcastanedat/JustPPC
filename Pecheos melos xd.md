@@ -1,13 +1,10 @@
 
 Años
------------------
+---------------
 
 * [2017](#2017)
 * [2018](#2018)
 * [2019](#2019)
-
-# 2017
-
 
 2017
 ==========================
@@ -24,7 +21,8 @@ Años
 -¿Qué somos, leones o huevones? (Becerra)
 -"Novios." jspenaq, 2017
 
-# 2018
+2018
+==========================
 
 "Cada vez que Valeria dice 'mío' Daniel me da un vergazo." BCrro, 2018
 
@@ -233,7 +231,8 @@ Años
 
 "¡Sebastian, saquela ya!" Becerra *demostrando que las citas anteriores donde queda como un marica son veridicas* 2018
 
-# 2019
+2019
+==========================
 
 "Yo de pana mamá regreses delgado" Higuaran 2019
 
