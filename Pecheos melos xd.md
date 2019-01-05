@@ -104,7 +104,9 @@ Año
 
 "Higuaran dejese follar" Awe 2018
 
++"Chacón y Daniel serían la primera pareja homosexual en graduarse de la U" Iwi 2018
 
++Pero si no nos hemos graduado _Daniel refiriéndose a que no se han graduado pero si son una pareja homosexual_
 
 "+Todos los miembros de PPC han follado con Higuaran" Becerra *sin excluirse* 
 
