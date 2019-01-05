@@ -1,5 +1,5 @@
 
-Años
+Año
 ---------------
 
 * [2017](#2017)
@@ -18,8 +18,8 @@ Años
 
 "El negro me está dando por detrás." Danicas, 2017
 
--¿Qué somos, leones o huevones? (Becerra)
--"Novios." jspenaq, 2017
+⋅⋅* ¿Qué somos, leones o huevones? (Becerra)
+⋅⋅* "Novios." @jspenaq , 2017
 
 2018
 ==========================
