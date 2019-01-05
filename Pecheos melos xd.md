@@ -210,7 +210,7 @@ Año
 
 +"De prostituta" Becerra 2018
 
--"se lo va a meter orto arriba" Becerra diciendo a Chacón sobre el jagi caps
+-"Se lo va a meter orto arriba?" Becerra *preguntadole a Chacón sobre el jagi caps*
 
 -"Si" Chacón toda golosa 2018
 
@@ -222,7 +222,7 @@ Año
 
 +"Del culo." Gavilán 2018
 
-"Annie (la del lol) tiene severo culo" Higuaran 2018
+"Annie *(la del lol)* tiene severo culo" Higuaran 2018
 
 "Yo soy Juli" Higuaran 2018
 
