@@ -226,6 +226,12 @@ Año
 
 "Yo soy Juli" Higuaran 2018
 
+"+Higuaran, German, Laura, Daniel y Gavilan. 
+¿Que tal este equipazo? (Becerra)
+
+-Nada a lo que Castañeda no le vaya a hacer. (Gavnic _ofreciendole el Anastacio a Daniel en bandeja de plata_)" 2018
+
+
 "Quiero ver un romance con usted y Juli" Gavilan *refiriendose a Becerra* 2018
 
 "Voy a jugar con la de Garay" Becerra, 2018
