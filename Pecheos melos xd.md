@@ -104,9 +104,9 @@ Año
 
 "Higuaran dejese follar" Awe 2018
 
-+"Chacón y Daniel serían la primera pareja homosexual en graduarse de la U" Iwi 2018
+"-Chacón y Daniel son la primera pareja homosexual en graduarse de la U (Iwi)
 
-+Pero si no nos hemos graduado _Daniel refiriéndose a que no se han graduado pero si son una pareja homosexual_
++Pero si no nos hemos graduado (Daniel) *refiriéndose a que no se han graduado pero si son una pareja homosexual*" 2018
 
 "+Todos los miembros de PPC han follado con Higuaran" Becerra *sin excluirse* 
 
@@ -124,7 +124,7 @@ Año
 
 -- "de mi VERGA" Daniel 2018
 
-"Todavia la quiere ver?" Daniel *despues de un rato y cuando Higuaran ya entendia el contexto de que se refiere a la verga*
+"Todavia la quiere ver?aDaniel *despues de un rato y cuando Higuaran ya entendia el contexto de que se refiere a la verga*
 
 -- "Siiii" Higuaran 2018
 
@@ -239,6 +239,11 @@ Año
 "Voy a jugar con la de Garay" Becerra, 2018
 
 "¡Sebastian, saquela ya!" Becerra *demostrando que las citas anteriores donde queda como un marica son veridicas* 2018
+
+" + Higuaran, German, Laura, Daniel y Gavilan. 
+¿Que tal este equipazo? (Becerra)
+
+-Nada a lo que Castañeda no le vaya a hacer. (Gavnic *ofreciendole el Anastacio a Daniel en bandeja de plata*)" 2018
 
 2019
 ==========================
