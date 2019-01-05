@@ -210,7 +210,7 @@ Año
 
 +"De prostituta" Becerra 2018
 
--"Se lo va a meter orto arriba?" Becerra *preguntadole a Chacón sobre el jagi caps*
+-"se lo va a meter orto arriba" Becerra diciendo a Chacón sobre el jagi caps
 
 -"Si" Chacón toda golosa 2018
 
@@ -222,7 +222,7 @@ Año
 
 +"Del culo." Gavilán 2018
 
-"Annie *(la del lol)* tiene severo culo" Higuaran 2018
+"Annie (la del lol) tiene severo culo" Higuaran 2018
 
 "Yo soy Juli" Higuaran 2018
 
@@ -234,6 +234,20 @@ Año
 
 2019
 ==========================
+
+"-Y la mascarilla de Kiwi? (Gavilán)
+
++De Iwi? (Daniel *Refiriéndose a echarse semen de Iwi en la cara*)
+
+°Jajajjja (Higuaran *recordando cuando recolecto la muestra para Daniel*)" 2019
+
+
+"-Que almorzaran? (Higuaran)
+
++Butta (Becerra)
+
+-Buma* (Higuaran *Revelando sus deseos de que Becerra y su familia se lo almuercen*)" 2019
+
 
 "Yo de pana mamá regreses delgado" Higuaran 2019
 
