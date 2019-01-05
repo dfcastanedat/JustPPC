@@ -259,4 +259,6 @@ Año
 
 "Yo de pana mamá regreses delgado" Higuaran 2019
 
+"Ud revise icbf a ver si le ayudan con el retraso" Higuaran 2019 _refiriéndose a que Daniel es adoptado_ 
+
 Un puntico bien bacano.
