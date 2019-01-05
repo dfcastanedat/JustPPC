@@ -261,11 +261,12 @@ Año
 
 -Buma* (Higuaran *Revelando sus deseos de que Becerra y su familia se lo almuercen*)" 2019
 
-
 "Yo de pana mamá regreses delgado" Higuaran 2019
 
 "Dele su dosis de pipilina que esta que jode" Higuaran _refiriéndose a que Daniel quiere pene de Juan Camilo_ 2019
 
 "Ud revise icbf a ver si le ayudan con el retraso" Higuaran _refiriéndose a que Daniel es adoptado_ 2019
+
+"Chacón es un swinger homosexual" Higuaran 2019
 
 Un puntico bien bacano.
