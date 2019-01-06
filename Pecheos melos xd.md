@@ -233,7 +233,6 @@ Año
 
 -Nada a lo que Castañeda no le vaya a hacer. (Gavnic _ofreciendole el Anastacio a Daniel en bandeja de plata_)" 2018
 
-
 "Quiero ver un romance con usted y Juli" Gavilan *refiriendose a Becerra* 2018
 
 "Voy a jugar con la de Garay" Becerra, 2018
@@ -254,7 +253,6 @@ Año
 
 °Jajajjja (Higuaran *recordando cuando recolecto la muestra para Daniel*)" 2019
 
-
 "-Que almorzaran? (Higuaran)
 
 +Butta (Becerra)
@@ -268,5 +266,11 @@ Año
 "Ud revise icbf a ver si le ayudan con el retraso" Higuaran _refiriéndose a que Daniel es adoptado_ 2019
 
 "Chacón es un swinger homosexual" Higuaran 2019
+
++_* Daniel envia una foto donde habla con un man sobre tocarse la guayabita_
+
++Ese cual de sus mozos es? (Becerra)
+
++Iwi (Daniel) 2019
 
 Un puntico bien bacano.
