@@ -275,4 +275,24 @@ Año
 
 "Yo no lloraba, yo me enfermaba y me hacía hospitalizar con un macho" _Daniel 2019_
 
+"El profesor es child" Higuaran _utilizando otro término gay que acaba de crear_ 2019
+
++"Ooooghhhhhhh" Chacon
+
++"Se le atragantó la de uno de sus árbitros?" Gavilan 2019
+
+"Lo queremos hacer ya?" Chacon _invitando a Daniel a tocarse mutuamente_ 2019
+
+"Enterramos a mi abuela" Becerra
+
+"Y salimos para río a hacer paseo de olla" Becerra _hablando de como valen culo los entierros araucanos_ 2019
+
++_* Daniel envia una foto donde muestra que le gustra tragar semen_
+
++"Exposed Ximena" Higuaran _demostrando que Ximena en realidad es trans y tiene pene_ 2019
+
+"Bienvenido al mundo del sida Daniel" Frenesida 2019
+
+"Es parte de crecer timmy" _Higuaran contagiando de sida hasta Timmy Turner_ 2019
+
 Un puntico bien bacano.
