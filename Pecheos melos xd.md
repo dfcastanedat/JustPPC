@@ -281,13 +281,13 @@ Año
 
 +"Se le atragantó la de uno de sus árbitros?" Gavilan 2019
 
-"Lo queremos hacer ya?" Chacon _invitando a Daniel a tocarse mutuamente_ 2019
+"Lo queremos hacer ya?" Chacon _invitando a Daniel_ 2019
 
 "Enterramos a mi abuela" Becerra
 
 "Y salimos para río a hacer paseo de olla" Becerra _hablando de como valen culo los entierros araucanos_ 2019
 
-+_* Daniel envia una foto donde muestra que le gustra tragar semen_
++_* Daniel envia una foto donde muestra que le gusta tragar semen_
 
 +"Exposed Ximena" Higuaran _demostrando que Ximena en realidad es trans y tiene pene_ 2019
 
