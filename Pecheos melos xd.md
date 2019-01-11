@@ -295,4 +295,8 @@ Año
 
 "Es parte de crecer timmy" _Higuaran contagiando de sida hasta Timmy Turner_ 2019
 
++"Juego una partida con Gavnic, pajita y a mimir" Daniel
+
++"Y conmigo" Higuaran _refiriendose a que se pajeará y dormirá con Daniel_ 2019
+
 Un puntico bien bacano.
