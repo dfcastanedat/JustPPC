@@ -299,4 +299,12 @@ Año
 
 +"Y conmigo" Higuaran _refiriendose a que se pajeará y dormirá con Daniel_ 2019
 
+"la de becerra y yo en el baño fue muy chistosa" Castañeda 2019
+
+"eso fue saliendo de la casa de Toño con Yarid" Becerra 2019
+
+"saliendo del viejo a la cafetería becerra se me declaró, se acuerda??" Higuaran 2019
+
+"aca literal, todos hemos estado con todos" Higuaran 2019
+
 Un puntico bien bacano.
