@@ -307,4 +307,16 @@ Año
 
 "aca literal, todos hemos estado con todos" Higuaran 2019
 
+"Esa mierda crece de tamaño abismalmente" Higuaran _refiriendose a la píja del campeon del LOL Sylas_ 2019
+
+"Mandela" Becerra _pidiéndole a Hugo que se la mande_ 2019
+
+"Sabe pero comérsela" Chacon _refiriendose a que Becerra tiene buena habilidad oral_ 2019
+
+"Yo ando mirando lo de modelos" Higuaran _refiriendose a que esta viuendo photoprepagos_ 2019
+
+"Hicimos trío con Ximena" Diana 2019
+
+"Que rico, entonces Daniel y yo seremos hermanos de leche" Diana _refiriendose a que Daniel y ella se comieron a Iwi_ 2019
+
 Un puntico bien bacano.
