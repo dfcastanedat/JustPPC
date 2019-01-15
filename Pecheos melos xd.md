@@ -313,7 +313,7 @@ Año
 
 "Sabe pero comérsela" Chacon _refiriendose a que Becerra tiene buena habilidad oral_ 2019
 
-"Yo ando mirando lo de modelos" Higuaran _refiriendose a que esta viuendo photoprepagos_ 2019
+"Yo ando mirando lo de modelos" Higuaran _refiriendose a que esta viendo photoprepagos_ 2019
 
 "Hicimos trío con Ximena" Diana 2019
 
