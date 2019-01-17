@@ -325,4 +325,6 @@ Año
 
 "Estoy muriendo al Pyke" Higuaran _utilizando una frase que utilizan los LGTBI_ 2019
 
+"Llegue renovado" * Becerra _se frota las manos dando a entender que se pajeo en el baño del CyT_ 2019
+
 Un puntico bien bacano.
