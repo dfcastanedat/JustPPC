@@ -33,6 +33,11 @@ Año
 
 ![go higuaran](https://user-images.githubusercontent.com/36420972/51293407-d2b3a980-19dc-11e9-97b4-d82c8b0add09.jpg)
 
+![becerra virgo senal](https://user-images.githubusercontent.com/36420972/51295004-9172c800-19e3-11e9-8993-b5795f19e545.jpeg)
+
+![catedra daniel castaneda](https://user-images.githubusercontent.com/36420972/51295005-9172c800-19e3-11e9-9cd1-054cf9404725.jpeg)
+
+![la religion del toto](https://user-images.githubusercontent.com/36420972/51295006-9172c800-19e3-11e9-8427-ea0742127f2b.jpeg)
 
 2019
 ==========================
