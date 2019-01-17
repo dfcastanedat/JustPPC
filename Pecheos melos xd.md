@@ -319,8 +319,8 @@ Año
 
 "Que rico, entonces Daniel y yo seremos hermanos de leche" Diana _refiriendose a que Daniel y ella se comieron a Iwi_ 2019
 
-+"Y espera que conozcas a Juan" (Chacon)
++"Y espera que conozcas a Juan" (Chacón)
 
-+"Y el tambien se orina aca?" Mama de Chacon _hablando de que Becerra se orina en la cocina_ 2019
++"Y el tambien se orina aca?" Mamá de Chacón _hablando de que Becerra se orina en la cocina_ 2019
 
 Un puntico bien bacano.
