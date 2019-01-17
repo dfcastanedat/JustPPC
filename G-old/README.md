@@ -14,6 +14,14 @@ Año
 
 ![garay deal with it](https://user-images.githubusercontent.com/36420972/51293849-879a9600-19de-11e9-84ec-4bfc67c848fd.jpeg)
 
+![la pandilla](https://user-images.githubusercontent.com/36420972/51294035-258e6080-19df-11e9-9f42-40d4097a137e.jpeg)
+
+![gavilan 22 creditos](https://user-images.githubusercontent.com/36420972/51294109-7b630880-19df-11e9-8e8e-d07ba4121d52.jpeg)
+
+![avn](https://user-images.githubusercontent.com/36420972/51294178-cc72fc80-19df-11e9-856b-d8b1432c0f10.jpg)
+
+![mami pon la webcam](https://user-images.githubusercontent.com/36420972/51294239-19ef6980-19e0-11e9-83a5-fbdffdbd72b9.jpeg)
+
 
 2018
 ==========================
