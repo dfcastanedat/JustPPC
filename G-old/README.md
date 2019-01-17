@@ -10,7 +10,7 @@ Año
 
 ![Refisal](https://github.com/dfcastanedat/JustPPC/blob/master/G-old/Refisal.jpeg)
 
-![Garay huellas](https://github.com/dfcastanedat/JustPPC/blob/master/G-old/Garay%20huellas.jpeg)
+![Garay huellas](https://user-images.githubusercontent.com/36420972/51293791-56ba6100-19de-11e9-9636-f8e472bffe55.jpeg)
 
 2018
 ==========================
