@@ -12,6 +12,9 @@ Año
 
 ![Garay huellas](https://user-images.githubusercontent.com/36420972/51293791-56ba6100-19de-11e9-9636-f8e472bffe55.jpeg)
 
+![garay deal with it](https://user-images.githubusercontent.com/36420972/51293849-879a9600-19de-11e9-84ec-4bfc67c848fd.jpeg)
+
+
 2018
 ==========================
 
