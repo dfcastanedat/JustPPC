@@ -329,4 +329,6 @@ Año
 
 "El triple boyaco" Higuaran _hablando de posiciones sexuales_ 2019
 
+"Eso nunca pasó" Higuaran _refiriendose al sexo con boyacos que si pasó_ 2019
+
 Un puntico bien bacano.
