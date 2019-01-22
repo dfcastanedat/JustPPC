@@ -351,6 +351,8 @@ Año
 
 "Venga lo muestra  aquí" Chacón _diciéndole a Higuaran para que le muestre el memet en plena plaza del cyt_ 2019
 
+"Perro me puso" _Sebastian empieza a jadear_ Sebastian a Becerra 2019
+
 "Paso derecho" Daniel _recordando cuando le dilato el culo a Juan camilo con 2c_ 2019
 
 Un puntico bien bacano.
