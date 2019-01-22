@@ -337,8 +337,6 @@ Año
 
 "Viva el paro de mi nepe" Toño 2019
 
-"Saquemoslo" Angel hablando con Becerra
-
 +"Becerra tiene otro chisme que no ha contado" (Chacón)
 
 -"El chisme de los memets" Becerra _Revelando que también usa memets_ 2019
