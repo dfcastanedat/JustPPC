@@ -333,7 +333,7 @@ Año
 
 +"Sigo tragado todavía" Becerra
 
-+"Yo puedo arreglar eso. Le voy a recordar a Juli" Iwi 2019
+-"Yo puedo arreglar eso. Le voy a recordar a Juli" Iwi 2019
 
 "Viva el paro de mi nepe" Toño 2019
 
