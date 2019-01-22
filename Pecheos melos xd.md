@@ -331,4 +331,28 @@ Año
 
 "Eso nunca pasó" Higuaran _refiriendose al sexo con boyacos que si pasó_ 2019
 
++"Sigo tragado todavía" Becerra
+
++"Yo puedo arreglar eso. Le voy a recordar a Juli" Iwi 2019
+
+"Viva el paro de mi nepe" Toño 2019
+
+"Saquemoslo" Angel hablando con Becerra
+
++"Becerra tiene otro chisme que no ha contado" (Chacón)
+
+-"El chisme de los memets" Becerra _Revelando que también usa memets_ 2019
+
++"Usted salaría la Universidad?" Sebastian _preguntadole a Higuaran_
+
+-"Con quién?" (Chacón)
+
++"Con Marleny" _la tía adoptiva de Becerra_ Higuaran 2019
+
+"Vea todos los juegos que tiene en ese cuarto" Chacón hablando con Higuaran _sobre los memets que tiene Higuaran en el cuarto_ 2019
+
+"Venga lo muestra  aquí" Chacón _diciéndole a Higuaran para que le muestre el memet en plena plaza del cyt_ 2019
+
+"Paso derecho" Daniel _recordando cuando le dilato el culo a Juan camilo con 2c_ 2019
+
 Un puntico bien bacano.
