@@ -321,7 +321,9 @@ Año
 
 +"Y espera que conozcas a Juan" (Chacón)
 
-+"Y el tambien se orina aca?" Mamá de Chacón _hablando de que Becerra se orina en la cocina_ 2019
++"Y el tambien se orina aca?" Mamá de Chacón _hablando de que Becerra_
+
+-"Si" (Chacón) *confirmando que Becerra se orina en la cocina*  2019
 
 "Estoy muriendo al Pyke" Higuaran _utilizando una frase que utilizan los LGTBI_ 2019
 
