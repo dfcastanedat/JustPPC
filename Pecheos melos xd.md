@@ -355,4 +355,13 @@ Año
 
 "Paso derecho" Daniel _recordando cuando le dilato el culo a Juan camilo con 2c_ 2019
 
+"Ayer se tocó" Higuaran *Hablando de Daniel cuando estuvieron en una videollamada sexual* 2019
+
+"No tengo nada" Iwi *refiriendose a que no posee aparato reproductor (ni masculinio ni femenino)* 2019
+
+"A mi me gustan todos" Toño 2019
+
+"Ayer no me entraba" Toño *refiriendose a un memet que no cabia en su cavidad rectal* 2019
+
+
 Un puntico bien bacano.
