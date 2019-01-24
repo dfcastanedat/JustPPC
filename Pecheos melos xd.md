@@ -321,7 +321,7 @@ Año
 
 +"Y espera que conozcas a Juan" (Chacón)
 
-+"Y el tambien se orina aca?" Mamá de Chacón _hablando de que Becerra_
++"Y el tambien se orina aca?" Mamá de Chacón _hablando de Becerra_
 
 -"Si" (Chacón) *confirmando que Becerra se orina en la cocina*  2019
 
