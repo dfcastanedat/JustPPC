@@ -355,7 +355,7 @@ Año
 
 "Perro me puso" _Sebastian empieza a jadear_ Sebastian a Becerra 2019
 
-"Paso derecho" Daniel _recordando cuando le dilato el culo a Juan camilo con 2c_ 2019
+"Paso derecho" Daniel _recordando cuando le dilato el culo a Juan camilo con popper_ 2019
 
 "Ayer se tocó" Higuaran *Hablando de Daniel cuando estuvieron en una videollamada sexual* 2019
 
