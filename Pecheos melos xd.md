@@ -383,6 +383,6 @@ Año
 
 "Sutramaka" Becerra _nombre de la secta de yoga sexual competencia de la de Higuaran (algo como D1 vs Justo y Bueno)_ 2019
 
-"La preocupación de echarme esa mierda" Garay _dando a entender que existe una red de coprofilia_ 2019
+"La preocupación de echarme esa mierda" Garay _dando a entender que existe una red de coprofilia encabezada por Chacón_ 2019
 
 Un puntico bien bacano.
