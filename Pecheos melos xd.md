@@ -389,4 +389,6 @@ Año
 
 "Yo vi Naruto con E" Higuaran _refiriendose a que vio Naruto con Lord Farquaad_ 2019
 
+"Wortf" Higuaran _hablando sobre la nueva linea de memets_ 2019
+
 Un puntico bien bacano.
