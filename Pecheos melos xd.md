@@ -387,4 +387,6 @@ Año
 
 "Lo de modelos ya está" Higuaran _refiriendose a que ya vio photoprepagos_ 2019
 
+"Yo vi Naruto con E" Higuaran _refiriendose a que vio Naruto con Lord Farquaad_ 2019
+
 Un puntico bien bacano.
