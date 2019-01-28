@@ -385,4 +385,6 @@ Año
 
 "La preocupación de echarme esa mierda" Garay _dando a entender que existe una red de coprofilia encabezada por Chacón_ 2019
 
+"Lo de modelos ya está" Higuaran _refiriendose a que ya vio photoprepagos_ 2019
+
 Un puntico bien bacano.
