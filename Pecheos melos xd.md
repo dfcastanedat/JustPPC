@@ -365,5 +365,6 @@ Año
 
 "Ayer no me entraba" Toño *refiriendose a un memet que no cabia en su cavidad rectal* 2019
 
+"Mk digo que la están montando y llueve mierda" Chacón *revelando su frase clave para que Becerra le cague encima* 2019 
 
 Un puntico bien bacano.
