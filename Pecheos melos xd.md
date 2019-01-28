@@ -377,6 +377,6 @@ Año
 
 "Pobre chacon, entrar me" Sebastián *relatando que su experiencia sexual con Chacón no fue del todo buena* 2019
 
-"Echemos flex con el awe" Daniel _invitando a Sebastian a una secta japonesa que lidera Iwi_ 2019
+"Echemos flex con el awe" Daniel _invitando a Sebastian a una secta tailandesa que lidera Iwi_ 2019
 
 Un puntico bien bacano.
