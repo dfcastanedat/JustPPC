@@ -379,4 +379,6 @@ Año
 
 "Echemos flex con el awe" Daniel _invitando a Sebastian a una secta tailandesa que lidera Iwi_ 2019
 
+"Sutrakama" Higuaran _refiriendo a la secta de yoga sexual que maneja en Tailandia_ 2019
+
 Un puntico bien bacano.
