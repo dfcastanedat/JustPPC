@@ -365,12 +365,16 @@ Año
 
 "Ayer no me entraba" Toño *refiriendose a un memet que no cabia en su cavidad rectal* 2019
 
++"Me llovió mierda" Chacón
+
+-"Fetiches curiosos de Becerra" Sebastián 2019
+
 "Mk digo que la están montando y llueve mierda" Chacón *revelando su frase clave para que Becerra le cague encima* 2019 
 
 "Se estará echando la mierda del gato porque yo no estoy en la casa" Becerra *dando a entender que Chacón necesita suplir sus necesidades coprofílicas 24/7* 2019
 
 "Sigue lloviendo mierda" Chacón *reafirmando la cita anterior* 2019
 
-"pobre chacon, entrar me" Sebastián *relatando que su experiencia sexual con Chacón no fue del todo buena* 2019
+"Pobre chacon, entrar me" Sebastián *relatando que su experiencia sexual con Chacón no fue del todo buena* 2019
 
 Un puntico bien bacano.
