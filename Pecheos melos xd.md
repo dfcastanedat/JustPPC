@@ -371,4 +371,6 @@ Año
 
 "Sigue lloviendo mierda" Chacón *reafirmando la cita anterior* 2019
 
+"pobre chacon, entrar me" Sebastián *relatando que su experiencia sexual con Chacón no fue del todo buena* 2019
+
 Un puntico bien bacano.
