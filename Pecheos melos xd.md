@@ -367,4 +367,8 @@ Año
 
 "Mk digo que la están montando y llueve mierda" Chacón *revelando su frase clave para que Becerra le cague encima* 2019 
 
+"Se estará echando la mierda del gato porque yo no estoy en la casa" Becerra *dando a entender que Chacón necesita suplir sus necesidades coprofílicas 24/7* 2019
+
+"Sigue lloviendo mierda" Chacón *reafirmando la cita anterior* 2019
+
 Un puntico bien bacano.
