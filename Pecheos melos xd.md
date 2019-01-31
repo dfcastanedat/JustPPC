@@ -393,6 +393,10 @@ Año
 
 "Jugando a las venecas" bot iwi 2019
 
+"Cuchi cuchi cuchi" Higuaran _haciendo sonidos antes de dar su clase de yoga sexual online_ 2019
+
+"Jugare a la carrera de conejos" Higuaran _(nombre que le dio al acto de cogerse al primo)_ 2019
+
 "No se arranque la verga" Higuaran _dandole consejos a Daniel sobre como llevar la perdida de Valeria_ 2019
 
 Un puntico bien bacano.
