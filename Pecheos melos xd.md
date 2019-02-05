@@ -399,6 +399,8 @@ Año
 
 "No se arranque la verga" Higuaran _dandole consejos a Daniel sobre como llevar la perdida de Valeria_ 2019
 
-"Cuando la curiosidad mata el gano" Higuaran _horas antes tocarse la poronga pensando en las de la Sergio_ 2019
+"Cuando la curiosidad mata el ganso" Higuaran _horas antes tocarse la poronga pensando en las de la Sergio_ 2019
+
+"Cuando la curiosidad mata el gano" Sebastián _cagándola sobre la cagada_ 2019
 
 Un puntico bien bacano.
