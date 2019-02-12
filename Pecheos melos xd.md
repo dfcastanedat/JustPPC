@@ -405,6 +405,6 @@ Año
 
 "Cuando la curiosidad mata el gano" Sebastián _cagándola sobre la cagada_ 2019
 
-"Yo también le he dado a viejas con manija" Sebastián _afirmando que se ha comido travelos_ 2019
+"Hey yo le he dado a viejas con manija" Sebastián _afirmando que se ha comido travelos_ 2019
 
 Un puntico bien bacano.
