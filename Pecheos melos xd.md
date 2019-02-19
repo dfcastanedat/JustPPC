@@ -407,4 +407,18 @@ Año
 
 "Hey yo le he dado a viejas con manija" Sebastián _afirmando que se ha comido travelos_ 2019
 
+"Ximena cuida a tus primitos" Iwi _*advirtiendo* que cuando los conozca los va a dejar como papa en tenedor_ 2019
+
+"Me enchacona" Iwi _dando a entender que le exita terriblemente todo lo relacionado con la mierda_ 2019
+
+"Nunca los probé, no los pruebo y no los probaré" La vaca Iwi _hablando sobre los memets y dando a entender que siempre se los empaca sin probarlos previamente_ 2019
+
+"Pero yo no me follo a mis primitos" Daniel _dando a entender que solo se folla los primiros ajenos_ 2019
+
+"+Y usted se folla los primos ajenos (Chacón)
+
+-primitos*(Daniel _confirmando lo anterior_)" 2019
+
+"De los creadores de Becerra roba novios, llega Higuaran dentro del primo" Daniel 2019
+
 Un puntico bien bacano.
