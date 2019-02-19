@@ -54,3 +54,4 @@ Año
 
 ![higuaran y sasuke](https://user-images.githubusercontent.com/36420972/51293429-f2e36880-19dc-11e9-8265-cc486b36992e.png)
 ![5ta paja diaria](https://user-images.githubusercontent.com/36420972/51507442-01f05f00-1dbf-11e9-93ef-e6b00a6aacf3.png)
+![Becerra home run](https://user-images.githubusercontent.com/36420972/52984015-96001700-33bb-11e9-8a92-8644ce05ba29.jpeg)
