@@ -57,5 +57,5 @@ Año
 ![Becerra home run](https://user-images.githubusercontent.com/36420972/52984015-96001700-33bb-11e9-8a92-8644ce05ba29.jpeg)
 ![Podio de pendejos](https://user-images.githubusercontent.com/36420972/52985224-ddd56d00-33c0-11e9-93ec-3fea6bcb6f87.jpeg)
 <p align="center">
-  ![juliana becerra 1997](https://user-images.githubusercontent.com/36420972/52985194-baaabd80-33c0-11e9-81d7-f2d68c0a8490.png)
+  <img src="https://user-images.githubusercontent.com/36420972/52985194-baaabd80-33c0-11e9-81d7-f2d68c0a8490.png" alt="juliana becerra 1997">
 </p>
