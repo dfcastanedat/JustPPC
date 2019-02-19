@@ -51,11 +51,11 @@ Año
 
 2019
 ==========================
-
-![higuaran y sasuke](https://user-images.githubusercontent.com/36420972/51293429-f2e36880-19dc-11e9-8265-cc486b36992e.png)
-![5ta paja diaria](https://user-images.githubusercontent.com/36420972/51507442-01f05f00-1dbf-11e9-93ef-e6b00a6aacf3.png)
-![Becerra home run](https://user-images.githubusercontent.com/36420972/52984015-96001700-33bb-11e9-8a92-8644ce05ba29.jpeg)
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/36420972/51293429-f2e36880-19dc-11e9-8265-cc486b36992e.png" alt"higuaran y sasuke">
+  <img src="https://user-images.githubusercontent.com/36420972/51507442-01f05f00-1dbf-11e9-93ef-e6b00a6aacf3.png" alt"5ta paja diaria">
+  <img src="https://user-images.githubusercontent.com/36420972/52985400-a915e580-33c1-11e9-9052-d92bdd4efdaf.gif" alt"Higuaran gif">
+  <img src="https://user-images.githubusercontent.com/36420972/52984015-96001700-33bb-11e9-8a92-8644ce05ba29.jpeg" alt"Becerra home run">
   <img src="https://user-images.githubusercontent.com/36420972/52985224-ddd56d00-33c0-11e9-93ec-3fea6bcb6f87.jpeg" alt="Podio de pendejos">
   <img src="https://user-images.githubusercontent.com/36420972/52985194-baaabd80-33c0-11e9-81d7-f2d68c0a8490.png" alt="juliana becerra 1997">
 </p>
