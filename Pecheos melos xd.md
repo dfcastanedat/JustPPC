@@ -421,4 +421,6 @@ Año
 
 "De los creadores de Becerra roba novios, llega Higuaran dentro del primo" Daniel 2019
 
+"A usted le gustan todas las que lo rechazan" Juliana _trapeando el piso con el corazoncito de Becerra_ 2019
+
 Un puntico bien bacano.
