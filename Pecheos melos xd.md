@@ -423,4 +423,6 @@ Año
 
 "A usted le gustan todas las que lo rechazan" Juliana _trapeando el piso con el corazoncito de Becerra_ 2019
 
+"Yo hago el tercer" Higuaran _refiriendose a aplicar el triple boyaco en modelos_ 2019
+
 Un puntico bien bacano.
