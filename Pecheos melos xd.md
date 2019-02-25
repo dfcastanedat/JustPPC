@@ -425,4 +425,11 @@ Año
 
 "Yo hago el tercer" Higuaran _refiriendose a aplicar el triple boyaco en modelos_ 2019
 
+"JAJAJAJAJAJAJAJAJA Daniel nunca me la chupo :v" Juan Camilo 'el par' _dando a entender que Daniel a él no, pero el si a Daniel_ 2019
+
+"Becerra es negado" Abuelito _refiriendose a qué no sabe chupar la colombina_ 2019
+
+"hey yo se chupar la colombina" Becerra _refutando lo anterior_ 2019
+
+
 Un puntico bien bacano.
