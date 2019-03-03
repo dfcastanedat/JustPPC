@@ -84,8 +84,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/52984015-96001700-33bb-11e9-8a92-8644ce05ba29.jpeg" alt"Becerra home run">
   <img src="https://user-images.githubusercontent.com/36420972/52985224-ddd56d00-33c0-11e9-93ec-3fea6bcb6f87.jpeg" alt="Podio de pendejos">
   <img src="https://user-images.githubusercontent.com/36420972/52985194-baaabd80-33c0-11e9-81d7-f2d68c0a8490.png" alt="juliana becerra 1997">
+  <img src="https://user-images.githubusercontent.com/36462072/53124756-26f50080-352a-11e9-8f29-8a8913d37a3b.jpeg" alt="Becerra bateado 2">
+  <img src="https://user-images.githubusercontent.com/36462072/53124757-278d9700-352a-11e9-92c6-7e0bdc727e6b.jpeg" alt="Becerra's crushes">
+  <img src="https://user-images.githubusercontent.com/36420972/53702304-7f9e8600-3dd3-11e9-8c15-f0464cc823f9.png" alt="Becerra's crush">
 </p>
-
-![whatsapp image 2019-02-20 at 16 00 35](https://user-images.githubusercontent.com/36462072/53124756-26f50080-352a-11e9-8f29-8a8913d37a3b.jpeg)
-![whatsapp image 2019-02-20 at 16 10 13](https://user-images.githubusercontent.com/36462072/53124757-278d9700-352a-11e9-92c6-7e0bdc727e6b.jpeg)
-
