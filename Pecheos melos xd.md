@@ -431,11 +431,11 @@ Año
 
 "hey yo se chupar la colombina" Becerra _refutando lo anterior_ 2019
 
-"¡Empuje Toño empuje!" _Sebastián pidiendo que le den más duro_ 2019
++"¡Empuje Toño empuje!" _Sebastián pidiendo que le den más duro_ 2019
 
-"Aeeee" _Daniel respondiendo a ^^_ 2019
+-"Aeeee" _Daniel celoso_ 2019
 
-"¡No importa, empuje!" _Sebastián ignorando lo marica que está sonando porque está cerca de llegar_ 2019
++"¡No importa, empuje!" _Sebastián ignorando lo marica que está sonando porque está cerca de llegar_ 2019
 
 
 Un puntico bien bacano.
