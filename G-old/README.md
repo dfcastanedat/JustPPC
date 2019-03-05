@@ -87,4 +87,5 @@ Año
   <img src="https://user-images.githubusercontent.com/36462072/53124756-26f50080-352a-11e9-8f29-8a8913d37a3b.jpeg" alt="Becerra bateado 2">
   <img src="https://user-images.githubusercontent.com/36462072/53124757-278d9700-352a-11e9-92c6-7e0bdc727e6b.jpeg" alt="Becerra's crushes">
   <img src="https://user-images.githubusercontent.com/36420972/53702304-7f9e8600-3dd3-11e9-8c15-f0464cc823f9.png" alt="Becerra's crush">
+  <img src="https://user-images.githubusercontent.com/36420972/53772991-79cda100-3eb6-11e9-901b-65dee9430a71.png" alt="Valeria let me in">
 </p>
