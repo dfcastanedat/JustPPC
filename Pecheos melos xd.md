@@ -437,5 +437,6 @@ Año
 
 +"¡No importa, empuje!" _Sebastián ignorando lo marica que está sonando porque está cerca de llegar_ 2019
 
+-"Estoy comiendo un sandwichito de bagre" Higuaran 2019
 
 Un puntico bien bacano.
