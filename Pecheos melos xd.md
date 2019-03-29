@@ -439,4 +439,6 @@ Año
 
 -"Estoy comiendo un sandwichito de bagre" Higuaran 2019
 
+"Procedo a lamerlo" _muy posiblemente mientras sostenía una verga_ Becerra, 2019
+
 Un puntico bien bacano.
