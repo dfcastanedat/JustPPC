@@ -95,5 +95,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/56478106-36cd8a00-6472-11e9-99e9-9266f13612c9.jpeg" alt="Iwi perder peso">
   <img src="https://user-images.githubusercontent.com/36420972/56477826-6b8c1200-646f-11e9-998f-f844fa398ffa.jpeg" alt="Escala relaciones Daniel" height="960">
   <img src="https://user-images.githubusercontent.com/36420972/56929375-05227780-6a9f-11e9-9596-fab3eeaf711c.png" alt="Ontas?" height="560">
+  <img src="https://user-images.githubusercontent.com/36463265/57246013-d6a61e80-7001-11e9-937b-40dd146a176f.png" alt="tetas">
+"
 
 </p>
