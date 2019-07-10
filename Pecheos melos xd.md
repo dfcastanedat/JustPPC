@@ -441,4 +441,6 @@ Año
 
 "Procedo a lamerlo" _muy posiblemente mientras sostenía una verga_ Becerra, 2019
 
+"Eso Becerra, así me gusta" Higuaran _hablandole sucio a Becerra_ 2019
+
 Un puntico bien bacano.
