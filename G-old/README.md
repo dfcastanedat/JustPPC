@@ -101,7 +101,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/58776073-520dd800-858e-11e9-9f38-64568a7ef811.jpeg" alt="Valeria Champions">
   <img src="https://user-images.githubusercontent.com/36420972/62675469-c721d300-b96c-11e9-955d-f110890dcb4a.jpeg" alt="Daniel Ximena" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/62675555-1b2cb780-b96d-11e9-9388-bdc2de27513b.jpeg" alt="Pension" height="750">
-  <img src="https://user-images.githubusercontent.com/36420972/62675830-30eeac80-b96e-11e9-8781-8bce0b6818a7.jpeg" alt="Hugo bateado" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/62675830-30eeac80-b96e-11e9-8781-8bce0b6818a7.jpeg" alt="Hugo bateado" height="600">
 
 
 </p>
