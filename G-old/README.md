@@ -96,10 +96,11 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/56477826-6b8c1200-646f-11e9-998f-f844fa398ffa.jpeg" alt="Escala relaciones Daniel" height="960">
   <img src="https://user-images.githubusercontent.com/36420972/56929375-05227780-6a9f-11e9-9596-fab3eeaf711c.png" alt="Ontas?" height="560">
   <img src="https://user-images.githubusercontent.com/36463265/57246013-d6a61e80-7001-11e9-937b-40dd146a176f.png" alt="tetas">
-  <img src="https://user-images.githubusercontent.com/36420972/57577200-67805e00-7437-11e9-9409-83be65e1b9df.png" alt="No difference"height="700">
+  <img src="https://user-images.githubusercontent.com/36420972/57577200-67805e00-7437-11e9-9409-83be65e1b9df.png" alt="No difference" height="700">
   <img src="https://user-images.githubusercontent.com/36420972/57416636-85935780-71c6-11e9-8d53-d3c99c921f46.jpeg" alt="Enderman?">
   <img src="https://user-images.githubusercontent.com/36420972/58776073-520dd800-858e-11e9-9f38-64568a7ef811.jpeg" alt="Valeria Champions">
-  <img src="https://user-images.githubusercontent.com/36420972/62675469-c721d300-b96c-11e9-955d-f110890dcb4a.jpeg" alt="Daniel Ximena">
+  <img src="https://user-images.githubusercontent.com/36420972/62675469-c721d300-b96c-11e9-955d-f110890dcb4a.jpeg" alt="Daniel Ximena" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/62675555-1b2cb780-b96d-11e9-9388-bdc2de27513b.jpeg" alt="Pension" height="750">
 
 
 </p>
