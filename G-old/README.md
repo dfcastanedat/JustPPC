@@ -100,9 +100,11 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/57416636-85935780-71c6-11e9-8d53-d3c99c921f46.jpeg" alt="Enderman?">
   <img src="https://user-images.githubusercontent.com/36420972/58776073-520dd800-858e-11e9-9f38-64568a7ef811.jpeg" alt="Valeria Champions">
   <img src="https://user-images.githubusercontent.com/36420972/62676061-16690300-b96f-11e9-82df-bbf2d4d38669.jpeg" alt="Waifu de Higuaran">
+    <img src="https://user-images.githubusercontent.com/36420972/62675830-30eeac80-b96e-11e9-8781-8bce0b6818a7.jpeg" alt="Hugo bateado" height="600">
   <img src="https://user-images.githubusercontent.com/36420972/62675469-c721d300-b96c-11e9-955d-f110890dcb4a.jpeg" alt="Daniel Ximena" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/62675555-1b2cb780-b96d-11e9-9388-bdc2de27513b.jpeg" alt="Pension" height="750">
-  <img src="https://user-images.githubusercontent.com/36420972/62675830-30eeac80-b96e-11e9-8781-8bce0b6818a7.jpeg" alt="Hugo bateado" height="600">
+  <img src="https://user-images.githubusercontent.com/36420972/62676501-b5dac580-b970-11e9-988d-23fd4f68b884.jpeg" alt="Dia par">
+
 
 
 </p>
