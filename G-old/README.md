@@ -83,7 +83,9 @@ Año
 
 ![higuaran whiskey](https://user-images.githubusercontent.com/36420972/51293469-232b0700-19dd-11e9-95f4-17d5c8a8005e.jpeg)
 
-![780522b7-827f-4a98-b985-5797239019af](https://user-images.githubusercontent.com/17129785/52986890-298b1500-33c7-11e9-8408-18c415843435.jpeg)
+![higuaran mario kart](https://user-images.githubusercontent.com/17129785/52986890-298b1500-33c7-11e9-8408-18c415843435.jpeg)
+
+![Garay fondo de pantalla](https://user-images.githubusercontent.com/36420972/62913581-50148200-bd52-11e9-94a8-6061eaa739b6.jpeg)
 
 ![go higuaran](https://user-images.githubusercontent.com/36420972/51293407-d2b3a980-19dc-11e9-97b4-d82c8b0add09.jpg)
 
