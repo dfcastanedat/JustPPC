@@ -94,6 +94,8 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/51507442-01f05f00-1dbf-11e9-93ef-e6b00a6aacf3.png" alt"5ta paja diaria">
   <img src="https://user-images.githubusercontent.com/36420972/52985400-a915e580-33c1-11e9-9052-d92bdd4efdaf.gif" alt"Higuaran gif">
   <img src="https://user-images.githubusercontent.com/36420972/52984015-96001700-33bb-11e9-8a92-8644ce05ba29.jpeg" alt"Becerra home run">
+  <img src="https://user-images.githubusercontent.com/36420972/62913345-5c4c0f80-bd51-11e9-8da7-f40727bdd9e8.jpeg" alt="Triviño weed">
+  <img src="https://user-images.githubusercontent.com/36420972/62913297-26a72680-bd51-11e9-93e3-3a37e90925ab.jpeg" alt="Triviño Evangelion">
   <img src="https://user-images.githubusercontent.com/36420972/52985224-ddd56d00-33c0-11e9-93ec-3fea6bcb6f87.jpeg" alt="Podio de pendejos">
   <img src="https://user-images.githubusercontent.com/36420972/52985194-baaabd80-33c0-11e9-81d7-f2d68c0a8490.png" alt="juliana becerra 1997">
   <img src="https://user-images.githubusercontent.com/36462072/53124756-26f50080-352a-11e9-8f29-8a8913d37a3b.jpeg" alt="Becerra bateado 2">
