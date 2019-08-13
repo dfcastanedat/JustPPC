@@ -63,6 +63,8 @@ Año
 
 ![la religion del toto](https://user-images.githubusercontent.com/36420972/51295006-9172c800-19e3-11e9-8427-ea0742127f2b.jpeg)
 
+![Becerra escoba](https://user-images.githubusercontent.com/36420972/62911631-ab427680-bd4a-11e9-914b-3d7ba63086f3.png)
+
 ![becerra virgo senal](https://user-images.githubusercontent.com/36420972/51295004-9172c800-19e3-11e9-8993-b5795f19e545.jpeg)
 
 ![higuaran comiendo](https://user-images.githubusercontent.com/36420972/51295172-62a92180-19e4-11e9-99d7-b73743a2375c.jpeg)
