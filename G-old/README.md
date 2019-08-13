@@ -51,7 +51,9 @@ Año
 
 ![gavilan bano](https://user-images.githubusercontent.com/36420972/51294409-b0bc2600-19e0-11e9-839f-3a04f93cdd19.jpeg)
 
-![8cf99afc-37a1-43aa-b5e2-78104ed668ea](https://user-images.githubusercontent.com/17129785/52986888-27c15180-33c7-11e9-9473-b2d1f2e4d773.jpeg)
+![Pacho-daniel](https://user-images.githubusercontent.com/17129785/52986888-27c15180-33c7-11e9-9473-b2d1f2e4d773.jpeg)
+
+![Bar Cam4](https://user-images.githubusercontent.com/36420972/62912933-bb108980-bd4f-11e9-859e-f3feea889879.jpeg)
 
 ![Gavilan y Garay](https://user-images.githubusercontent.com/36420972/56928985-115a0500-6a9e-11e9-95c1-639b4a0a2271.jpeg)
 
@@ -72,12 +74,17 @@ Año
 ![hermanos garay](https://user-images.githubusercontent.com/36420972/51295237-a865ea00-19e4-11e9-8bd3-e2a69d6496d1.jpeg)
 
 ![becerra drake](https://user-images.githubusercontent.com/17129785/52986627-33604880-33c6-11e9-8d9e-6a289afb7f65.jpg)
+
 ![becerra triggered](https://user-images.githubusercontent.com/17129785/52986629-352a0c00-33c6-11e9-8815-5f90708e34cc.jpg)
 
 ![becerra chacon y tito](https://user-images.githubusercontent.com/36420972/51293301-4e612680-19dc-11e9-9ecd-28333341514d.jpeg)
 
+![Garay RTX](https://user-images.githubusercontent.com/36420972/62913193-ca440700-bd50-11e9-96fa-6407db602135.jpeg)
+
 ![higuaran whiskey](https://user-images.githubusercontent.com/36420972/51293469-232b0700-19dd-11e9-95f4-17d5c8a8005e.jpeg)
+
 ![780522b7-827f-4a98-b985-5797239019af](https://user-images.githubusercontent.com/17129785/52986890-298b1500-33c7-11e9-8408-18c415843435.jpeg)
+
 ![go higuaran](https://user-images.githubusercontent.com/36420972/51293407-d2b3a980-19dc-11e9-97b4-d82c8b0add09.jpg)
 
 2019
