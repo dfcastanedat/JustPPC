@@ -87,6 +87,8 @@ Año
 
 ![Garay fondo de pantalla](https://user-images.githubusercontent.com/36420972/62913581-50148200-bd52-11e9-94a8-6061eaa739b6.jpeg)
 
+![Becerra viendo anime paralela](https://user-images.githubusercontent.com/36420972/62913652-9538b400-bd52-11e9-8afa-6cf179140490.jpeg)
+
 ![go higuaran](https://user-images.githubusercontent.com/36420972/51293407-d2b3a980-19dc-11e9-97b4-d82c8b0add09.jpg)
 
 2019
