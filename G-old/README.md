@@ -120,6 +120,9 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/62675555-1b2cb780-b96d-11e9-9388-bdc2de27513b.jpeg" alt="Pension" height="750">
   <img src="https://user-images.githubusercontent.com/36420972/62676501-b5dac580-b970-11e9-988d-23fd4f68b884.jpeg" alt="Dia par">
   <img src="https://user-images.githubusercontent.com/36420972/62844451-162a7980-bc87-11e9-8124-5a399c765a65.jpeg" alt="Jackpot">
+  <img src="https://user-images.githubusercontent.com/36420972/64271018-2e965880-cf02-11e9-8476-8e5b363098be.jpeg" alt="Dank">
+  <img src="https://user-images.githubusercontent.com/36420972/64270988-1f170f80-cf02-11e9-8a15-64be8161b0c9.jpeg" alt="El Papa">
+  <img src="https://user-images.githubusercontent.com/36420972/64270935-04449b00-cf02-11e9-8ee0-d6882cd2faf8.jpeg" alt="Magneto">
 
 
 
