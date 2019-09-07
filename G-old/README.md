@@ -94,10 +94,10 @@ Año
 2019
 ==========================
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/36420972/51293429-f2e36880-19dc-11e9-8265-cc486b36992e.png" alt"higuaran y sasuke">
-  <img src="https://user-images.githubusercontent.com/36420972/51507442-01f05f00-1dbf-11e9-93ef-e6b00a6aacf3.png" alt"5ta paja diaria">
-  <img src="https://user-images.githubusercontent.com/36420972/52985400-a915e580-33c1-11e9-9052-d92bdd4efdaf.gif" alt"Higuaran gif">
-  <img src="https://user-images.githubusercontent.com/36420972/52984015-96001700-33bb-11e9-8a92-8644ce05ba29.jpeg" alt"Becerra home run">
+  <img src="https://user-images.githubusercontent.com/36420972/51293429-f2e36880-19dc-11e9-8265-cc486b36992e.png" alt="higuaran y sasuke">
+  <img src="https://user-images.githubusercontent.com/36420972/51507442-01f05f00-1dbf-11e9-93ef-e6b00a6aacf3.png" alt="5ta paja diaria">
+  <img src="https://user-images.githubusercontent.com/36420972/52985400-a915e580-33c1-11e9-9052-d92bdd4efdaf.gif" alt="Higuaran gif">
+  <img src="https://user-images.githubusercontent.com/36420972/52984015-96001700-33bb-11e9-8a92-8644ce05ba29.jpeg" alt="Becerra home run">
   <img src="https://user-images.githubusercontent.com/36420972/62913345-5c4c0f80-bd51-11e9-8da7-f40727bdd9e8.jpeg" alt="Triviño weed">
   <img src="https://user-images.githubusercontent.com/36420972/62913297-26a72680-bd51-11e9-93e3-3a37e90925ab.jpeg" alt="Triviño Evangelion">
   <img src="https://user-images.githubusercontent.com/36420972/52985224-ddd56d00-33c0-11e9-93ec-3fea6bcb6f87.jpeg" alt="Podio de pendejos">
@@ -121,9 +121,10 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/62676501-b5dac580-b970-11e9-988d-23fd4f68b884.jpeg" alt="Dia par">
   <img src="https://user-images.githubusercontent.com/36420972/62844451-162a7980-bc87-11e9-8124-5a399c765a65.jpeg" alt="Jackpot">
   <img src="https://user-images.githubusercontent.com/36420972/64271018-2e965880-cf02-11e9-8476-8e5b363098be.jpeg" alt="Ximena Shitposting" height="700">
-  <img src="https://user-images.githubusercontent.com/36420972/64270988-1f170f80-cf02-11e9-8a15-64be8161b0c9.jpeg" alt="El Papa">
-  <img src="https://user-images.githubusercontent.com/36420972/64270935-04449b00-cf02-11e9-8ee0-d6882cd2faf8.jpeg" alt="Magneto">
+  <img src="https://user-images.githubusercontent.com/36420972/64270988-1f170f80-cf02-11e9-8a15-64be8161b0c9.jpeg" alt="El Papa" height="700">
+  <img src="https://user-images.githubusercontent.com/36420972/64270935-04449b00-cf02-11e9-8ee0-d6882cd2faf8.jpeg" alt="Magneto" height="700">
   <img src="https://user-images.githubusercontent.com/36420972/64477623-8ed80500-d163-11e9-88ba-02f30e71c8d9.png" alt="Mateo y Garay">
+  <img src="https://user-images.githubusercontent.com/36420972/64477964-3571d500-d167-11e9-8951-1d90d8e627df.gif" alt="iwi aliento">
 
 
 
