@@ -129,7 +129,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/64270935-04449b00-cf02-11e9-8ee0-d6882cd2faf8.jpeg" alt="Magneto" height="700">
   <img src="https://user-images.githubusercontent.com/36420972/64477623-8ed80500-d163-11e9-88ba-02f30e71c8d9.png" alt="Mateo y Garay">
   <img src="https://user-images.githubusercontent.com/36420972/64478091-c1d0c780-d168-11e9-9f38-a42ec4fb9a8b.gif" alt="iwi aliento 2">
-  <img src="https://user-images.githubusercontent.com/36420972/64582868-8c88cd00-d354-11e9-93e0-3f3fdd09d7b3.jpeg" alt="Wailmer Daniel" height="700">
+  <img src="https://user-images.githubusercontent.com/36420972/64582868-8c88cd00-d354-11e9-93e0-3f3fdd09d7b3.jpeg" alt="Wailmer Daniel" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/64582878-95799e80-d354-11e9-868a-d0fd0384ad7e.jpeg" alt="Pokemon carcel">
 
 
