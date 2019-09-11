@@ -439,7 +439,7 @@ Año
 
 -"Estoy comiendo un sandwichito de bagre" Higuaran 2019
 
-"Procedo a lamerlo" _muy posiblemente mientras sostenía una verga_ Becerra, 2019
+"Procedo a lamerlo" Becerra _muy posiblemente mientras sostenía una verga_, 2019
 
 "Eso Becerra, así me gusta" Higuaran _hablandole sucio a Becerra_ 2019
 
