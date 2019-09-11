@@ -443,4 +443,6 @@ Año
 
 "Eso Becerra, así me gusta" Higuaran _hablandole sucio a Becerra_ 2019
 
+"Hacer el externado en Alemania" Higuaran 2019
+
 Un puntico bien bacano.
