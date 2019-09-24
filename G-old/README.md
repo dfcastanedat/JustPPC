@@ -63,6 +63,8 @@ Año
 
 ![catedra daniel castaneda](https://user-images.githubusercontent.com/36420972/51295005-9172c800-19e3-11e9-9cd1-054cf9404725.jpeg)
 
+![F por el PC de Becerra](https://user-images.githubusercontent.com/36420972/65472208-f797d080-de37-11e9-9165-b4fc139ce247.jpeg)
+
 ![la religion del toto](https://user-images.githubusercontent.com/36420972/51295006-9172c800-19e3-11e9-8427-ea0742127f2b.jpeg)
 
 ![Becerra escoba](https://user-images.githubusercontent.com/36420972/62911631-ab427680-bd4a-11e9-914b-3d7ba63086f3.png)
