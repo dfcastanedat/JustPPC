@@ -5,6 +5,7 @@ Año
 * [2017](#2017)
 * [2018](#2018)
 * [2019](#2019)
+* [2020](#2020)
 
 2017
 ==========================
@@ -448,5 +449,10 @@ Año
 "Ximena pero blanca" Higuaran _hablando de mundos paralelos_ 2019
 
 "No me hagan reir porque me muero" Higuaran 2032
+
+2020
+==========================
+
+"Por qué Becerra no contesta?" Higuaran recibiendo una llamada de Becerra, 2020
 
 Un puntico bien bacano.
