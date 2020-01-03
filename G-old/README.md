@@ -147,4 +147,5 @@ Año
 2020
 ==========================
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/36420972/71736582-729d5980-2e1f-11ea-805d-6e6b3af91271.jpg" alt="WW3 85kg" height="700">
 </p>
