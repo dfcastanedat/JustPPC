@@ -84,6 +84,8 @@ Año
 
 ![Garay RTX](https://user-images.githubusercontent.com/36420972/62913193-ca440700-bd50-11e9-96fa-6407db602135.jpeg)
 
+![Daniel cosplay](https://user-images.githubusercontent.com/36420972/71924130-5faac200-315c-11ea-8d8a-c9de51dd008e.jpg)
+
 ![higuaran whiskey](https://user-images.githubusercontent.com/36420972/51293469-232b0700-19dd-11e9-95f4-17d5c8a8005e.jpeg)
 
 ![higuaran mario kart](https://user-images.githubusercontent.com/17129785/52986890-298b1500-33c7-11e9-8408-18c415843435.jpeg)
