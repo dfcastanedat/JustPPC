@@ -148,4 +148,5 @@ Año
 ==========================
 <p align="center">
   <img src="https://user-images.githubusercontent.com/36420972/71736582-729d5980-2e1f-11ea-805d-6e6b3af91271.jpg" alt="WW3 85kg" height="650">
+    <img src="https://user-images.githubusercontent.com/36420972/71922600-3e94a200-3159-11ea-957a-6d82e6f28de2.png" alt="Adiestramiento">
 </p>
