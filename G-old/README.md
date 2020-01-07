@@ -94,6 +94,8 @@ Año
 
 ![higuaran mario kart](https://user-images.githubusercontent.com/17129785/52986890-298b1500-33c7-11e9-8408-18c415843435.jpeg)
 
+![Becerra hambre](https://user-images.githubusercontent.com/36420972/71924481-17d86a80-315d-11ea-9bb4-0cb83f7ca6e9.png)
+
 ![Garay fondo de pantalla](https://user-images.githubusercontent.com/36420972/62913581-50148200-bd52-11e9-94a8-6061eaa739b6.jpeg)
 
 ![Becerra viendo anime paralela](https://user-images.githubusercontent.com/36420972/62913652-9538b400-bd52-11e9-8afa-6cf179140490.jpeg)
