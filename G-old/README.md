@@ -100,6 +100,8 @@ Año
 
 ![Becerra viendo anime paralela](https://user-images.githubusercontent.com/36420972/62913652-9538b400-bd52-11e9-8afa-6cf179140490.jpeg)
 
+![Becerra modelos](https://user-images.githubusercontent.com/36420972/71924600-49e9cc80-315d-11ea-974d-c576cc55f349.png)
+
 ![go higuaran](https://user-images.githubusercontent.com/36420972/51293407-d2b3a980-19dc-11e9-97b4-d82c8b0add09.jpg)
 
 ![Bob Esponsh](https://user-images.githubusercontent.com/36420972/64479586-cdc78400-d17e-11e9-80a5-83129047f01b.jpeg)
