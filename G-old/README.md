@@ -84,6 +84,10 @@ Año
 
 ![Garay RTX](https://user-images.githubusercontent.com/36420972/62913193-ca440700-bd50-11e9-96fa-6407db602135.jpeg)
 
+![Becerra RTX](https://user-images.githubusercontent.com/36420972/71924286-b0221f80-315c-11ea-8a37-6ad796697e99.png)  
+
+![Becerra blonde](https://user-images.githubusercontent.com/36420972/71924344-cdef8480-315c-11ea-88ae-fd07236cc8f7.jpg)
+
 ![Daniel cosplay](https://user-images.githubusercontent.com/36420972/71924130-5faac200-315c-11ea-8d8a-c9de51dd008e.jpg)
 
 ![higuaran whiskey](https://user-images.githubusercontent.com/36420972/51293469-232b0700-19dd-11e9-95f4-17d5c8a8005e.jpeg)
