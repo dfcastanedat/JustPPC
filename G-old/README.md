@@ -161,5 +161,5 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/71736582-729d5980-2e1f-11ea-805d-6e6b3af91271.jpg" alt="WW3 85kg" height="650">
     <img src="https://user-images.githubusercontent.com/36420972/71922600-3e94a200-3159-11ea-957a-6d82e6f28de2.png" alt="Adiestramiento" height="500">
     <img src="https://user-images.githubusercontent.com/36420972/72685383-93b8a800-3ab7-11ea-9fca-58073bf037cf.png" alt="Top 3 Becerras">
-    <img src="https://user-images.githubusercontent.com/36420972/72685417-c8c4fa80-3ab7-11ea-9371-76c884db51aa.jpeg" alt="Becerra coreano" height="600">
+    <img src="https://user-images.githubusercontent.com/36420972/72694033-714b7c80-3b01-11ea-9233-9b330a66f116.jpeg" alt="Becerra coreano" height="600">
 </p>
