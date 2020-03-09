@@ -166,7 +166,7 @@ Año
     <img src="https://user-images.githubusercontent.com/36420972/76182543-42fa2d00-6193-11ea-8197-38a7edccb5a3.jpeg" alt="Iwi PPC Sara" height="650">
     <img src="https://user-images.githubusercontent.com/36420972/76182583-6b822700-6193-11ea-8a3b-afe40c96a05e.jpeg" alt="Fetiches de iwi" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/76182633-a97f4b00-6193-11ea-90a1-a6f8cb909571.jpeg" alt="Council">
-  <img src="https://user-images.githubusercontent.com/36420972/76183344-1693e000-6196-11ea-8ced-0c841a46ece8.gif" alt="Becerra bailando inteligentes">
+  <img src="https://user-images.githubusercontent.com/36420972/76183344-1693e000-6196-11ea-8ced-0c841a46ece8.gif" alt="Becerra bailando inteligentes" height="600">
   <img src="https://user-images.githubusercontent.com/36420972/76182672-c61b8300-6193-11ea-9f9d-85c5acb31d8e.jpeg" alt="Hugo hetero" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/76182748-0844c480-6194-11ea-9992-0bc14813599d.jpeg" alt="Horario de Daniel" height="450">
   <img src="https://user-images.githubusercontent.com/36420972/76182890-82754900-6194-11ea-8eeb-56353c9dfd49.jpeg" alt="Daniel practica" height="650">  
