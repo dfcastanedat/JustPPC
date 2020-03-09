@@ -82,6 +82,8 @@ Año
 
 ![becerra chacon y tito](https://user-images.githubusercontent.com/36420972/51293301-4e612680-19dc-11e9-9ecd-28333341514d.jpeg)
 
+![becerra no hace nada](https://user-images.githubusercontent.com/36420972/76184568-78eedf80-619a-11ea-89dc-e195f1d987fb.jpeg)
+
 ![Garay RTX](https://user-images.githubusercontent.com/36420972/62913193-ca440700-bd50-11e9-96fa-6407db602135.jpeg)
 
 ![Becerra RTX](https://user-images.githubusercontent.com/36420972/71924286-b0221f80-315c-11ea-8a37-6ad796697e99.png)  
