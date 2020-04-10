@@ -141,6 +141,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/62844451-162a7980-bc87-11e9-8124-5a399c765a65.jpeg" alt="Jackpot">
   <img src="https://user-images.githubusercontent.com/36420972/64271018-2e965880-cf02-11e9-8476-8e5b363098be.jpeg" alt="Ximena Shitposting" height="700">
   <img src="https://user-images.githubusercontent.com/36420972/64479590-e20b8100-d17e-11e9-80b6-7642dadab850.jpeg" alt="My sexi Akali">
+  <img src="https://user-images.githubusercontent.com/36420972/78965311-4ea67f80-7ac2-11ea-93b9-b89861426f3a.jpeg" alt="La vida Becerra">
   <img src="https://user-images.githubusercontent.com/36420972/64270988-1f170f80-cf02-11e9-8a15-64be8161b0c9.jpeg" alt="El Papa" height="700">
   <img src="https://user-images.githubusercontent.com/36420972/64270935-04449b00-cf02-11e9-8ee0-d6882cd2faf8.jpeg" alt="Magneto" height="700">
   <img src="https://user-images.githubusercontent.com/36420972/64477623-8ed80500-d163-11e9-88ba-02f30e71c8d9.png" alt="Mateo y Garay">
