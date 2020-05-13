@@ -177,5 +177,5 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/76184512-3a592500-619a-11ea-85f5-3b79432ba3ea.jpeg" alt="PPC original" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/76182890-82754900-6194-11ea-8eeb-56353c9dfd49.jpeg" alt="Daniel practica" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/78965985-40596300-7ac4-11ea-8d7f-5f4fc2a62271.jpeg" alt="Top 4 Becerras" height="650">
-  <img src="https://user-images.githubusercontent.com/36420972/81874197-00622180-9543-11ea-9e95-8f407d7c0b75.jpeg" alt="Iwita" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/81874197-00622180-9543-11ea-9e95-8f407d7c0b75.jpeg" alt="Iwita" height="600">
 </p>
