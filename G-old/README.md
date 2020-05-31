@@ -181,9 +181,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/78965985-40596300-7ac4-11ea-8d7f-5f4fc2a62271.jpeg" alt="Top 4 Becerras" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/81874197-00622180-9543-11ea-9e95-8f407d7c0b75.jpeg" alt="Iwita">
   <img src="https://user-images.githubusercontent.com/36420972/83345614-e3677580-a2da-11ea-87bb-3722f95f3a25.jpeg" alt="The pyramid of Intellect">
-</p>
   <img src="https://user-images.githubusercontent.com/36420972/81959764-947cc900-95d5-11ea-899b-66ac238652d0.jpeg" alt="Valeria sees">
   <img src="https://user-images.githubusercontent.com/36420972/82391686-8b419100-9a07-11ea-9365-48ae132f5549.jpeg" alt="Triviño sees">
-</p>
   <img src="https://user-images.githubusercontent.com/36420972/83345672-8d470200-a2db-11ea-82be-d67461ef33f0.jpeg" alt="GTA infernus">
 </p>
