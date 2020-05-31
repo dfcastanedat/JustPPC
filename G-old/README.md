@@ -126,6 +126,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/53702304-7f9e8600-3dd3-11e9-8c15-f0464cc823f9.png" alt="Becerra's crush">
   <img src="https://user-images.githubusercontent.com/36420972/53772991-79cda100-3eb6-11e9-901b-65dee9430a71.png" alt="Valeria let me in">
   <img src="https://user-images.githubusercontent.com/36420972/83345592-96839f00-a2da-11ea-843b-89d077c8b24e.jpeg" alt="Dream team de iwi" height="650">
+    <img src="https://user-images.githubusercontent.com/36420972/83345646-4bb65700-a2db-11ea-9703-1865e0487bfd.jpeg" alt="Calamardo Iwi">
   <img src="https://user-images.githubusercontent.com/36420972/56477886-0553bf00-6470-11e9-9535-87e2e4a1df61.jpeg" alt="Daniel Ximena iwi" height="840">
   <img src="https://user-images.githubusercontent.com/36420972/56478106-36cd8a00-6472-11e9-99e9-9266f13612c9.jpeg" alt="Iwi perder peso">
   <img src="https://user-images.githubusercontent.com/36420972/56477826-6b8c1200-646f-11e9-998f-f844fa398ffa.jpeg" alt="Escala relaciones Daniel" height="960">
@@ -183,4 +184,6 @@ Año
 </p>
   <img src="https://user-images.githubusercontent.com/36420972/81959764-947cc900-95d5-11ea-899b-66ac238652d0.jpeg" alt="Valeria sees">
   <img src="https://user-images.githubusercontent.com/36420972/82391686-8b419100-9a07-11ea-9365-48ae132f5549.jpeg" alt="Triviño sees">
+</p>
+  <img src="https://user-images.githubusercontent.com/36420972/83345672-8d470200-a2db-11ea-82be-d67461ef33f0.jpeg" alt="GTA infernus" height="650">
 </p>
