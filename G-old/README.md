@@ -183,6 +183,8 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/83345614-e3677580-a2da-11ea-87bb-3722f95f3a25.jpeg" alt="The pyramid of Intellect">
   <img src="https://user-images.githubusercontent.com/36420972/81959764-947cc900-95d5-11ea-899b-66ac238652d0.jpeg" alt="Valeria sees">
   <img src="https://user-images.githubusercontent.com/36420972/82391686-8b419100-9a07-11ea-9365-48ae132f5549.jpeg" alt="Triviño sees">
+  <img src="https://user-images.githubusercontent.com/36420972/83345879-6984bb80-a2dd-11ea-936b-e9131af1fec9.jpeg" alt="Iwi papada">
   <img src="https://user-images.githubusercontent.com/36420972/83345672-8d470200-a2db-11ea-82be-d67461ef33f0.jpeg" alt="GTA infernus">
+  <img src="https://user-images.githubusercontent.com/36420972/83345823-e2cfde80-a2dc-11ea-8832-00b7a01dbfff.png" alt="Miercoles de siluetas" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/83345778-8076de00-a2dc-11ea-8b7e-61819a7ab0b1.jpeg" alt="Daniel Dobby" height="650">
 </p>
