@@ -189,4 +189,5 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/83345778-8076de00-a2dc-11ea-8b7e-61819a7ab0b1.jpeg" alt="Daniel Dobby" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/83666922-46833180-a593-11ea-9031-46b5d99746e1.jpeg" alt="VRM de la board de Becerra">
   <img src="https://user-images.githubusercontent.com/36420972/83662010-96122f00-a58c-11ea-98c8-98244345b994.jpeg" alt="Daniel peye vs Daniel melo">
+  <img src="https://user-images.githubusercontent.com/36420972/84952805-3487af80-b0b8-11ea-8bff-b19b244fd0f0.jpeg" alt="Les faltó un cronograma">
 </p>
