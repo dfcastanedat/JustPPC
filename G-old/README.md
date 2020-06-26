@@ -194,4 +194,5 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/83662010-96122f00-a58c-11ea-98c8-98244345b994.jpeg" alt="Daniel peye vs Daniel melo">
   <img src="https://user-images.githubusercontent.com/36420972/84952805-3487af80-b0b8-11ea-8bff-b19b244fd0f0.jpeg" alt="Les faltó un cronograma">
   <img src="https://user-images.githubusercontent.com/36420972/85238118-5a32f280-b3f1-11ea-8587-1633e7a11e17.jpeg" alt="Ximena manipula a Daniel" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/85907345-cab58700-b7d6-11ea-9ad4-47f2a345e3b2.jpeg" alt="Don teton salio del grupo">
 </p>
