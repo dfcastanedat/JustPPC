@@ -197,4 +197,5 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/85907434-1405d680-b7d7-11ea-8474-72931088b5b0.jpeg" alt="Trello TICS">
   <img src="https://user-images.githubusercontent.com/36420972/85907345-cab58700-b7d6-11ea-9ad4-47f2a345e3b2.jpeg" alt="Don teton salio del grupo">
   <img src="https://user-images.githubusercontent.com/36420972/85909298-c9885800-b7de-11ea-8113-3d34fa05add0.jpeg" alt="Higuaran en MHW">
+  <img src="https://user-images.githubusercontent.com/36420972/86074545-d1006900-ba4b-11ea-8254-e59824dc9d5b.jpeg" alt="La mano de mono">
 </p>
