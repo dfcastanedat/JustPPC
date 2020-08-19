@@ -20,6 +20,8 @@ Este repositorio creado por el grupo PPC reune las vivencias chistosas en el pro
 
 🔥🔥😂😂👌👌Toño (Tatán/Fortich)😤😤👌👌🔥🔥
 
+🔥🔥😂😂👌👌Hugomar2 (Grupo noche)😤😤👌👌🔥🔥
+
 # Personajes de la carrera 
 
 🔥🔥😂😂👌👌Pacho (Más feo que la mierda)😤😤👌👌🔥🔥
