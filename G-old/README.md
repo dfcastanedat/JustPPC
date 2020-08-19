@@ -199,6 +199,12 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/85907345-cab58700-b7d6-11ea-9ad4-47f2a345e3b2.jpeg" alt="Don teton salio del grupo">
   <img src="https://user-images.githubusercontent.com/36420972/85909298-c9885800-b7de-11ea-8113-3d34fa05add0.jpeg" alt="Higuaran en MHW">
   <img src="https://user-images.githubusercontent.com/36420972/86074545-d1006900-ba4b-11ea-8254-e59824dc9d5b.jpeg" alt="La mano de mono">
-  <!-- Me le cagué el Readme jajaajsjda bobo hpta -->
-  <img src="https://github.com/dfcastanedat/JustPPC/blob/8e14bbed43b5fb3d45a9f0ee02ee7723ab47dfb9/G-old/WhatsApp%20Image%202020-07-20%20at%2015.04.47.jpeg?raw=true" alt="Peña bajo cero">  
+  <img src="https://user-images.githubusercontent.com/36420972/90595189-d9eefa80-e1b1-11ea-9924-42a82ca860b2.jpeg" alt="Bajo cero" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/90595283-14f12e00-e1b2-11ea-9329-926c908a026a.jpeg" alt="Top frozono" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/90595748-27b83280-e1b3-11ea-935a-81dd836b0d8d.jpg" alt="Higuaran en 5 años" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/90595335-3ce09180-e1b2-11ea-803b-2ad8130782af.jpeg" alt="Multiples iwi gafas" height="500">
+  <img src="https://user-images.githubusercontent.com/36420972/90595853-56360d80-e1b3-11ea-934f-6f695401b3af.jpeg" alt="Higuaran machista" height="500">
+  <img src="https://user-images.githubusercontent.com/36420972/90595904-706feb80-e1b3-11ea-8f68-ffebf98da3e7.jpeg" alt="Ximena Deisy" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/90596069-ca70b100-e1b3-11ea-95ba-65473645f8e7.jpeg" alt="Noche de pelis" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/90596003-a9a85b80-e1b3-11ea-87b0-c541eb908ac8.png" alt="Calamardo con Higuaran" height="650">
 </p>
