@@ -207,7 +207,26 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/90595335-3ce09180-e1b2-11ea-803b-2ad8130782af.jpeg" alt="Multiples iwi gafas" height="500">
   <img src="https://user-images.githubusercontent.com/36420972/90596319-54b91500-e1b4-11ea-9cf1-1bfa4852230d.jpeg" alt="Sebastian en Beirut" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/90595853-56360d80-e1b3-11ea-934f-6f695401b3af.jpeg" alt="Higuaran machista" height="500">
-  <img src="https://user-images.githubusercontent.com/36420972/90595904-706feb80-e1b3-11ea-8f68-ffebf98da3e7.jpeg" alt="Ximena Deisy" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/90595904-706feb80-e1b3-11ea-8f68-ffebf98da3e7.jpeg" alt="Valeria Ximena Deisy" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/90596069-ca70b100-e1b3-11ea-95ba-65473645f8e7.jpeg" alt="Noche de pelis" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/90596003-a9a85b80-e1b3-11ea-87b0-c541eb908ac8.png" alt="Calamardo con Higuaran" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94181261-d57ac900-fe64-11ea-977c-92f75531cf4a.jpeg" alt="Higuaran textura" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94181449-1ffc4580-fe65-11ea-87ba-035b1ffddb6e.jpeg" alt="Higuaran enano" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94182135-1b845c80-fe66-11ea-8dc9-1c32423de2a9.png" alt="Apagalo Otto" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94182219-453d8380-fe66-11ea-96e1-a344ead318e7.jpeg" alt="Elo de Higuaran" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94182569-d1e84180-fe66-11ea-9ee7-be5eaa8e906f.png" alt="Higuara payasito" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94182455-a6655700-fe66-11ea-9a35-7a879e58d45f.jpeg" alt="Becerra mujer" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94183336-e1b45580-fe67-11ea-8265-28a274f43d50.png" alt="Becerra toalla" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94182721-03f9a380-fe67-11ea-8ea9-ae55af0c6a60.jpeg" alt="100 kills" height="700">
+  <img src="https://user-images.githubusercontent.com/36420972/94182654-ecbab600-fe66-11ea-97f5-4fee5f6f2396.jpeg" alt="La Momia" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94183056-75395680-fe67-11ea-808e-715713da7389.png" alt="Becerra volumen" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94183220-b598d480-fe67-11ea-9c45-f73fa2bbb96e.jpeg" alt="Higuaran acoso" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94183617-4ff91800-fe68-11ea-8272-12bd05537c9c.png" alt="Toño no se le da" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94183673-67380580-fe68-11ea-9055-6c39cb0a412b.png" alt="Eloboost a Daniel" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94183716-7dde5c80-fe68-11ea-873a-b57c9d0b4328.jpg" alt="Higuaran bullying" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94183796-977fa400-fe68-11ea-8df5-714038347255.png" alt="Becerra trabajo" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94184082-00671c00-fe69-11ea-8137-ed7aa859f36c.png" alt="Notas de voz Higuaran" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94184475-9307bb00-fe69-11ea-8c95-25a53182b450.jpeg" alt="Podio Becerra KDA" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94184133-11179200-fe69-11ea-96de-6f0e8d73a869.png" alt="Willybear" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94184239-3ad0b900-fe69-11ea-8c75-11cd364560e6.jpg" alt="Daniel Doom" height="650">
 </p>
