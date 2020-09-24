@@ -213,11 +213,11 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/94181261-d57ac900-fe64-11ea-977c-92f75531cf4a.jpeg" alt="Higuaran textura" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94181449-1ffc4580-fe65-11ea-87ba-035b1ffddb6e.jpeg" alt="Higuaran enano" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94182135-1b845c80-fe66-11ea-8dc9-1c32423de2a9.png" alt="Apagalo Otto" height="650">
-  <img src="https://user-images.githubusercontent.com/36420972/94182219-453d8380-fe66-11ea-96e1-a344ead318e7.jpeg" alt="Elo de Higuaran" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/94182219-453d8380-fe66-11ea-96e1-a344ead318e7.jpeg" alt="Elo de Higuaran" height="600">
   <img src="https://user-images.githubusercontent.com/36420972/94182569-d1e84180-fe66-11ea-9ee7-be5eaa8e906f.png" alt="Higuara payasito" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94182455-a6655700-fe66-11ea-9a35-7a879e58d45f.jpeg" alt="Becerra mujer" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94183336-e1b45580-fe67-11ea-8265-28a274f43d50.png" alt="Becerra toalla" height="650">
-  <img src="https://user-images.githubusercontent.com/36420972/94182721-03f9a380-fe67-11ea-8ea9-ae55af0c6a60.jpeg" alt="100 kills" height="700">
+  <img src="https://user-images.githubusercontent.com/36420972/94182721-03f9a380-fe67-11ea-8ea9-ae55af0c6a60.jpeg" alt="100 kills" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94182654-ecbab600-fe66-11ea-97f5-4fee5f6f2396.jpeg" alt="La Momia" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94183056-75395680-fe67-11ea-808e-715713da7389.png" alt="Becerra volumen" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94183220-b598d480-fe67-11ea-9c45-f73fa2bbb96e.jpeg" alt="Higuaran acoso" height="650">
