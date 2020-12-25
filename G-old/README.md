@@ -232,9 +232,14 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/94329821-fa199280-ff83-11ea-9d25-187bb3fae906.png" alt="Aaah me funaron" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103113913-bab61d00-462a-11eb-93d2-192211bd598c.jpeg" alt="ShangaIwi" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103113947-dae5dc00-462a-11eb-9563-d1543536c716.png" alt="Hugo Ultra" height="650">
-  <img src="https://user-images.githubusercontent.com/36420972/103114033-2ef0c080-462b-11eb-89ba-16472e7a9cb4.png" alt="Hugo sindrome" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114033-2ef0c080-462b-11eb-89ba-16472e7a9cb4.png" alt="Hugo sindrome" height="550">
   <img src="https://user-images.githubusercontent.com/36420972/103114048-3f08a000-462b-11eb-8477-c0a1cfe95055.png" alt="Grupo Niche Observen" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114159-9870cf00-462b-11eb-9879-7335e3f601d9.png" alt="Gabo Daniel" height="550">
+  <img src="https://user-images.githubusercontent.com/36420972/103114312-074e2800-462c-11eb-83fd-b05f34269260.png" alt="Becerra pera" height="550">
+  <img src="https://user-images.githubusercontent.com/36420972/103114350-2ea4f500-462c-11eb-8a26-a5b93cc96f0f.png" alt="Higuacosas github" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114379-4e3c1d80-462c-11eb-90a4-8652fa92b1b6.png" alt="tono_qepd" height="650">
+  <img src="Sasuke ecce homo" alt="https://user-images.githubusercontent.com/36420972/103114401-66ac3800-462c-11eb-9e90-383c9e1c7928.png" height="650">
   <img src="" alt="funaron" height="650">
   <img src="" alt="funaron" height="650">
+  
 </p>
