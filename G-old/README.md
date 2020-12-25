@@ -229,6 +229,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/94184475-9307bb00-fe69-11ea-8c95-25a53182b450.jpeg" alt="Podio Becerra KDA" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94184133-11179200-fe69-11ea-96de-6f0e8d73a869.png" alt="Willybear" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94184239-3ad0b900-fe69-11ea-8c75-11cd364560e6.jpg" alt="Daniel Doom" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103115299-146d1600-4630-11eb-86ee-30ad4bbed08c.jpeg" alt="Color Becerra" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/94329821-fa199280-ff83-11ea-9d25-187bb3fae906.png" alt="Aaah me funaron" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103113913-bab61d00-462a-11eb-93d2-192211bd598c.jpeg" alt="ShangaIwi" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103113947-dae5dc00-462a-11eb-9563-d1543536c716.png" alt="Hugo Ultra" height="650">
@@ -239,10 +240,11 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/103114350-2ea4f500-462c-11eb-8a26-a5b93cc96f0f.png" alt="Higuacosas github" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114379-4e3c1d80-462c-11eb-90a4-8652fa92b1b6.png" alt="Toño QEPD" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114401-66ac3800-462c-11eb-9e90-383c9e1c7928.png" alt="Sasuke ecce homo" height="650">
-  <img src="https://user-images.githubusercontent.com/36420972/103115208-b17b7f00-462f-11eb-927c-d8aa7c516589.jpeg" alt="Thanos Higuaran" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114489-c6a2de80-462c-11eb-8d48-0188709ad1fa.png" alt="G2 PPC" height="600">
+  <img src="https://user-images.githubusercontent.com/36420972/103115208-b17b7f00-462f-11eb-927c-d8aa7c516589.jpeg" alt="Thanos Higuaran" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114537-f18d3280-462c-11eb-9715-cf536178f4d6.png" alt="G2 PPC Campeón" height="600">
-  <img src="https://user-images.githubusercontent.com/36420972/103114560-14b7e200-462d-11eb-8b9b-9d6af0f66953.png" alt="Buenos dias humanas" height="650"><br>
+  <img src="https://user-images.githubusercontent.com/36420972/103114560-14b7e200-462d-11eb-8b9b-9d6af0f66953.png" alt="Buenos dias humanas" height="650">
+  <br>
   <img src="https://user-images.githubusercontent.com/36420972/103114590-44ff8080-462d-11eb-94fe-38085b3416f3.png" alt="Perro lambeculo" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114611-59dc1400-462d-11eb-83d3-16892234a14f.png" alt="Mujer rola" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114700-b0495280-462d-11eb-9ea7-a076d945ab8d.png" alt="Mi loco dele pa afuera discord" height="650">
