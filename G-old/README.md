@@ -242,8 +242,8 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/103114489-c6a2de80-462c-11eb-8d48-0188709ad1fa.png" alt="G2 PPC" height="600">
   <img src="https://user-images.githubusercontent.com/36420972/103114537-f18d3280-462c-11eb-9715-cf536178f4d6.png" alt="G2 PPC Campeón" height="600">
   <img src="https://user-images.githubusercontent.com/36420972/103114560-14b7e200-462d-11eb-8b9b-9d6af0f66953.png" alt="Buenos dias humanas" height="650">
-  <img src="" alt="funaron" height="650">
-  <img src="" alt="funaron" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114590-44ff8080-462d-11eb-94fe-38085b3416f3.png" alt="Perro lambeculo" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114611-59dc1400-462d-11eb-83d3-16892234a14f.png" alt="Mujer rola" height="650">
   <img src="" alt="funaron" height="650">
   
 </p>
