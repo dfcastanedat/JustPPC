@@ -244,6 +244,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/103115208-b17b7f00-462f-11eb-927c-d8aa7c516589.jpeg" alt="Thanos Higuaran" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114537-f18d3280-462c-11eb-9715-cf536178f4d6.png" alt="G2 PPC Campeón" height="600">
   <img src="https://user-images.githubusercontent.com/36420972/103115345-3bc3e300-4630-11eb-83fb-8375e04afbe1.png" alt="Becerra su propio jefe" height="650">
+  <br>
   <img src="https://user-images.githubusercontent.com/36420972/103114560-14b7e200-462d-11eb-8b9b-9d6af0f66953.png" alt="Buenos dias humanas" height="650">
   <br>
   <img src="https://user-images.githubusercontent.com/36420972/103114590-44ff8080-462d-11eb-94fe-38085b3416f3.png" alt="Perro lambeculo" height="650">
