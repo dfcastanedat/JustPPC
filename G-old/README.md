@@ -232,9 +232,9 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/94329821-fa199280-ff83-11ea-9d25-187bb3fae906.png" alt="Aaah me funaron" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103113913-bab61d00-462a-11eb-93d2-192211bd598c.jpeg" alt="ShangaIwi" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103113947-dae5dc00-462a-11eb-9563-d1543536c716.png" alt="Hugo Ultra" height="650">
-  <img src="" alt="Aaah me funaron" height="650">
-  <img src="" alt="Aaah me funaron" height="650">
-  <img src="" alt="Aaah me funaron" height="650">
-  <img src="" alt="Aaah me funaron" height="650">
-  <img src="" alt="Aaah me funaron" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114033-2ef0c080-462b-11eb-89ba-16472e7a9cb4.png" alt="Hugo sindrome" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114048-3f08a000-462b-11eb-8477-c0a1cfe95055.png" alt="Grupo Niche Observen" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114159-9870cf00-462b-11eb-9879-7335e3f601d9.png" alt="Gabo Daniel" height="550">
+  <img src="" alt="funaron" height="650">
+  <img src="" alt="funaron" height="650">
 </p>
