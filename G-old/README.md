@@ -237,9 +237,9 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/103114159-9870cf00-462b-11eb-9879-7335e3f601d9.png" alt="Gabo Daniel" height="550">
   <img src="https://user-images.githubusercontent.com/36420972/103114312-074e2800-462c-11eb-83fd-b05f34269260.png" alt="Becerra pera" height="550">
   <img src="https://user-images.githubusercontent.com/36420972/103114350-2ea4f500-462c-11eb-8a26-a5b93cc96f0f.png" alt="Higuacosas github" height="650">
-  <img src="https://user-images.githubusercontent.com/36420972/103114379-4e3c1d80-462c-11eb-90a4-8652fa92b1b6.png" alt="tono_qepd" height="650">
-  <img src="Sasuke ecce homo" alt="https://user-images.githubusercontent.com/36420972/103114401-66ac3800-462c-11eb-9e90-383c9e1c7928.png" height="650">
-  <img src="" alt="funaron" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114379-4e3c1d80-462c-11eb-90a4-8652fa92b1b6.png" alt="Toño QEPD" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114401-66ac3800-462c-11eb-9e90-383c9e1c7928.png" alt="Sasuke ecce homo" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114489-c6a2de80-462c-11eb-8d48-0188709ad1fa.png" alt="G2 PPC" height="650">
   <img src="" alt="funaron" height="650">
   
 </p>
