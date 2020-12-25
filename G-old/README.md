@@ -127,7 +127,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/53702304-7f9e8600-3dd3-11e9-8c15-f0464cc823f9.png" alt="Becerra's crush">
   <img src="https://user-images.githubusercontent.com/36420972/53772991-79cda100-3eb6-11e9-901b-65dee9430a71.png" alt="Valeria let me in">
   <img src="https://user-images.githubusercontent.com/36420972/83345592-96839f00-a2da-11ea-843b-89d077c8b24e.jpeg" alt="Dream team de iwi" height="650">
-    <img src="https://user-images.githubusercontent.com/36420972/83345646-4bb65700-a2db-11ea-9703-1865e0487bfd.jpeg" alt="Calamardo Iwi">
+  <img src="https://user-images.githubusercontent.com/36420972/83345646-4bb65700-a2db-11ea-9703-1865e0487bfd.jpeg" alt="Calamardo Iwi">
   <img src="https://user-images.githubusercontent.com/36420972/56477886-0553bf00-6470-11e9-9535-87e2e4a1df61.jpeg" alt="Daniel Ximena iwi" height="840">
   <img src="https://user-images.githubusercontent.com/36420972/56478106-36cd8a00-6472-11e9-99e9-9266f13612c9.jpeg" alt="Iwi perder peso">
   <img src="https://user-images.githubusercontent.com/36420972/56477826-6b8c1200-646f-11e9-998f-f844fa398ffa.jpeg" alt="Escala relaciones Daniel" height="960">
@@ -241,7 +241,7 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/103114401-66ac3800-462c-11eb-9e90-383c9e1c7928.png" alt="Sasuke ecce homo" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114489-c6a2de80-462c-11eb-8d48-0188709ad1fa.png" alt="G2 PPC" height="600">
   <img src="https://user-images.githubusercontent.com/36420972/103114537-f18d3280-462c-11eb-9715-cf536178f4d6.png" alt="G2 PPC Campeón" height="600">
-  <img src="https://user-images.githubusercontent.com/36420972/103114560-14b7e200-462d-11eb-8b9b-9d6af0f66953.png" alt="Buenos dias humanas" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114560-14b7e200-462d-11eb-8b9b-9d6af0f66953.png" alt="Buenos dias humanas" height="650"><br>
   <img src="https://user-images.githubusercontent.com/36420972/103114590-44ff8080-462d-11eb-94fe-38085b3416f3.png" alt="Perro lambeculo" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114611-59dc1400-462d-11eb-83d3-16892234a14f.png" alt="Mujer rola" height="650">
   <img src="" alt="funaron" height="650">
