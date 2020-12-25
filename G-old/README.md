@@ -250,8 +250,8 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/103114795-17ff9d80-462e-11eb-80cf-5a3a8b0fba44.png" alt="Esta en Cooldown" height="550">
   <img src="https://user-images.githubusercontent.com/36420972/103114821-2e0d5e00-462e-11eb-896c-d09f94bc5dd8.png" alt="Higuaran mashup" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114850-4aa99600-462e-11eb-8139-a557db25da81.png" alt="Pantallas de ipad" height="500">
-  <img src="" alt="funaron" height="650">
-  <img src="" alt="funaron" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114889-7f1d5200-462e-11eb-8e10-59d57f79a991.png" alt="Becerra payasito" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114915-98260300-462e-11eb-9b17-01c940797088.png" alt="Lucian palmira" height="650">
   <img src="" alt="funaron" height="650">
   
 </p>
