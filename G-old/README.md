@@ -246,8 +246,11 @@ Año
   <img src="https://user-images.githubusercontent.com/36420972/103114611-59dc1400-462d-11eb-83d3-16892234a14f.png" alt="Mujer rola" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114700-b0495280-462d-11eb-9ea7-a076d945ab8d.png" alt="Mi loco dele pa afuera discord" height="650">
   <img src="https://user-images.githubusercontent.com/36420972/103114721-cce58a80-462d-11eb-8c12-3e21a779ab7f.png" alt="Sergio Becerra 7pm" height="650">
-  <img src="https://user-images.githubusercontent.com/36420972/103114742-e555a500-462d-11eb-8d73-de4969c560a3.png" alt="funaron" height="650">
-  <img src="" alt="Higuaran empleo" height="550">
+  <img src="https://user-images.githubusercontent.com/36420972/103114742-e555a500-462d-11eb-8d73-de4969c560a3.png" alt="Higuaran empleo" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114795-17ff9d80-462e-11eb-80cf-5a3a8b0fba44.png" alt="Esta en Cooldown" height="550">
+  <img src="https://user-images.githubusercontent.com/36420972/103114821-2e0d5e00-462e-11eb-896c-d09f94bc5dd8.png" alt="Higuaran mashup" height="650">
+  <img src="https://user-images.githubusercontent.com/36420972/103114850-4aa99600-462e-11eb-8139-a557db25da81.png" alt="Pantallas de ipad" height="500">
+  <img src="" alt="funaron" height="650">
   <img src="" alt="funaron" height="650">
   <img src="" alt="funaron" height="650">
   
