@@ -270,6 +270,6 @@ Año
     <img src="https://user-images.githubusercontent.com/36420972/103580098-93bbde80-4ea7-11eb-977d-c9d9a0f47d97.png" alt="Higuaran sabados felices" height="650">
     <img src="https://user-images.githubusercontent.com/36463265/117512625-944bab00-af55-11eb-8ad6-f2e0d4f62410.png" alt="La mente de Iwi">
     <img src="https://user-images.githubusercontent.com/36463265/117516464-c8779980-af5e-11eb-986e-2f1a2570d8e3.png" alt="Sebas y Lau pitufos">
-    <img src "https://user-images.githubusercontent.com/36463265/117516550-155b7000-af5f-11eb-9325-68fd49bfa4b1.png" alt="CoronaBecerra">
+    <img src="https://user-images.githubusercontent.com/36463265/117516550-155b7000-af5f-11eb-9325-68fd49bfa4b1.png" alt="CoronaBecerra">
 
 </p>
