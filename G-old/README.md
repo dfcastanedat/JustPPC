@@ -272,4 +272,5 @@ Año
     <img src="https://user-images.githubusercontent.com/36463265/117516464-c8779980-af5e-11eb-986e-2f1a2570d8e3.png" alt="Sebas y Lau pitufos">
     <img src="https://user-images.githubusercontent.com/36463265/117516550-155b7000-af5f-11eb-9325-68fd49bfa4b1.png" alt="CoronaBecerra" height="650">
     <img src="https://user-images.githubusercontent.com/36463265/117516733-8bf86d80-af5f-11eb-94c5-f312c125fb04.png" alt="no puedo toi chikito">
+    <img src="https://user-images.githubusercontent.com/36463265/117517531-e1357e80-af61-11eb-9cda-6fbe964debda.png" alt ="Becerra Mandela">
 </p>
