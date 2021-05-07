@@ -271,5 +271,5 @@ Año
     <img src="https://user-images.githubusercontent.com/36463265/117512625-944bab00-af55-11eb-8ad6-f2e0d4f62410.png" alt="La mente de Iwi">
     <img src="https://user-images.githubusercontent.com/36463265/117516464-c8779980-af5e-11eb-986e-2f1a2570d8e3.png" alt="Sebas y Lau pitufos">
     <img src="https://user-images.githubusercontent.com/36463265/117516550-155b7000-af5f-11eb-9325-68fd49bfa4b1.png" alt="CoronaBecerra" height="650">
-
+    <img src="https://user-images.githubusercontent.com/36463265/117516733-8bf86d80-af5f-11eb-94c5-f312c125fb04.png" alt="no puedo toi chikito">
 </p>
