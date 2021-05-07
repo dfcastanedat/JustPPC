@@ -274,7 +274,7 @@ Año
     <img src="https://user-images.githubusercontent.com/36463265/117516733-8bf86d80-af5f-11eb-94c5-f312c125fb04.png" alt="no puedo toi chikito">
     <img src="https://user-images.githubusercontent.com/36463265/117517531-e1357e80-af61-11eb-9cda-6fbe964debda.png" alt ="Becerra Mandela">
     <img src="https://user-images.githubusercontent.com/36463265/117517596-193cc180-af62-11eb-86f4-aa82e95497b5.png" alt="Mesitas del colegio">
-    <img src="https://user-images.githubusercontent.com/36463265/117517643-44bfac00-af62-11eb-9b2b-011be974caec.png" alt="brasier">
+    <img src="https://user-images.githubusercontent.com/36463265/117517643-44bfac00-af62-11eb-9b2b-011be974caec.png" alt="brasier" height="650">
     <img src="https://user-images.githubusercontent.com/36463265/117517704-6c167900-af62-11eb-9800-0a0899c346bc.png" alt="Alto ahi gran hpta">
     <img src="https://user-images.githubusercontent.com/36463265/117517751-91a38280-af62-11eb-92d4-a560edd73a22.png" alt="Iwi camello">
     <img src="https://user-images.githubusercontent.com/36463265/117517772-ac75f700-af62-11eb-8f01-7dae7bf46920.png" alt="Iwi sin llegar">
@@ -283,7 +283,7 @@ Año
     <img src="https://user-images.githubusercontent.com/36463265/117517858-04acf900-af63-11eb-8f22-4104edb9cdf8.png" alt="PPC misterio a la orden">
     <img src="https://user-images.githubusercontent.com/36463265/117517876-1db5aa00-af63-11eb-8217-14e95b00eba5.png" alt="Valeria y Karen">
     <img src="https://user-images.githubusercontent.com/36463265/117517908-42aa1d00-af63-11eb-9f16-8446f78b091c.png" alt="Iwi Karen">
-    <img src="https://user-images.githubusercontent.com/36463265/117517930-5786b080-af63-11eb-9591-acb21d3f2f7f.png" alt="Chistoso me rei">
+    <img src="https://user-images.githubusercontent.com/36463265/117517930-5786b080-af63-11eb-9591-acb21d3f2f7f.png" alt="Chistoso me rei" height="650">
     <img src="https://user-images.githubusercontent.com/36463265/117517946-72f1bb80-af63-11eb-8ece-b686f5bfd40a.png" alt="Karen bigote">
     <img src="https://user-images.githubusercontent.com/36463265/117517966-93217a80-af63-11eb-9401-6dfb7c1d083d.png" alt="Iwi Claudia">
 </p>
